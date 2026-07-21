@@ -1,0 +1,44 @@
+# robots.txt — Rassegna Edile
+# Policy: massima indicizzazione per i motori di ricerca
+# e accesso esplicito ai crawler dei motori generativi (GEO).
+
+User-agent: *
+Allow: /
+Disallow: /cerca
+Disallow: /api/
+
+# --- Crawler AI: consentiti esplicitamente ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+Sitemap: https://www.rassegnaedile.it/sitemap.xml

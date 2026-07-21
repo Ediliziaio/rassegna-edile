@@ -1,0 +1,72 @@
+# Rassegna Edile
+
+> Rassegna Edile è la testata giornalistica online verticale sull'edilizia
+> italiana: ristrutturazioni, serramenti e infissi, efficienza energetica,
+> materiali da costruzione, impianti, incentivi e bonus edilizi, tecnologie
+> e normative. Contenuti tecnici verificati dalla redazione, citabili con
+> attribuzione e link alla fonte.
+
+## Pagine principali
+
+- [Home](https://www.rassegnaedile.it/): ultimi articoli e sezioni
+- [Redazione](https://www.rassegnaedile.it/redazione/): autori e competenze
+- [Mappa del sito](https://www.rassegnaedile.it/mappa-del-sito/): indice completo dei contenuti
+
+## Ristrutturazioni
+
+- [Ristrutturare casa: da dove iniziare? Metodo, budget e ordine dei lavori](https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/): Ristrutturare casa da dove iniziare: budget, priorità, professionisti, pratiche e ordine dei lavori. Il metodo passo passo per non sbagliare.
+- [Ristrutturare la cucina: guida a costi, layout, impianti e materiali](https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-cucina-guida/): Ristrutturare la cucina: costi per fascia, scelta del layout, impianti idraulici ed elettrici, piani e rivestimenti a confronto, tempi e detrazioni.
+- [Ristrutturare il bagno: costi, tempi e voci di spesa nel 2026](https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-bagno-costi-tempi/): Quanto costa ristrutturare il bagno nel 2026? Voci di costo al mq, tempi di cantiere, come risparmiare e gli errori da evitare. Guida con tabella prezzi.
+- [Ristrutturazione chiavi in mano: cos'è, quanto costa e come funziona nel 2026](https://www.rassegnaedile.it/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/): Ristrutturazione chiavi in mano: costi al mq, fasi del cantiere, contratto, pratiche edilizie e come scegliere l'impresa. La guida completa 2026.
+
+## Serramenti e Infissi
+
+- [Zanzariere: guida alla scelta tra rullo, plissettata, magnetica e scorrevole](https://www.rassegnaedile.it/serramenti-infissi/zanzariere-guida-scelta/): Come scegliere le zanzariere: rullo, plissettata, magnetica, fissa o scorrevole. Prezzi al mq, misure, montaggio fai da te o professionale e manutenzione.
+- [Sostituzione infissi: costi 2026 per materiale, posa in opera e pratiche da seguire](https://www.rassegnaedile.it/serramenti-infissi/sostituzione-infissi-costi-guida/): Costi della sostituzione infissi nel 2026: prezzi al mq per PVC, alluminio e legno, posa su vecchio telaio o nuova muratura, tempi e detrazioni possibili.
+- [Triplo vetro: quando conviene davvero e quanto fa risparmiare in bolletta](https://www.rassegnaedile.it/serramenti-infissi/finestre-triplo-vetro-conviene/): Il triplo vetro conviene? Trasmittanza, gas argon, vetri selettivi, costi extra al mq e risparmio energetico reale: la guida per decidere in base al clima.
+- [Serramenti in PVC, alluminio o legno: il confronto definitivo per scegliere senza errori](https://www.rassegnaedile.it/serramenti-infissi/serramenti-pvc-alluminio-legno-confronto/): PVC, alluminio o legno per i serramenti? Confronto su prestazioni termiche, durata, manutenzione e prezzi al mq, con tabella e consigli per ogni esigenza.
+
+## Efficienza Energetica
+
+- [Migliori pannelli solari 2026: marche, criteri di scelta e schede tecniche a confronto](https://www.rassegnaedile.it/efficienza-energetica/migliori-marche-pannelli-solari/): Quali sono i migliori pannelli solari? Criteri oggettivi, efficienza, garanzie, degrado e panorama dei principali produttori a confronto.
+- [Come funzionano i pannelli solari: dall'effetto fotovoltaico alla bolletta](https://www.rassegnaedile.it/efficienza-energetica/come-funzionano-pannelli-solari/): Come funzionano i pannelli solari spiegato bene: effetto fotovoltaico, inverter, autoconsumo, accumulo e immissione in rete. Guida tecnica ma chiara.
+- [Manutenzione dei pannelli solari: guida pratica a pulizia, controlli e costi](https://www.rassegnaedile.it/efficienza-energetica/manutenzione-pannelli-solari/): Come fare la manutenzione dei pannelli solari: pulizia, controlli periodici, costi medi e errori da evitare per mantenere alta la resa dell'impianto.
+- [Cappotto termico esterno: guida a materiali, spessori, costi e posa](https://www.rassegnaedile.it/efficienza-energetica/cappotto-termico-esterno-guida/): Cappotto termico: come funziona, confronto tra EPS, lana di roccia e sughero, spessori consigliati, costi al mq, fasi di posa ed errori da evitare.
+- [Costo pannelli solari 2026: prezzi per taglia, accumulo e rientro dell'investimento](https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-costi-prezzi/): Quanto costano i pannelli solari nel 2026? Prezzi reali per impianti da 3, 4,5 e 6 kW, costo al kWp, accumulo e tempi di rientro: la guida ai preventivi.
+- [Pompa di calore: guida completa a funzionamento, tipologie, costi e incentivi](https://www.rassegnaedile.it/efficienza-energetica/pompa-di-calore-guida-completa/): Pompa di calore: come funziona, differenze tra aria-acqua, aria-aria e geotermica, costi reali di installazione, consumi e incentivi. La guida completa.
+- [Pannelli solari fotovoltaico: la guida completa 2026 per la tua casa](https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/): Costi, incentivi, taglie, resa per regione e installazione: tutto quello che serve sapere sui pannelli solari fotovoltaico prima di investire.
+
+## Materiali da Costruzione
+
+- [Legno lamellare: guida completa a caratteristiche, impieghi e costi nelle costruzioni](https://www.rassegnaedile.it/materiali-costruzione/legno-lamellare-costruzioni-guida/): Legno lamellare e X-lam nelle costruzioni: caratteristiche, campi d'impiego, durabilità, costi e confronto con il cemento armato.
+- [Migliori isolanti termici a confronto: conducibilità, costi e impieghi ideali](https://www.rassegnaedile.it/materiali-costruzione/migliori-isolanti-termici-confronto/): Confronto completo tra EPS, XPS, lana di roccia, sughero, fibra di legno, cellulosa e aerogel: conducibilità, costi al mq, impieghi ideali e sostenibilità.
+- [Blocchi termoisolanti in laterizio: guida a tipologie, prestazioni e costi al mq](https://www.rassegnaedile.it/materiali-costruzione/blocchi-termoisolanti-laterizi-guida/): Blocchi termoisolanti e laterizi a confronto: trasmittanza, sfasamento, costi al mq e guida alla scelta per pareti ad alta efficienza energetica.
+- [Cemento sostenibile: guida ai materiali innovativi che riducono la CO2 in cantiere](https://www.rassegnaedile.it/materiali-costruzione/cemento-sostenibile-materiali-innovativi/): Cemento sostenibile e materiali innovativi per l'edilizia: calcestruzzi riciclati, geopolimeri, canapa, prestazioni, costi e impatto ambientale.
+
+## Impianti
+
+- [Ventilazione meccanica controllata (VMC): guida completa a tipologie, costi e manutenzione](https://www.rassegnaedile.it/impianti/ventilazione-meccanica-controllata-guida/): Ventilazione meccanica controllata: come funziona, singolo e doppio flusso, recupero di calore, costi, consumi elettrici e manutenzione filtri.
+- [Domotica e casa intelligente: guida a sistemi, costi e automazioni che contano davvero](https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/): Domotica per la casa: KNX, wireless e stand-alone a confronto, cosa automatizzare, costi per livello, risparmio energetico e fotovoltaico.
+- [Impianto elettrico a norma CEI 64-8: cosa prescrive, livelli e costi del rifacimento](https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/): Cosa prescrive la norma CEI 64-8 per l'impianto elettrico: livelli 1-3, numero di prese, costi del rifacimento e dichiarazione di conformità.
+- [Rifacimento impianto idraulico: costi, materiali e tempi della sostituzione completa](https://www.rassegnaedile.it/impianti/rifacimento-impianto-idraulico-costi/): Rifacimento impianto idraulico: costi al punto acqua e al mq, materiali delle tubazioni, tempi di cantiere e dichiarazione di conformità.
+
+## Incentivi e Bonus
+
+- [Detrazione ristrutturazioni al 50%: come funziona, massimali e documenti](https://www.rassegnaedile.it/incentivi-bonus/detrazione-ristrutturazioni-50-come-funziona/): Detrazione ristrutturazioni 50%: massimale 96.000 euro, 10 rate, interventi ammessi, bonifico parlante e documenti da conservare. Guida completa.
+- [Conto Termico 3.0: come funziona l'incentivo del GSE per l'efficienza energetica](https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/): Conto Termico 3.0: cos'è, chi può richiederlo, interventi ammessi, incentivo diretto vs detrazione, tempi di erogazione e domanda al GSE. Guida completa.
+- [Incentivi fotovoltaico 2026: detrazioni, Conto Termico e valorizzazione dell'energia](https://www.rassegnaedile.it/incentivi-bonus/incentivi-fotovoltaico-2026/): Incentivi fotovoltaico: detrazione fiscale, ritiro dedicato, comunità energetiche e adempimenti GSE. Guida prudente e aggiornata.
+- [Bonus edilizi 2026: la guida completa a tutte le agevolazioni per la casa](https://www.rassegnaedile.it/incentivi-bonus/bonus-edilizi-2026-guida-completa/): Bonus edilizi 2026: detrazione ristrutturazioni, Conto Termico, fotovoltaico, mobili, barriere architettoniche e sismabonus. Guida completa.
+
+## Tecnologie e Innovazione
+
+- [Stampa 3D in edilizia: come si costruiscono le case, costi e stato dell'arte](https://www.rassegnaedile.it/tecnologie-innovazione/stampa-3d-edilizia-case/): Stampa 3D in edilizia: come si costruiscono case con la stampa 3D, tempi, costi, casi reali, limiti normativi e prospettive per l'Italia.
+- [Case prefabbricate: prezzi al mq, tipologie e come scegliere il produttore](https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/): Case prefabbricate: prezzi al mq, tipologie in legno, cemento e steel frame, tempi di consegna, pratiche edilizie e consigli per scegliere.
+- [Intelligenza artificiale in edilizia: applicazioni reali nei cantieri italiani](https://www.rassegnaedile.it/tecnologie-innovazione/intelligenza-artificiale-cantieri-edili/): Intelligenza artificiale in edilizia: progettazione generativa, sicurezza in cantiere, manutenzione predittiva e computi. Applicazioni e limiti.
+- [BIM edilizia: cos'è, come funziona e perché conviene a imprese e professionisti](https://www.rassegnaedile.it/tecnologie-innovazione/bim-edilizia-guida/): Cos'è il BIM in edilizia: livelli di maturità, software, interoperabilità IFC, obblighi negli appalti pubblici e vantaggi per imprese e professionisti.
+
+## Normative
+
+- [Salva casa e sanatoria edilizia: cosa prevede il decreto e come funziona](https://www.rassegnaedile.it/normative/salva-casa-sanatoria-edilizia/): Decreto Salva casa e sanatoria edilizia: difformità sanabili e non sanabili, procedura, ruolo del tecnico e cautele. Guida prudente e aggiornata.
+- [Direttiva Case Green: cosa cambia per edifici, proprietari e imprese](https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/): Direttiva Case Green (UE 2024/1275): obiettivi, tappe verso edifici a emissioni zero, impatto su ristrutturazioni e mercato. Cosa sapere ora.
+- [Sicurezza in cantiere: la guida al D.Lgs 81/2008 per committenti e imprese](https://www.rassegnaedile.it/normative/sicurezza-cantiere-dlgs-81-guida/): Sicurezza in cantiere e D.Lgs 81/2008: obblighi, figure (CSP, CSE), DUVRI, POS, responsabilità del committente privato e casi pratici spiegati chiaro.
+- [CILA, SCIA e permesso di costruire: le differenze spiegate in modo chiaro](https://www.rassegnaedile.it/normative/cila-scia-permesso-costruire-differenze/): CILA, SCIA o permesso di costruire? Guida chiara ai titoli abilitativi edilizi: quando serve cosa, tempi, costi indicativi e ruolo del tecnico.

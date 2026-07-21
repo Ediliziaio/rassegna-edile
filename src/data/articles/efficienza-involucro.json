@@ -1,0 +1,406 @@
+[
+  {
+    "slug": "pompa-di-calore-guida-completa",
+    "category": "efficienza-energetica",
+    "title": "Pompa di calore: guida completa a funzionamento, tipologie, costi e incentivi",
+    "metaTitle": "Pompa di calore: guida completa 2026, costi e tipologie",
+    "metaDescription": "Pompa di calore: come funziona, differenze tra aria-acqua, aria-aria e geotermica, costi reali di installazione, consumi e incentivi. La guida completa.",
+    "primaryKeyword": "pompa di calore",
+    "answerBox": "La pompa di calore è un generatore che trasferisce energia termica da una fonte esterna (aria, acqua o terreno) all'impianto di riscaldamento, producendo 3-5 kWh termici per ogni kWh elettrico consumato. Costi indicativi: 8.000-15.000 euro installata per una monofamiliare. Conviene soprattutto abbinata a radiante a pavimento e fotovoltaico.",
+    "author": "Davide Riva",
+    "authorRole": "Termotecnico",
+    "publishedAt": "2026-05-20",
+    "updatedAt": "2026-07-21",
+    "heroAlt": "Pompa di calore aria-acqua installata all'esterno di una villetta unifamiliare",
+    "pillar": false,
+    "sections": [
+      {
+        "id": "cos-e-come-funziona",
+        "h2": "Cos'è una pompa di calore e come funziona?",
+        "paragraphs": [
+          "La pompa di calore è una macchina termodinamica che non genera calore bruciando combustibile, ma lo «sposta» da un ambiente più freddo a uno più caldo, sfruttando un ciclo frigorifero alimentato a energia elettrica. Il principio è lo stesso del frigorifero domestico, ma applicato al riscaldamento degli ambienti: un refrigerante evapora assorbendo calore dalla fonte esterna, viene compresso (è questa la fase che consuma elettricità), condensa cedendo calore all'impianto e infine si espande ricominciando il ciclo.",
+          "Il punto chiave è l'efficienza: mentre una caldaia a condensazione rende al massimo il 105-108% rispetto al potere calorifico del gas, una pompa di calore in buone condizioni di esercizio produce da 3 a 5 kWh termici per ogni kWh elettrico assorbito. Questo rapporto si chiama COP (Coefficient of Performance) ed è il parametro che determina la convenienza economica dell'intero investimento.",
+          "Le pompe di calore moderne sono reversibili: la stessa macchina riscalda in inverno e raffresca in estate, e nella maggior parte dei casi produce anche acqua calda sanitaria. Per questo oggi rappresentano lo standard progettuale nelle nuove costruzioni a energia quasi zero e una delle principali alternative alla caldaia a gas nelle ristrutturazioni."
+        ]
+      },
+      {
+        "id": "tipologie",
+        "h2": "Quali tipologie di pompa di calore esistono?",
+        "paragraphs": [
+          "La classificazione delle pompe di calore si basa sulla fonte da cui prelevano il calore e sul fluido a cui lo cedono. La scelta della tipologia incide su costi, resa invernale, ingombri e iter autorizzativo.",
+          "Le aria-acqua sono oggi la soluzione più diffusa nelle ristrutturazioni residenziali italiane: un'unità esterna capta il calore dall'aria e lo cede all'acqua dell'impianto di riscaldamento. Le aria-aria sono i comuni climatizzatori a split, efficienti in raffrescamento e nel riscaldamento delle mezze stagioni. Le geotermiche prelevano calore dal terreno tramite sonde e offrono le rese più stabili, ma richiedono scavi o perforazioni."
+        ],
+        "table": {
+          "headers": ["Tipologia", "Fonte di calore", "COP medio stagionale", "Costo installato indicativo", "Ideale per"],
+          "rows": [
+            ["Aria-acqua monoblocco", "Aria esterna", "3,0-3,8", "8.000-14.000 euro", "Villette con radiante o termosifoni sovradimensionati"],
+            ["Aria-acqua splittata", "Aria esterna", "3,0-3,8", "9.000-15.000 euro", "Climi rigidi, unità idraulica protetta dal gelo"],
+            ["Aria-aria (multisplit)", "Aria esterna", "3,5-4,5", "2.500-6.000 euro", "Appartamenti, integrazione, raffrescamento estivo"],
+            ["Acqua-acqua", "Falda acquifera", "4,5-5,5", "20.000-35.000 euro", "Grandi edifici con disponibilità di falda e autorizzazioni"],
+            ["Geotermica (sonde verticali)", "Terreno", "4,0-5,0", "25.000-40.000 euro", "Nuove costruzioni con spazio per perforazioni"]
+          ]
+        },
+        "subsections": [
+          {
+            "h3": "Monoblocco o splittata: quale scegliere?",
+            "paragraphs": [
+              "Nella versione monoblocco tutto il circuito frigorifero è nell'unità esterna e in casa entrano solo tubi dell'acqua: installazione più semplice, ma attenzione al gelo sulle tubazioni esterne nei climi rigidi. Nella splittata il circuito frigorifero si estende fino a un'unità idraulica interna: più sicura contro il gelo, ma richiede un frigorista abilitato F-Gas per il collegamento delle linee di refrigerante."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cop-consumi",
+        "h2": "COP, SCOP e consumi reali: quanto consuma una pompa di calore?",
+        "paragraphs": [
+          "Il COP è un valore istantaneo, misurato a condizioni di laboratorio (per esempio 7 °C esterni e 35 °C di mandata). Per valutare i consumi reali conta lo SCOP, il coefficiente medio stagionale, che tiene conto delle temperature effettive della zona climatica. Un'aria-acqua di buona qualità in zona climatica E lavora tipicamente con SCOP tra 3,0 e 3,8 se abbinata a un impianto a bassa temperatura.",
+          "Esempio numerico: un appartamento da 100 mq in classe energetica D richiede circa 10.000 kWh termici all'anno per riscaldamento. Con SCOP 3,5 la pompa di calore consuma circa 2.850 kWh elettrici, contro i circa 1.050 mc di gas di una caldaia a condensazione. Con i prezzi energetici degli ultimi anni la convenienza dipende dal rapporto tra costo dell'elettricità e costo del gas: diventa netta quando si autoconsuma energia da fotovoltaico.",
+          "Attenzione alla temperatura di mandata: è il fattore che più influenza i consumi. A 35 °C di mandata un'aria-acqua lavora con COP superiori a 4; a 55 °C scende verso 2,5. Ecco perché l'abbinamento ideale è con pavimento radiante, fancoil o termosifoni sovradimensionati."
+        ]
+      },
+      {
+        "id": "quanto-costa",
+        "h2": "Quanto costa installare una pompa di calore?",
+        "paragraphs": [
+          "Per una villetta unifamiliare di 120-180 mq il costo chiavi in mano di un'aria-acqua da 8-12 kW, comprensivo di macchina, accumulo per acqua calda sanitaria, opere idrauliche ed elettriche, va indicativamente da 8.000 a 15.000 euro, IVA e pratiche incluse. Macchine di taglia maggiore, accumuli da 300 litri o lavori di adattamento dell'impianto possono portare il preventivo verso i 18.000-20.000 euro.",
+          "Le voci che pesano di più sul preventivo sono: la macchina (40-50% del totale), l'accumulo sanitario e i componenti idraulici (20-25%), la manodopera (15-20%) e l'eventuale potenziamento del contatore elettrico. Un impianto aria-aria multisplit costa molto meno, da 2.500 a 6.000 euro, ma non produce acqua calda sanitaria e non sempre copre tutto il fabbisogno invernale."
+        ],
+        "list": [
+          "Aria-acqua 6-8 kW installata: 8.000-12.000 euro",
+          "Aria-acqua 10-14 kW con accumulo ACS: 11.000-16.000 euro",
+          "Multisplit aria-aria 3-4 unità: 2.500-6.000 euro",
+          "Geotermica con sonde verticali: 25.000-40.000 euro",
+          "Eventuale adeguamento radiatori o fancoil: 150-400 euro per elemento"
+        ]
+      },
+      {
+        "id": "fotovoltaico-radiante",
+        "h2": "Perché abbinare pompa di calore, fotovoltaico e riscaldamento a pavimento?",
+        "paragraphs": [
+          "Il trinomio pompa di calore, pavimento radiante e fotovoltaico è oggi considerato la configurazione di riferimento per le nuove costruzioni e le ristrutturazioni profonde. Il radiante lavora a 30-35 °C, la temperatura in cui la pompa di calore raggiunge i massimi rendimenti; il fotovoltaico copre una quota significativa dei consumi elettrici della macchina, riducendo la dipendenza dai prezzi dell'energia.",
+          "L'inerzia termica del massetto permette inoltre di far lavorare la pompa di calore nelle ore centrali del giorno, quando il fotovoltaico produce di più: di fatto la soletta si comporta come un accumulo termico gratuito. In una gestione ben regolata, l'autoconsumo può coprire il 30-45% del fabbisogno elettrico annuo della pompa di calore.",
+          "In ristrutturazione, se il pavimento radiante non è fattibile, l'alternativa è la verifica dei termosifoni esistenti: spesso, aumentando la superficie radiante o sostituendo gli elementi con modelli a bassa temperatura, si riesce a lavorare a 45-50 °C di mandata mantenendo rese accettabili. È una valutazione che va sempre affidata a un termotecnico, non al solo installatore."
+        ]
+      },
+      {
+        "id": "quando-conviene",
+        "h2": "Quando conviene davvero sostituire la caldaia con una pompa di calore?",
+        "paragraphs": [
+          "La pompa di calore conviene quasi sempre nelle nuove costruzioni, dove l'involucro è isolato e l'impianto nasce a bassa temperatura. Nelle ristrutturazioni la risposta dipende da tre variabili: dispersioni dell'edificio, temperatura di mandata richiesta e disponibilità di fotovoltaico. In una casa anni '70 senza isolamento e con radiatori dimensionati per 70 °C, l'aria-acqua può lavorare male e consumare molto: in questi casi si valuta prima un intervento sull'involucro (cappotto, serramenti) oppure una soluzione ibrida.",
+          "Le caldaie ibride, che accoppiano una pompa di calore di piccola taglia a una caldaia a condensazione, sono una transizione sensata per gli edifici più dispersivi: la centralina sceglie di volta in volta il generatore più conveniente in funzione della temperatura esterna e delle tariffe. Sconsigliata invece la sostituzione «a scatola chiusa», senza diagnosi energetica: il dimensionamento errato è la prima causa di impianti deludenti.",
+          "Un requisito pratico spesso trascurato è la potenza elettrica disponibile: un'aria-acqua da 10 kW termici può assorbire 3-4 kW elettrici di picco. In molte abitazioni serve il passaggio del contatore da 3 a 4,5-6 kW, con un costo una tantum e un aumento dei fissi in bolletta da mettere in conto."
+        ]
+      },
+      {
+        "id": "incentivi",
+        "h2": "Quali incentivi ci sono per la pompa di calore nel 2026?",
+        "paragraphs": [
+          "In base alla normativa vigente, la sostituzione del generatore con pompa di calore rientra in genere tra gli interventi agevolabili con le detrazioni fiscali per l'efficienza energetica e con il Conto Termico gestito dal GSE, che eroga un contributo diretto in conto capitale, salvo modifiche normative e nel rispetto dei massimali previsti. Le aliquote e i tetti di spesa possono variare in funzione della tipologia di immobile e della destinazione d'uso.",
+          "La scelta tra detrazione e Conto Termico non è libera: le due agevolazioni non sono cumulabili sullo stesso intervento. Il Conto Termico premia macchine con requisiti minimi di efficienza stagionale e prevede tempi di istruttoria più rapidi delle detrazioni, ma importi massimi definiti. La detrazione si recupera invece in dichiarazione dei redditi in quote annuali. In entrambi i casi è indispensabile la documentazione tecnica: scheda della macchina, fatture parlanti, asseverazione ove richiesta.",
+          "Il consiglio operativo è farsi preparare un quadro economico comparativo dal proprio tecnico prima di firmare il contratto: tra capienza fiscale, tempi di recupero e requisiti della macchina, la scelta migliore cambia da caso a caso."
+        ]
+      },
+      {
+        "id": "dimensionamento",
+        "h2": "Come si dimensiona correttamente una pompa di calore?",
+        "paragraphs": [
+          "Il dimensionamento parte dalla dispersione termica dell'edificio alla temperatura di progetto, non dai metri quadri. Il calcolo corretto segue le norme UNI/TS 11300 e UNI EN 12831: si sommano le dispersioni per trasmissione (pareti, serramenti, tetto, pavimento) e per ventilazione, zona climatica per zona climatica. Solo con questo dato il termotecnico stabilisce la potenza termica necessaria alla temperatura esterna più rigida attesa.",
+          "Un errore frequente è sovradimensionare «per sicurezza»: una pompa di calore troppo grande lavora in continui on-off (cycling), consuma di più, si usura prima e deumidifica peggio in estate. Le macchine a inverter modulano tipicamente dal 25-30% al 100% della potenza: l'obiettivo è farle lavorare il più possibile nella fascia di modulazione, con lunghe ore di funzionamento a basso carico.",
+          "In ristrutturazione, la diagnosi energetica preliminare fornisce già il fabbisogno: un edificio di 120 mq in classe E in zona climatica E può richiedere 7-9 kW termici alla temperatura di progetto, mentre lo stesso edificio riqualificato in classe B ne richiede 3-4. Ecco perché conviene dimensionare la macchina dopo gli interventi sull'involucro, non prima."
+        ],
+        "list": [
+          "Fabbisogno indicativo: 40-70 W/mq per edifici mediamente isolati, 25-40 W/mq per edifici ben isolati",
+          "Zona climatica E, casa 120 mq classe D-E: 6-9 kW termici alla temperatura di progetto",
+          "Stessa casa in classe A-B dopo cappotto e serramenti: 3-5 kW termici",
+          "Produzione ACS per 3-4 persone: accumulo da 200-300 litri con serpentina adeguata alla pompa di calore"
+        ]
+      },
+      {
+        "id": "termosifoni-esistenti",
+        "h2": "Funziona con i termosifoni esistenti? La verifica da fare",
+        "paragraphs": [
+          "La domanda più frequente in ristrutturazione riguarda la compatibilità con i radiatori esistenti, dimensionati decenni fa per lavorare a 70-80 °C. La verifica corretta è un calcolo elemento per elemento: nota la potenza dei termosifoni alla vecchia temperatura, si ricava quella disponibile a 45-50 °C di mandata (tipicamente il 35-45% della nominale) e si confronta con il fabbisogno stanza per stanza.",
+          "Tre esiti possibili: i radiatori bastano già (caso non raro negli impianti sovradimensionati degli anni '70-'80); bastano aumentando le ore di funzionamento da 8-10 a 16-18, strategia che sfrutta la modulazione della pompa di calore; oppure servono interventi mirati, cioè la sostituzione dei corpi insufficienti con radiatori a bassa temperatura o fancoil, spesso limitata a 2-3 locali critici come bagni e camere a nord.",
+          "In ogni caso la regolazione fa la differenza: con sonda esterna e curva climatica ben impostata, la mandata sale solo nei giorni più freddi e per gran parte della stagione l'impianto lavora sotto i 40 °C con COP elevati. È la regolazione, più che la potenza installata, a decidere la riuscita dell'integrazione con l'esistente."
+        ]
+      },
+      {
+        "id": "rumorosita-posa",
+        "h2": "Dove installare l'unità esterna e quanto è rumorosa davvero?",
+        "paragraphs": [
+          "La posa dell'unità esterna incide su resa, rumorosità e conformità ai limiti acustici. Le regole operative: superficie stabile e livellata, supporti antivibranti, almeno 30-50 cm liberi sul lato aspirazione e 1,5-2 metri davanti al lato mandata per evitare ricircoli d'aria, posizione riparata dal vento dominante e, nei climi freddi, mai sotto gronde che gocciolano: l'acqua di sbrinamento deve poter drenare senza formare ghiaccio sotto la macchina.",
+          "Sulla rumorosità, le schede tecniche dichiarano potenze sonore di 55-65 dB(A) per le taglie residenziali, che si traducono in pressioni di 35-45 dB(A) a 3-5 metri in campo libero. I limiti da rispettare sono quelli della normativa sul rumore e dei regolamenti edilizi comunali: la verifica riguarda il livello di immissione verso le finestre abitabili dei vicini, che in fascia notturna nelle zone residenziali può essere molto restrittivo.",
+          "Attenzione ai riflessi: un'unità posta tra due pareti parallele o sotto una tettoia chiusa amplifica il rumore per riverbero. In condominio va verificato il regolamento e, per il posizionamento su facciata, il decoro architettonico: in molti comuni, specie nei centri storici, serve una comunicazione o un'autorizzazione paesaggistica."
+        ]
+      },
+      {
+        "id": "esercizio-vs-gas",
+        "h2": "Quanto costa in bolletta: pompa di calore o caldaia a gas?",
+        "paragraphs": [
+          "Il confronto economico si gioca sul rapporto tra prezzo dell'elettricità e prezzo del gas, rapportato alle efficienze. Una caldaia a condensazione rende circa il 100-105% sul potere calorifico inferiore: 1 mc di gas (circa 10 kWh termici) produce 10-10,5 kWh utili. Una pompa di calore con SCOP 3,5 produce gli stessi 10 kWh termici con circa 2,85 kWh elettrici.",
+          "Il punto di pareggio si ha quando il prezzo dell'elettricità è circa 3,5 volte quello del gas per kWh termico equivalente. Negli ultimi anni il rapporto si è spesso attestato tra 2,5 e 4: il vantaggio oscilla con i mercati, ma in presenza di fotovoltaico con autoconsumo del 30-40% il costo marginale dell'elettricità per la pompa scende e la convenienza diventa strutturale. I monitoraggi su edifici reali riportano risparmi del 20-45% rispetto al gas, più marcati negli edifici isolati con impianto a bassa temperatura.",
+          "I valori della tabella sono puramente indicativi, basati su prezzi dell'energia variabili nel tempo: il confronto va sempre rifatto con le proprie tariffe contrattuali e con i consumi reali della propria abitazione."
+        ],
+        "table": {
+          "headers": ["Voce", "Caldaia a condensazione", "Pompa di calore (SCOP 3,5)", "Pompa di calore + fotovoltaico"],
+          "rows": [
+            ["Energia per 10.000 kWh termici/anno", "Circa 1.050 mc di gas", "Circa 2.850 kWh elettrici", "Circa 1.700-2.000 kWh prelevati dalla rete"],
+            ["Costo annuo indicativo", "1.200-1.500 euro", "750-1.000 euro", "500-700 euro"],
+            ["Emissioni di CO2 stimate", "Circa 2.100 kg/anno", "In calo con il mix elettrico nazionale", "Le più basse, grazie all'autoconsumo"],
+            ["Manutenzione obbligatoria", "Controllo efficienza e fumi periodico", "Controllo perdite F-gas sopra le soglie di legge", "Come pompa di calore, più verifica impianto FV"]
+          ]
+        }
+      },
+      {
+        "id": "manutenzione",
+        "h2": "Che manutenzione richiede una pompa di calore?",
+        "paragraphs": [
+          "La manutenzione ordinaria è più semplice di quella di una caldaia a gas, ma non va saltata: pulizia dei filtri e dello scambiatore esterno, controllo della pressione dell'impianto idraulico e del vaso di espansione, verifica del ciclo di sbrinamento e del drenaggio della condensa, controllo delle connessioni elettriche. Una visita annuale prima della stagione invernale costa indicativamente 100-250 euro.",
+          "Sul piano normativo, per le macchine con carica di refrigerante sopra le soglie previste dalla normativa sui gas fluorurati è obbligatorio il controllo periodico delle perdite da parte di personale certificato, con cadenza legata alla carica equivalente; le taglie domestiche piccole sono in genere sotto soglia, ma la verifica va confermata sulla targhetta della macchina. La documentazione degli interventi va conservata: è richiesta anche per la validità della garanzia del produttore, che spesso si estende a 5-10 anni sul compressore solo con manutenzione documentata."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "La pompa di calore funziona anche con temperature sotto zero?",
+        "a": "Sì. Le macchine attuali lavorano fino a -15/-20 °C esterni, con COP che si riduce progressivamente al calare della temperatura. Nei climi molto rigidi si scelgono modelli «cold climate» o si prevede una resistenza o una caldaia di integrazione per i giorni più freddi."
+      },
+      {
+        "q": "Quanto dura una pompa di calore?",
+        "a": "La vita utile media di un'aria-acqua di qualità è di 15-20 anni, simile a quella di una caldaia. Il compressore è il componente critico: una manutenzione annuale regolare e un corretto dimensionamento ne allungano sensibilmente la vita."
+      },
+      {
+        "q": "Serve il fotovoltaico per far convenire la pompa di calore?",
+        "a": "No, ma migliora molto la convenienza. Senza fotovoltaico la pompa di calore resta competitiva sul gas in edifici ben isolati con impianto a bassa temperatura; con il fotovoltaico il risparmio in bolletta cresce tipicamente del 25-40% grazie all'autoconsumo."
+      },
+      {
+        "q": "Posso usare i termosifoni esistenti con una pompa di calore?",
+        "a": "Dipende dal loro dimensionamento. Se i radiatori riescono a scaldare la casa con mandata a 45-50 °C, la pompa di calore lavora con rese accettabili. Una verifica termotecnica sui carichi invernali è il modo corretto per stabilirlo prima dell'acquisto."
+      },
+      {
+        "q": "La pompa di calore è rumorosa?",
+        "a": "Le unità esterne moderne dichiarano pressioni sonore intorno a 35-45 dB(A) a 3-5 metri. Il rispetto dei limiti acustici di zona va verificato in fase di posa: distanza dalle finestre vicine, supporti antivibranti ed eventuali barriere fanno la differenza."
+      },
+      {
+        "q": "La manutenzione della pompa di calore è obbligatoria?",
+        "a": "Per le macchine con carica di refrigerante sopra le soglie di legge è previsto il controllo periodico delle perdite di gas fluorurati da personale certificato. Sotto soglia non c'è un obbligo analogo alla prova fumi delle caldaie, ma la manutenzione annuale consigliata dal produttore preserva efficienza, durata e validità della garanzia."
+      },
+      {
+        "q": "Conviene tenere la vecchia caldaia come backup?",
+        "a": "Spesso sì, almeno in una fase transitoria: mantenere la caldaia come generatore di emergenza riduce il rischio dell'investimento negli edifici non ancora riqualificati. Le centraline dei sistemi ibridi gestiscono automaticamente la commutazione in funzione di temperatura esterna e convenienza economica."
+      }
+    ],
+    "related": ["pannelli-solari-fotovoltaico-guida-completa", "cappotto-termico-esterno-guida", "incentivi-fotovoltaico-2026", "conto-termico-3-come-funziona"],
+    "tags": ["pompa di calore", "riscaldamento", "efficienza energetica", "fotovoltaico", "riqualificazione energetica"]
+  },
+  {
+    "slug": "cappotto-termico-esterno-guida",
+    "category": "efficienza-energetica",
+    "title": "Cappotto termico esterno: guida a materiali, spessori, costi e posa",
+    "metaTitle": "Cappotto termico esterno: guida, costi al mq e materiali",
+    "metaDescription": "Cappotto termico: come funziona, confronto tra EPS, lana di roccia e sughero, spessori consigliati, costi al mq, fasi di posa ed errori da evitare.",
+    "primaryKeyword": "cappotto termico",
+    "answerBox": "Il cappotto termico esterno è un sistema di isolamento a spessore applicato sulle facciate: pannelli isolanti incollati e tassellati, rasatura armata e finitura. Spessori tipici 10-16 cm, costi indicativi 70-130 euro/mq posato. Riduce le dispersioni delle pareti opache del 60-80% ed elimina i ponti termici principali.",
+    "author": "Elena Gatti",
+    "authorRole": "Ingegnere edile",
+    "publishedAt": "2026-06-03",
+    "updatedAt": "2026-07-21",
+    "heroAlt": "Posa di pannelli isolanti per cappotto termico sulla facciata di un condominio",
+    "pillar": false,
+    "sections": [
+      {
+        "id": "cos-e",
+        "h2": "Cos'è il cappotto termico e perché è l'intervento più efficace sull'involucro?",
+        "paragraphs": [
+          "Il cappotto termico esterno (sistema ETICS, External Thermal Insulation Composite System) è un rivestimento isolante continuo applicato all'esterno delle pareti: pannelli incollati alla muratura, fissati meccanicamente con tasselli, coperti da una rasatura armata con rete in fibra di vetro e rifiniti con intonachino silossanico o silicatico. A differenza dell'isolamento dall'interno, avvolge l'edificio senza soluzione di continuità.",
+          "Il vantaggio decisivo è l'eliminazione dei ponti termici: balconi, pilastri in cemento armato e travi che attraversano la muratura sono i punti dove si concentrano condensa e muffa. Il cappotto esterno li porta tutti «al caldo», alzando la temperatura superficiale interna delle pareti e riducendo drasticamente il rischio di condensazione interstiziale e superficiale.",
+          "In termini energetici, un cappotto ben progettato riduce le dispersioni delle pareti opache del 60-80%. In un edificio unifamiliare non isolato le pareti pesano tipicamente per il 25-35% delle dispersioni totali: l'intervento si traduce quindi in un taglio dei consumi per riscaldamento dell'ordine del 20-30%, con benefici anche sul comfort estivo grazie allo sfasamento termico."
+        ]
+      },
+      {
+        "id": "materiali-confronto",
+        "h2": "Quali materiali isolanti si usano per il cappotto?",
+        "paragraphs": [
+          "La scelta del materiale incide su prestazioni termiche, comportamento al fuoco, traspirabilità, costo e impatto ambientale. Non esiste un materiale «migliore» in assoluto: esiste quello più adatto al contesto, al vincolo architettonico e al budget.",
+          "L'EPS (polistirene espanso sinterizzato) è lo standard di mercato, con oltre il 70% delle applicazioni in Italia: economico, leggero, facile da lavorare. Lana di roccia e sughero coprono le esigenze di reazione al fuoco e naturalità; la fibra di legno è apprezzata per lo sfasamento estivo. Ecco il confronto operativo."
+        ],
+        "table": {
+          "headers": ["Materiale", "Conducibilità λ (W/mK)", "Reazione al fuoco", "Costo fornitura e posa (euro/mq, 12 cm)", "Punti di forza", "Limiti"],
+          "rows": [
+            ["EPS bianco", "0,036-0,040", "E (autoesinguente)", "70-95", "Economico, leggero, posa rapida", "Sensibile al calore, scarso sfasamento estivo"],
+            ["EPS grafite", "0,031-0,033", "E (autoesinguente)", "75-100", "A parità di spessore isola il 15-20% in più", "Surriscaldamento in fase di posa al sole"],
+            ["Lana di roccia", "0,034-0,038", "A1/A2 (incombustibile)", "95-130", "Sicurezza al fuoco, fonoassorbenza", "Peso, costo, posa più lenta"],
+            ["Sughero", "0,037-0,040", "E", "110-150", "Naturale, traspirante, durevole", "Costo elevato, spessori maggiori a parità di trasmittanza"],
+            ["Fibra di legno", "0,038-0,043", "E", "100-140", "Ottimo sfasamento estivo, traspirante", "Sensibile all'umidità in fase di cantiere"]
+          ]
+        }
+      },
+      {
+        "id": "spessori",
+        "h2": "Che spessore serve per un cappotto efficace?",
+        "paragraphs": [
+          "Lo spessore si determina con il calcolo della trasmittanza U della parete finita, in funzione della zona climatica e dei limiti normativi vigenti. In pratica: per il Centro-Nord (zone climatiche E ed F) gli spessori efficaci vanno da 12 a 16 cm di EPS, per il Centro-Sud da 8 a 12 cm. Sotto i 6-8 cm l'intervento ha senso solo se finalizzato alla risoluzione di ponti termici o muffe localizzate.",
+          "Un errore diffuso è fermarsi allo spessore minimo per «salvare» le soglie di balconi e gli intradossi delle finestre. Con pannelli in EPS grafite, che a parità di centimetri isola di più, si recuperano 2-3 cm preziosi. Nei condomini vincolati o nei centri storici, dove gli spessori sono limitati dai cornicioni, si valutano materiali ad alta prestazione come gli aerogel in pannelli sottili, con costi però decisamente superiori.",
+          "Regola pratica: ogni 2 cm in più di EPS grafite abbatte la trasmittanza della parete di circa 0,03-0,04 W/mqK. La verifica finale spetta al termotecnico, che deve presentare il calcolo nella relazione tecnica di Legge 10 o nella documentazione per gli incentivi."
+        ]
+      },
+      {
+        "id": "costi-mq",
+        "h2": "Quanto costa il cappotto termico al metro quadro?",
+        "paragraphs": [
+          "Per un edificio unifamiliare il costo chiavi in mano di un cappotto in EPS da 12-14 cm, comprensivo di ponteggio, pannelli, tasselli, rasatura armata, finitura e rifacimento di soglie e davanzali, va indicativamente da 70 a 110 euro/mq di facciata. Con lana di roccia o sughero si sale a 95-150 euro/mq. Per una villetta con 250-350 mq di facciata l'ordine di grandezza dell'investimento è di 20.000-40.000 euro.",
+          "Nei condomini il costo al mq tende a scendere (economie di scala sul ponteggio e sulla logistica), ma entrano in gioco voci aggiuntive: spostamento di antenna e linee vita, adeguamento di grondaie e pluviali, prolungamento di davanzali e copertine, eventuale pratica paesaggistica. Il ponteggio da solo incide per 12-20 euro/mq."
+        ],
+        "list": [
+          "EPS bianco 12 cm posato: 70-95 euro/mq",
+          "EPS grafite 14 cm posato: 75-105 euro/mq",
+          "Lana di roccia 12-14 cm posata: 95-130 euro/mq",
+          "Sughero o fibra di legno: 100-150 euro/mq",
+          "Ponteggio: 12-20 euro/mq",
+          "Rifacimento soglie, davanzali, pluviali: 40-90 euro per elemento"
+        ]
+      },
+      {
+        "id": "fasi-posa",
+        "h2": "Come avviene la posa del cappotto, fase per fase?",
+        "paragraphs": [
+          "La sequenza di posa è codificata dalle norme tecniche di riferimento e dalle schede ETAG/ETA del produttore del sistema. Saltare o invertire le fasi è la causa principale dei distacchi e delle fessurazioni che si vedono su troppi cantieri.",
+          "Prima si prepara il supporto: la facciata deve essere pulita, coesa e in squadro; vecchie pitture sfarinanti vanno rimosse e le irregolarità oltre il centimetro compensate con rasatura di fondo. Segue il profilo di partenza in alluminio, fissato a livello del marciapiede o del basamento: è il riferimento orizzontale di tutto il sistema."
+        ],
+        "subsections": [
+          {
+            "h3": "Incollaggio e tassellatura",
+            "paragraphs": [
+              "I pannelli si incollano con collante cementizio applicato a cordolo perimetrale più punti centrali (metodo cordolo-punti) o a spatola dentata su supporti molto regolari. La tassellatura meccanica, 4-8 tasselli al mq in funzione di altezza edificio e zona ventosa, si esegue dopo almeno 48-72 ore: tassellare troppo presto, a colla fresca, è un errore classico."
+            ]
+          },
+          {
+            "h3": "Rasatura armata e finitura",
+            "paragraphs": [
+              "Sui pannelli si stende il rasante in due passate annegando la rete in fibra di vetro da 150-160 g/mq, con sovrapposizioni di almeno 10 cm e doppia armatura in corrispondenza degli spigoli delle aperture. Dopo la stagionatura (indicativamente 3-7 giorni a seconda delle condizioni) si applica il fondo e l'intonachino di finitura, che va scelto coerente con la traspirabilità del sistema."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ponti-termici",
+        "h2": "Come si gestiscono balconi, soglie e ponti termici?",
+        "paragraphs": [
+          "Il cappotto sposta il piano isolante verso l'esterno, e ogni elemento che attraversa quel piano va ridisegnato. I balconi sono il caso più delicato: la soletta che sporge è un ponte termico strutturale. Le soluzioni vanno dall'isolamento del sottobalcone e del frontale, fino, nei casi più spinti, al taglio termico con elementi strutturali a sezione isolata.",
+          "Soglie, davanzali e intradossi delle finestre vanno rivestiti con pannelli sottili (2-4 cm) per non ridurre troppo la luce delle aperture. È inoltre opportuno abbinare al cappotto la sostituzione dei serramenti, riposizionando il telaio a filo esterno o in zona isolante: installare finestre nuove nel vecchio foro, al centro della muratura, vanifica una parte del beneficio e crea nuovi ponti termici lineari.",
+          "Infine i dettagli impiantistici: ogni ancoraggio che attraversa il cappotto (antenne, tende, condizionatori, ringhiere) va progettato prima della posa, con supporti a taglio termico o zanche preinstallate. Forare il cappotto finito per appendere un condizionatore significa creare un ponte termico puntuale e un possibile ingresso di acqua."
+        ]
+      },
+      {
+        "id": "errori-da-evitare",
+        "h2": "Quali sono gli errori più frequenti nei cantieri di cappotto?",
+        "paragraphs": [
+          "Il primo errore è affidarsi a imprese senza esperienza specifica ETICS: il sistema è semplice solo in apparenza. Il secondo è il risparmio sui materiali di sistema: mischiare collanti, reti e finiture di produttori diversi fa decadere la certificazione ETA del kit e ogni garanzia. Il terzo è ignorare il microclima di cantiere: posare con facciata esposta al sole battente estivo o sotto i 5 °C compromette adesione e stagionatura."
+        ],
+        "list": [
+          "Supporto non verificato: posa su intonaci sfarinanti o ammalorati senza preparazione",
+          "Tassellatura anticipata o insufficiente rispetto all'altezza e alla zona ventosa",
+          "Rete d'armatura dimenticata agli spigoli: le crepe compaiono in diagonale dagli angoli delle finestre",
+          "Dilavamento del basamento: mancato uso di finiture adeguate nella fascia a contatto col suolo",
+          "Fori successivi alla posa per impianti senza ripristino della tenuta",
+          "Serramenti lasciati in centro muro dopo il cappotto: nuovo ponte termico lineare"
+        ]
+      },
+      {
+        "id": "detrazioni",
+        "h2": "Il cappotto termico è detraibile nel 2026?",
+        "paragraphs": [
+          "In base alla normativa vigente, l'isolamento termico delle superfici opache verticali, orizzontali e inclinate rientra in genere tra gli interventi di riqualificazione energetica agevolabili con le detrazioni fiscali, salvo modifiche normative, nel rispetto dei massimali di spesa e dei requisiti di trasmittanza previsti per zona climatica. Per gli interventi che superano determinate soglie di incidenza sulla superficie disperdente possono applicarsi aliquote maggiorate.",
+          "I requisiti formali contano quanto quelli tecnici: fatture con causale corretta, bonifici parlanti, asseverazione del tecnico abilitato sul rispetto dei requisiti minimi e trasmissione all'ENEA della scheda descrittiva dell'intervento nei termini previsti. La documentazione va predisposta prima dell'inizio lavori, non recuperata dopo: gli incentivi si perdono quasi sempre per vizi formali, non per carenze tecniche.",
+          "Per i condomini, la delibera assembleare deve essere assunta con le maggioranze previste dal codice civile per gli interventi su parti comuni, e il computo della superficie disperdente va allegato alla relazione tecnica. La verifica preliminare di un termotecnico evita sorprese sia in fase di detrazione sia di collaudo."
+        ]
+      },
+      {
+        "id": "condominio-delibere",
+        "h2": "Cappotto in condominio: come funzionano delibere e spese?",
+        "paragraphs": [
+          "Il cappotto sulle facciate è un intervento sulle parti comuni e richiede una delibera assembleare. In base alla normativa vigente, gli interventi di riqualificazione energetica sulle parti comuni possono essere approvati con maggioranze agevolate rispetto alle innovazioni ordinarie, salvo modifiche normative: la verifica della maggioranza richiesta spetta all'amministratore, che va coinvolto fin dalla fase di fattibilità.",
+          "La ripartizione delle spese segue i millesimi di proprietà, salvo diversi accordi o usi particolari. Attenzione ai casi che generano contenziosi: facciate che servono solo alcune unità, terrazze a livello, balconi aggettanti di proprietà esclusiva. Il computo per tabelle millesimali va predisposto dal tecnico prima della delibera, non a lavori avviati.",
+          "Iter consigliato: diagnosi energetica preliminare, due o tre preventivi comparabili su identico capitolato, relazione tecnica con benefici attesi e quadro incentivi, convocazione dell'assemblea con la relazione allegata. L'esperienza insegna che le delibere falliscono più per comunicazione carente che per ragioni economiche: un confronto in assemblea con il tecnico che illustra scenari e tempi di ritorno cambia l'esito del voto."
+        ],
+        "list": [
+          "Diagnosi energetica e relazione di fattibilità per un condominio medio: 1.500-4.000 euro",
+          "Il ponteggio è la voce che spinge a valutare più lavori in contemporanea (facciata, gronde, balconi)",
+          "Delibera con relazione tecnica allegata: riduce i ricorsi per vizi di informazione",
+          "Condomini dissenzienti: in base alla normativa vigente la delibera regolarmente assunta vincola anche i contrari, salvo specifiche eccezioni"
+        ]
+      },
+      {
+        "id": "nodi-di-posa",
+        "h2": "Davanzali, spallette e cassonetti: i nodi che decidono la qualità",
+        "paragraphs": [
+          "La differenza tra un cappotto che dura 40 anni e uno che si fessura in 5 si gioca sui dettagli. I nodi critici sono sempre gli stessi: davanzali, spallette delle aperture, cassonetti delle tapparelle, basamento e attacco al tetto. Ognuno richiede una soluzione progettata, non improvvisata in cantiere."
+        ],
+        "subsections": [
+          {
+            "h3": "Davanzali e spallette",
+            "paragraphs": [
+              "Il davanzale va prolungato o sostituito per coprire il nuovo spessore, con gocciolatoio e sigillatura al telaio; le spallette si rivestono con pannelli da 2-4 cm e profili di raccordo con rete integrata. Il profilo di attacco finestra con guarnizione autoespandente è oggi lo standard per garantire tenuta ad aria e acqua nel nodo tra isolante e telaio."
+            ]
+          },
+          {
+            "h3": "Cassonetti e basamento",
+            "paragraphs": [
+              "Il cassonetto della tapparella è un ponte termico interno che il cappotto non risolve: va coibentato dall'interno con pannelli sottili ad alta densità o sostituito con cassonetti monoblocco isolati, specie in caso di sostituzione dei serramenti. Al basamento, sotto il profilo di partenza, si usano pannelli in XPS resistenti all'umidità e finiture antispruzzo, perché l'EPS standard non tollera il contatto prolungato con l'acqua di risalita e gli schizzi di pioggia."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cappotto-interno",
+        "h2": "E quando il cappotto esterno non si può fare?",
+        "paragraphs": [
+          "Facciate vincolate, edifici a ridosso del confine senza spazio per lo spessore, singoli appartamenti in condomini che non deliberano l'intervento: in questi casi l'alternativa è il cappotto interno. Si posano pannelli (calcio silicato, fibra di legno, sughero, lastre accoppiate in cartongesso) sul lato interno delle pareti perimetrali, con spessori tipici di 4-8 cm per non sacrificare troppa superficie utile.",
+          "Il cappotto interno costa meno (indicativamente 50-90 euro/mq posato) e non richiede ponteggio né delibere condominiali, ma ha limiti tecnici da gestire: non elimina i ponti termici di solai e pilastri, sposta il punto di rugiada dentro la stratigrafia (serve il calcolo igrometrico secondo la norma UNI EN ISO 13788 e spesso un freno al vapore) e riduce l'inerzia termica, cioè la capacità dei muri di accumulare calore e stabilizzare la temperatura.",
+          "Tra i materiali, il calcio silicato è il riferimento per le pareti con problemi di muffa perché alcalino e capillarmente attivo; fibra di legno e sughero sono apprezzati per comfort estivo e naturalità; le lastre accoppiate con poliuretano offrono il massimo isolamento a parità di spessore, ma richiedono più cautele igrometriche e un montaggio a regola d'arte dei giunti."
+        ]
+      },
+      {
+        "id": "finiture",
+        "h2": "Quale finitura scegliere per il cappotto?",
+        "paragraphs": [
+          "La finitura è la pelle del sistema: protegge da pioggia, raggi UV e proliferazione di alghe e determina l'estetica per decenni. I cicli principali sono quattro. Gli intonachini acrilici sono i più economici e idrorepellenti, ma poco traspiranti: bene sull'EPS, meno sulle lane minerali. I silicatici offrono buona traspirabilità e resistenza media alle alghe. I silossanici combinano idrorepellenza e traspirabilità e sono oggi la scelta più equilibrata. I silicati minerali sono i più traspiranti e resistenti ad alghe e muffe, ideali su lana di roccia e nei contesti storici.",
+          "Il colore non è un dettaglio estetico: le tinte molto scure scaldano la finitura oltre i 70-80 °C d'estate, con rischio di fessurazioni e distacchi, specie su EPS. I produttori limitano il fattore di riflessione luminosa minimo ammesso: rispettarlo è condizione di garanzia. Per le tinte scure esistono pigmenti che riflettono il vicino infrarosso (tecnologia TSR), con un sovrapprezzo contenuto.",
+          "Ultima regola di sistema: collante, rasante, rete, fondo e finitura devono appartenere allo stesso kit certificato del produttore. Mescolare marche diverse è la scorciatoia che fa decadere certificazione, garanzia e, nei casi peggiori, la tenuta dell'intero cappotto."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Meglio il cappotto esterno o quello interno?",
+        "a": "L'esterno è tecnicamente superiore: elimina i ponti termici e sfrutta l'inerzia della muratura. Quello interno resta una scelta obbligata quando la facciata è vincolata, non si può modificare l'aspetto esterno o si interviene su un singolo appartamento, ma riduce la superficie utile e lascia scoperti i nodi strutturali."
+      },
+      {
+        "q": "Quanto dura un cappotto termico?",
+        "a": "Un sistema ETICS certificato e ben posato ha una vita utile di 30-50 anni. Le manutenzioni tipiche riguardano la finitura: ripittura o pulizia ogni 15-20 anni, più frequenti sulle facciate esposte a nord dove può formarsi vegetazione algale."
+      },
+      {
+        "q": "Il cappotto elimina definitivamente la muffa?",
+        "a": "Se la muffa deriva da ponti termici e pareti fredde, il cappotto esterno la risolve alzando la temperatura superficiale interna. Se invece la causa è l'umidità da condensa da scarsa ventilazione, serve affiancare una gestione corretta del ricambio d'aria, eventualmente con VMC."
+      },
+      {
+        "q": "Si può fare il cappotto su una facciata vincolata?",
+        "a": "Dipende dal tipo di vincolo. Nei centri storici spesso si ricorre al cappotto interno o a pannelli sottili ad alta prestazione, previa autorizzazione della Soprintendenza. La pratica paesaggistica va verificata prima della progettazione esecutiva."
+      },
+      {
+        "q": "Serve il permesso di costruire per il cappotto?",
+        "a": "In genere l'intervento che non altera prospetti, sagoma e finiture si configura come manutenzione straordinaria e richiede titoli semplificati come la CILA, ma se cambiano finiture, spessori significativi o elementi architettonici servono verifiche comunali specifiche. Il tecnico incaricato stabilisce il titolo corretto caso per caso."
+      },
+      {
+        "q": "Si può posare il cappotto d'inverno?",
+        "a": "Sì, con cautele: collanti e rasanti cementizi richiedono in genere temperature sopra i 5 °C in applicazione e per le 24-48 ore successive. D'inverno si lavora nelle ore centrali, con teli protettivi o additivi specifici; sotto zero o con pioggia battente la posa va sospesa."
+      },
+      {
+        "q": "Il cappotto interno crea muffa tra pannello e muro?",
+        "a": "Non se progettato correttamente. Il rischio di condensa interstiziale si valuta con il calcolo igrometrico secondo la norma UNI EN ISO 13788: in funzione di clima, muratura e materiale si decide se serve un freno al vapore. Materiali capillari come il calcio silicato gestiscono meglio l'umidità rispetto ai pannelli con barriere rigide."
+      }
+    ],
+    "related": ["migliori-isolanti-termici-confronto", "pompa-di-calore-guida-completa", "sostituzione-infissi-costi-guida", "detrazione-ristrutturazioni-50-come-funziona"],
+    "tags": ["cappotto termico", "isolamento", "involucro edilizio", "ETICS", "riqualificazione energetica"]
+  }
+]

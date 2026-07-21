@@ -1,0 +1,17 @@
+{
+  "name": "Rassegna Edile",
+  "short_name": "Rassegna Edile",
+  "description": "Il quotidiano online dell'edilizia italiana",
+  "lang": "it",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f4",
+  "theme_color": "#16305e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
