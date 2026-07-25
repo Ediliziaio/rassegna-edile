@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { categories, SITE } from "@/data/categories";
 
@@ -36,12 +36,19 @@ function Logo({ compact = false }: { compact?: boolean }) {
 
 export default function Header() {
   const [open, setOpen] = useState(false);
-  const today = new Date().toLocaleDateString("it-IT", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  });
+  // Calcolata solo lato client dopo il montaggio: evita che il prerender SSG
+  // "congeli" la data di build e mantiene sempre la data odierna reale.
+  const [today, setToday] = useState("");
+  useEffect(() => {
+    setToday(
+      new Date().toLocaleDateString("it-IT", {
+        weekday: "long",
+        day: "numeric",
+        month: "long",
+        year: "numeric",
+      })
+    );
+  }, []);
 
   return (
     <header className="border-b border-border bg-card">
