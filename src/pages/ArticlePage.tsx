@@ -21,7 +21,7 @@ export default function ArticlePage() {
     description: article?.metaDescription ?? "",
     canonical: article ? articleUrl(article) : "/",
     ogType: "article",
-    image: article ? `${SITE.url}/images/${article.category}.webp` : undefined,
+    image: article ? `${SITE.url}/images/articles/${article.slug}.webp` : undefined,
     publishedAt: article?.publishedAt,
     updatedAt: article?.updatedAt,
     jsonLd: article
@@ -36,7 +36,7 @@ export default function ArticlePage() {
             "@type": "Article",
             headline: article.title,
             description: article.metaDescription,
-            image: [`${SITE.url}/images/${article.category}.webp`],
+            image: [`${SITE.url}/images/articles/${article.slug}.webp`],
             datePublished: article.publishedAt,
             dateModified: article.updatedAt,
             inLanguage: "it-IT",
@@ -157,6 +157,7 @@ export default function ArticlePage() {
             <figure className="mt-6">
               <ArticleVisual
                 category={article.category}
+                slug={article.slug}
                 title={article.heroAlt}
                 priority
                 className="rounded-sm"

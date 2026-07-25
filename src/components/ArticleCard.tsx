@@ -43,7 +43,7 @@ export default function ArticleCard({
     return (
       <article className="flex gap-4 border-b border-border py-4 last:border-0">
         <Link to={url} className="w-28 shrink-0 sm:w-36" aria-hidden="true" tabIndex={-1}>
-          <ArticleVisual category={article.category} title={article.heroAlt} />
+          <ArticleVisual category={article.category} slug={article.slug} title={article.heroAlt} />
         </Link>
         <div className="min-w-0">
           <p className="kicker">{cat?.name}</p>
@@ -64,8 +64,7 @@ export default function ArticleCard({
     return (
       <article className="group relative">
         <Link to={url} aria-hidden="true" tabIndex={-1}>
-          <ArticleVisual
-            category={article.category}
+          <ArticleVisual category={article.category} slug={article.slug}
             title={article.heroAlt}
             priority={priority}
             className="rounded-sm"
@@ -93,7 +92,7 @@ export default function ArticleCard({
   return (
     <article className="group">
       <Link to={url} aria-hidden="true" tabIndex={-1}>
-        <ArticleVisual category={article.category} title={article.heroAlt} className="rounded-sm" />
+        <ArticleVisual category={article.category} slug={article.slug} title={article.heroAlt} className="rounded-sm" />
       </Link>
       <div className="mt-3">
         <p className="kicker">{cat?.name}</p>
