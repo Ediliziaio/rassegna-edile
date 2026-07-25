@@ -33,9 +33,10 @@ export default function ArticlePage() {
           ]),
           {
             "@context": "https://schema.org",
-            "@type": "NewsArticle",
+            "@type": "Article",
             headline: article.title,
             description: article.metaDescription,
+            image: [`${SITE.url}/images/${article.category}.webp`],
             datePublished: article.publishedAt,
             dateModified: article.updatedAt,
             inLanguage: "it-IT",

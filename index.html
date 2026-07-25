@@ -3,35 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rassegna Edile — Il quotidiano online dell'edilizia italiana</title>
-    <meta
-      name="description"
-      content="Rassegna Edile è la testata online verticale sull'edilizia: ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi e normative. Guide tecniche e notizie per professionisti e privati."
-    />
-    <link rel="canonical" href="https://www.rassegnaedile.it/" />
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
     <meta name="theme-color" content="#16305e" />
     <meta name="author" content="Rassegna Edile — Redazione" />
-
-    <!-- Open Graph -->
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Rassegna Edile" />
-    <meta property="og:locale" content="it_IT" />
-    <meta property="og:title" content="Rassegna Edile — Il quotidiano online dell'edilizia italiana" />
-    <meta
-      property="og:description"
-      content="Ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi e normative: guide tecniche autorevoli per l'edilizia italiana."
-    />
-    <meta property="og:url" content="https://www.rassegnaedile.it/" />
-    <meta property="og:image" content="https://www.rassegnaedile.it/og-cover.jpg" />
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Rassegna Edile — Il quotidiano online dell'edilizia italiana" />
-    <meta
-      name="twitter:description"
-      content="Ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi e normative."
-    />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="manifest" href="/site.webmanifest" />
@@ -50,7 +23,7 @@
       rel="stylesheet"
     />
 
-    <!-- Structured data: Organization + WebSite con SearchAction -->
+    <!-- Structured data invariante: Organization + WebSite con SearchAction -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -62,9 +35,9 @@
             "url": "https://www.rassegnaedile.it/",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://www.rassegnaedile.it/logo.png",
-              "width": 1761,
-              "height": 278
+              "url": "https://www.rassegnaedile.it/logo.svg",
+              "width": 512,
+              "height": 512
             },
             "sameAs": []
           },
@@ -88,9 +61,10 @@
         ]
       }
     </script>
+    <!--app-head-->
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <div id="root"><!--app-html--></div>
+    <script type="module" src="/src/entry-client.tsx"></script>
   </body>
 </html>

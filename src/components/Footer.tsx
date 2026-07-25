@@ -15,8 +15,8 @@ export default function Footer() {
               {SITE.description}
             </p>
             <p className="mt-4 text-xs text-primary-foreground/60">
-              Testata giornalistica online — Direttore responsabile: Marco
-              Bertelli
+              Magazine online verticale sull'edilizia. Contenuti tecnici a cura
+              della redazione.
             </p>
           </div>
 
@@ -61,11 +61,16 @@ export default function Footer() {
           </nav>
         </div>
 
-        <div className="mt-10 border-t border-primary-foreground/15 pt-6 text-xs text-primary-foreground/60">
+        <div className="mt-10 space-y-2 border-t border-primary-foreground/15 pt-6 text-xs text-primary-foreground/60">
           <p>
-            © {new Date().getFullYear()} Rassegna Edile — Tutti i diritti
-            riservati. P.IVA 01234567890. I contenuti sono protetti da copyright
-            e citabili con attribuzione e link alla fonte.
+            Rassegna Edile è una testata edita da <strong>Domus Group S.r.l.</strong> — Sede
+            legale: Via Aurelio Saffi 29, 20123 Milano · P.IVA 13132010961 ·
+            Capitale sociale 20.000,00 € i.v. · PEC domusgroupsrl@legalmail.it
+          </p>
+          <p>
+            © {new Date().getFullYear()} Domus Group S.r.l. — Tutti i diritti
+            riservati. I contenuti sono protetti da copyright e citabili con
+            attribuzione e link alla fonte.
           </p>
         </div>
       </div>

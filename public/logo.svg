@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Rassegna Edile">
+  <rect width="512" height="512" rx="72" fill="#16305e"/>
+  <text x="256" y="248" text-anchor="middle" font-family="Georgia, 'Playfair Display', serif" font-weight="900" font-size="200" fill="#ffffff">RE</text>
+  <text x="256" y="360" text-anchor="middle" font-family="Arial, 'Inter', sans-serif" font-weight="700" font-size="52" letter-spacing="6" fill="#e6b34a">RASSEGNA</text>
+  <text x="256" y="416" text-anchor="middle" font-family="Arial, 'Inter', sans-serif" font-weight="700" font-size="52" letter-spacing="14" fill="#e6b34a">EDILE</text>
+</svg>

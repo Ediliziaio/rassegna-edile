@@ -199,8 +199,9 @@ const pages: Record<string, PageDef> = {
   },
 };
 
-export default function StaticPage() {
-  const { page } = useParams<{ page: string }>();
+export default function StaticPage({ pageKey }: { pageKey?: string }) {
+  const params = useParams<{ page: string }>();
+  const page = pageKey ?? params.page;
   const def = page ? pages[page] : undefined;
 
   useSeo({

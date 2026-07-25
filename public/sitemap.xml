@@ -1,57 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/</loc>
-    
+    <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -60,490 +59,210 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10</news:publication_date>
-      <news:title>Migliori pannelli solari 2026: marche, criteri di scelta e schede tecniche a confronto</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/legno-lamellare-costruzioni-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06</news:publication_date>
-      <news:title>Legno lamellare: guida completa a caratteristiche, impieghi e costi nelle costruzioni</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/stampa-3d-edilizia-case/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06</news:publication_date>
-      <news:title>Stampa 3D in edilizia: come si costruiscono le case, costi e stato dell'arte</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/ventilazione-meccanica-controllata-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05</news:publication_date>
-      <news:title>Ventilazione meccanica controllata (VMC): guida completa a tipologie, costi e manutenzione</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/detrazione-ristrutturazioni-50-come-funziona/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02</news:publication_date>
-      <news:title>Detrazione ristrutturazioni al 50%: come funziona, massimali e documenti</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/salva-casa-sanatoria-edilizia/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02</news:publication_date>
-      <news:title>Salva casa e sanatoria edilizia: cosa prevede il decreto e come funziona</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/zanzariere-guida-scelta/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24</news:publication_date>
-      <news:title>Zanzariere: guida alla scelta tra rullo, plissettata, magnetica e scorrevole</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/come-funzionano-pannelli-solari/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20</news:publication_date>
-      <news:title>Come funzionano i pannelli solari: dall'effetto fotovoltaico alla bolletta</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/manutenzione-pannelli-solari/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20</news:publication_date>
-      <news:title>Manutenzione dei pannelli solari: guida pratica a pulizia, controlli e costi</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20</news:publication_date>
-      <news:title>Domotica e casa intelligente: guida a sistemi, costi e automazioni che contano davvero</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18</news:publication_date>
-      <news:title>Ristrutturare casa: da dove iniziare? Metodo, budget e ordine dei lavori</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17</news:publication_date>
-      <news:title>Direttiva Case Green: cosa cambia per edifici, proprietari e imprese</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15</news:publication_date>
-      <news:title>Case prefabbricate: prezzi al mq, tipologie e come scegliere il produttore</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12</news:publication_date>
-      <news:title>Conto Termico 3.0: come funziona l'incentivo del GSE per l'efficienza energetica</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/migliori-isolanti-termici-confronto/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12</news:publication_date>
-      <news:title>Migliori isolanti termici a confronto: conducibilità, costi e impieghi ideali</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/sostituzione-infissi-costi-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09</news:publication_date>
-      <news:title>Sostituzione infissi: costi 2026 per materiale, posa in opera e pratiche da seguire</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/cappotto-termico-esterno-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03</news:publication_date>
-      <news:title>Cappotto termico esterno: guida a materiali, spessori, costi e posa</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/sicurezza-cantiere-dlgs-81-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03</news:publication_date>
-      <news:title>Sicurezza in cantiere: la guida al D.Lgs 81/2008 per committenti e imprese</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02</news:publication_date>
-      <news:title>Impianto elettrico a norma CEI 64-8: cosa prescrive, livelli e costi del rifacimento</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-cucina-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02</news:publication_date>
-      <news:title>Ristrutturare la cucina: guida a costi, layout, impianti e materiali</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/intelligenza-artificiale-cantieri-edili/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02</news:publication_date>
-      <news:title>Intelligenza artificiale in edilizia: applicazioni reali nei cantieri italiani</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-costi-prezzi/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28</news:publication_date>
-      <news:title>Costo pannelli solari 2026: prezzi per taglia, accumulo e rientro dell'investimento</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/incentivi-fotovoltaico-2026/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28</news:publication_date>
-      <news:title>Incentivi fotovoltaico 2026: detrazioni, Conto Termico e valorizzazione dell'energia</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/blocchi-termoisolanti-laterizi-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28</news:publication_date>
-      <news:title>Blocchi termoisolanti in laterizio: guida a tipologie, prestazioni e costi al mq</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/finestre-triplo-vetro-conviene/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28</news:publication_date>
-      <news:title>Triplo vetro: quando conviene davvero e quanto fa risparmiare in bolletta</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pompa-di-calore-guida-completa/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20</news:publication_date>
-      <news:title>Pompa di calore: guida completa a funzionamento, tipologie, costi e incentivi</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/cila-scia-permesso-costruire-differenze/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20</news:publication_date>
-      <news:title>CILA, SCIA e permesso di costruire: le differenze spiegate in modo chiaro</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-bagno-costi-tempi/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20</news:publication_date>
-      <news:title>Ristrutturare il bagno: costi, tempi e voci di spesa nel 2026</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/rifacimento-impianto-idraulico-costi/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18</news:publication_date>
-      <news:title>Rifacimento impianto idraulico: costi, materiali e tempi della sostituzione completa</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/bim-edilizia-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18</news:publication_date>
-      <news:title>BIM edilizia: cos'è, come funziona e perché conviene a imprese e professionisti</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/cemento-sostenibile-materiali-innovativi/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15</news:publication_date>
-      <news:title>Cemento sostenibile: guida ai materiali innovativi che riducono la CO2 in cantiere</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/serramenti-pvc-alluminio-legno-confronto/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12</news:publication_date>
-      <news:title>Serramenti in PVC, alluminio o legno: il confronto definitivo per scegliere senza errori</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07</news:publication_date>
-      <news:title>Ristrutturazione chiavi in mano: cos'è, quanto costa e come funziona nel 2026</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-05</news:publication_date>
-      <news:title>Pannelli solari fotovoltaico: la guida completa 2026 per la tua casa</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/bonus-edilizi-2026-guida-completa/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>Rassegna Edile</news:name>
-        <news:language>it</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-05</news:publication_date>
-      <news:title>Bonus edilizi 2026: la guida completa a tutte le agevolazioni per la casa</news:title>
-    </news:news>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/chi-siamo/</loc>

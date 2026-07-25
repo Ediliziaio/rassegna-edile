@@ -13,3 +13,6 @@ dist/
 # Env
 .env
 .env.*
+
+# SSR prerender intermedio
+dist-server/

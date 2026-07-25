@@ -5,7 +5,7 @@ export const SITE = {
   tagline: "Il quotidiano online dell'edilizia italiana",
   url: "https://www.rassegnaedile.it",
   description:
-    "Rassegna Edile è la testata giornalistica online verticale sull'edilizia: ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi, tecnologie e normative.",
+    "Rassegna Edile è il magazine online verticale sull'edilizia: ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi, tecnologie e normative.",
 };
 
 export const categories: Category[] = [

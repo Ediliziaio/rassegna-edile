@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HomePage from "@/pages/HomePage";
@@ -10,31 +10,34 @@ import AuthorPage from "@/pages/AuthorPage";
 import NotFoundPage from "@/pages/NotFoundPage";
 
 /**
- * NOTA SEO (produzione): in deploy usare BrowserRouter + prerendering
- * (vite-plugin-prerender / react-snap) oppure SSR, in modo che crawler
- * e AI-bot ricevano HTML completo. Gli URL pubblici restano del tipo
- * /categoria/slug-articolo/ come da architettura a silos.
- * In questa preview locale si usa HashRouter per servire l'app da file statici.
+ * Layout + routing dell'app. Il Router (BrowserRouter lato client,
+ * StaticRouter lato prerender) è fornito dalle entry:
+ *   - src/entry-client.tsx  → BrowserRouter + hydrateRoot
+ *   - src/entry-server.tsx  → StaticRouter + renderToString (SSG)
+ * Gli URL pubblici sono del tipo /categoria/slug-articolo/ (architettura a silos).
  */
 export default function App() {
   return (
-    <HashRouter>
-      <div className="flex min-h-screen flex-col">
-        <Header />
-        <main className="flex-1">
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/mappa-del-sito/" element={<SitemapPage />} />
-            <Route path="/cerca/" element={<SearchPage />} />
-            <Route path="/autore/:name/" element={<AuthorPage />} />
-            <Route path="/:page(chi-siamo|redazione|contatti|pubblicita|privacy|cookie-policy)/" element={<StaticPage />} />
-            <Route path="/:category/" element={<CategoryPage />} />
-            <Route path="/:category/:slug/" element={<ArticlePage />} />
-            <Route path="*" element={<NotFoundPage />} />
-          </Routes>
-        </main>
-        <Footer />
-      </div>
-    </HashRouter>
+    <div className="flex min-h-screen flex-col">
+      <Header />
+      <main className="flex-1">
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/mappa-del-sito/" element={<SitemapPage />} />
+          <Route path="/cerca/" element={<SearchPage />} />
+          <Route path="/autore/:name/" element={<AuthorPage />} />
+          <Route path="/chi-siamo/" element={<StaticPage pageKey="chi-siamo" />} />
+          <Route path="/redazione/" element={<StaticPage pageKey="redazione" />} />
+          <Route path="/contatti/" element={<StaticPage pageKey="contatti" />} />
+          <Route path="/pubblicita/" element={<StaticPage pageKey="pubblicita" />} />
+          <Route path="/privacy/" element={<StaticPage pageKey="privacy" />} />
+          <Route path="/cookie-policy/" element={<StaticPage pageKey="cookie-policy" />} />
+          <Route path="/:category/" element={<CategoryPage />} />
+          <Route path="/:category/:slug/" element={<ArticlePage />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Routes>
+      </main>
+      <Footer />
+    </div>
   );
 }
