@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { articles, articlesByCategory, articleUrl } from "@/data/articles";
 import { categories, SITE } from "@/data/categories";
-import ArticleCard, { formatDate } from "@/components/ArticleCard";
+import ArticleCard from "@/components/ArticleCard";
 import AdSlot from "@/components/AdSlot";
 import { useSeo, breadcrumbJsonLd } from "@/lib/seo";
 
@@ -40,16 +40,7 @@ export default function HomePage() {
             In primo piano
           </p>
           {secondary.map((a) => (
-            <article key={a.slug} className="border-b border-border py-3 last:border-0">
-              <Link to={articleUrl(a)} className="group">
-                <h3 className="font-display text-[1.05rem] font-bold leading-snug group-hover:text-accent">
-                  {a.title}
-                </h3>
-              </Link>
-              <p className="font-sans mt-1 text-[0.68rem] uppercase tracking-wide text-muted-foreground">
-                {a.author} · {formatDate(a.publishedAt)}
-              </p>
-            </article>
+            <ArticleCard key={a.slug} article={a} variant="compact" />
           ))}
         </aside>
       </div>
