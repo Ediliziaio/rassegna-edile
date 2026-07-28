@@ -44,4 +44,16 @@ export interface Author {
   name: string;
   role: string;
   bio: string;
+  /**
+   * Profili pubblici verificabili della persona (LinkedIn, albo professionale,
+   * sito personale, profilo X…). Alimentano `sameAs` nello schema Person: è il
+   * segnale con cui Google collega la firma a un'identità reale — determinante
+   * sui contenuti YMYL (fisco, incentivi, normative).
+   * Inserire SOLO URL reali e appartenenti alla persona.
+   */
+  sameAs?: string[];
+  /** Es. "Ordine degli Ingegneri di Milano, n. 12345" — solo se verificabile. */
+  credential?: string;
+  /** Email pubblica della persona, se esiste (es. nome@rassegnaedile.it). */
+  email?: string;
 }

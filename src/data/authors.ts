@@ -1,5 +1,21 @@
 import type { Author } from "./types";
 
+/**
+ * ⚠️ E-E-A-T / YMYL — PUNTO UNICO DA COMPILARE
+ *
+ * Rassegna Edile tratta materie YMYL (detrazioni fiscali, incentivi, normativa
+ * tecnica): Google valuta l'identità di chi firma quanto il testo stesso.
+ * Finché `sameAs` resta vuoto le firme sono nomi non verificabili e lo schema
+ * Person NON emette il collegamento all'identità reale.
+ *
+ * Per attivarlo, aggiungere a ciascun autore SOLO dati reali e verificabili:
+ *   sameAs:     ["https://www.linkedin.com/in/…", "https://sito-personale.it"]
+ *   credential: "Ordine degli Ingegneri di Milano, n. 12345"
+ *   email:      "nome.cognome@rassegnaedile.it"
+ *
+ * Non inserire profili inventati o di terzi: un sameAs falso è peggio di un
+ * sameAs assente, perché collega il sito a un'identità che non lo riconosce.
+ */
 export const authors: Author[] = [
   {
     name: "Marco Bertelli",

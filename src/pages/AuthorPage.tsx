@@ -43,6 +43,18 @@ export default function AuthorPage() {
               url: `${SITE.url}/autore/${name}/`,
               knowsAbout: [...new Set(written.map((a) => a.primaryKeyword))].slice(0, 8),
               worksFor: { "@id": SITE.url + "/#organization" },
+              // Emessi solo se realmente valorizzati in src/data/authors.ts
+              ...(author.sameAs?.length ? { sameAs: author.sameAs } : {}),
+              ...(author.email ? { email: author.email } : {}),
+              ...(author.credential
+                ? {
+                    hasCredential: {
+                      "@type": "EducationalOccupationalCredential",
+                      credentialCategory: "professional certification",
+                      name: author.credential,
+                    },
+                  }
+                : {}),
             },
           },
         ]
@@ -69,6 +81,27 @@ export default function AuthorPage() {
         <p className="mt-3 max-w-3xl leading-relaxed text-foreground/75">
           {author.bio}
         </p>
+        {author.credential && (
+          <p className="font-sans mt-2 text-sm text-muted-foreground">
+            {author.credential}
+          </p>
+        )}
+        {author.sameAs && author.sameAs.length > 0 && (
+          <p className="font-sans mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-sm">
+            <span className="text-muted-foreground">Profili verificati:</span>
+            {author.sameAs.map((href) => (
+              <a
+                key={href}
+                href={href}
+                target="_blank"
+                rel="me noopener noreferrer"
+                className="text-accent hover:underline"
+              >
+                {new URL(href).hostname.replace(/^www\./, "")}
+              </a>
+            ))}
+          </p>
+        )}
       </header>
 
       <section aria-labelledby="articoli-autore" className="mt-8 max-w-3xl">
