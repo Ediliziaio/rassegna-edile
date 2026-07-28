@@ -3,7 +3,7 @@ import type { Author } from "./types";
 export const authors: Author[] = [
   {
     name: "Marco Bertelli",
-    role: "Direttore responsabile",
+    role: "Direttore editoriale",
     bio: "Giornalista professionista, da vent'anni segue l'edilizia italiana tra cantieri, normative e mercato dei materiali.",
   },
   {

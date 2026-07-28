@@ -32,6 +32,14 @@ const articles = readdirSync(articlesDir)
 const esc = (s) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
+// Deve combaciare con authorSlug in src/pages/AuthorPage.tsx
+const authorSlug = (name) =>
+  name
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/\s+/g, "-");
+
 /* ---------- sitemap.xml ---------- */
 // Data di ultimo aggiornamento globale e per sezione (per il campo lastmod)
 const latestOverall = articles.reduce((m, a) => (a.updatedAt > m ? a.updatedAt : m), "");
@@ -54,6 +62,13 @@ const urls = [
     priority: a.pillar ? "0.9" : "0.7",
     changefreq: "weekly",
     lastmod: a.updatedAt,
+  })),
+  // Pagine autore: segnale E-E-A-T, vanno indicizzate
+  ...[...new Set(articles.map((a) => a.author))].map((n) => ({
+    loc: `/autore/${authorSlug(n)}/`,
+    priority: "0.5",
+    changefreq: "weekly",
+    lastmod: latestOverall,
   })),
   ...["chi-siamo", "redazione", "contatti", "pubblicita", "privacy", "cookie-policy", "mappa-del-sito"].map(
     (p) => ({ loc: `/${p}/`, priority: "0.3", changefreq: "monthly" })

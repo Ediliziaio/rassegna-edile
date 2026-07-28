@@ -36,9 +36,12 @@ export default function AuthorPage() {
             "@type": "ProfilePage",
             mainEntity: {
               "@type": "Person",
+              "@id": `${SITE.url}/autore/${name}/#person`,
               name: author.name,
               jobTitle: author.role,
               description: author.bio,
+              url: `${SITE.url}/autore/${name}/`,
+              knowsAbout: [...new Set(written.map((a) => a.primaryKeyword))].slice(0, 8),
               worksFor: { "@id": SITE.url + "/#organization" },
             },
           },
