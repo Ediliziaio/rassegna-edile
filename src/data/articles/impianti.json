@@ -10,7 +10,7 @@
     "author": "Davide Riva",
     "authorRole": "Termotecnico",
     "publishedAt": "2026-05-18",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-05-18",
     "heroAlt": "Rifacimento impianto idraulico: costi e posa di nuove tubazioni in multistrato in un bagno",
     "pillar": false,
     "sections": [
@@ -39,12 +39,42 @@
           "Il PPR è un tubo plastico verde o grigio saldato a caldo tramite polifusione: costa poco (1-2 euro al metro), resiste benissimo alla corrosione e al calcare, ma richiede un installatore esperto perché la qualità della giunzione dipende interamente dalla saldatura. Il rame resta la scelta tradizionale di pregio: 6-10 euro al metro per il tubo, eccellente resistenza meccanica e azione batteriostatica naturale, ma posa più lenta, costo manodopera superiore e possibili fenomeni di corrosione con acque molto aggressive."
         ],
         "table": {
-          "headers": ["Materiale", "Costo tubo (indicativo)", "Durata stimata", "Punti di forza", "Limiti"],
+          "headers": [
+            "Materiale",
+            "Costo tubo (indicativo)",
+            "Durata stimata",
+            "Punti di forza",
+            "Limiti"
+          ],
           "rows": [
-            ["Multistrato PEX-Al-PEX", "2-4 €/m", "50+ anni", "Flessibile, posa rapida, poche giunzioni", "Raccordi da annegare con cautela"],
-            ["PPR a polifusione", "1-2 €/m", "50 anni", "Economico, nessuna corrosione", "Qualità dipende dalla saldatura"],
-            ["Rame", "6-10 €/m", "50+ anni", "Robusto, batteriostatico, resistibile", "Costo alto, posa lenta"],
-            ["Ferro zincato (legacy)", "non più installato", "30-40 anni", "resistenza meccanica", "Corrosione interna, da sostituire"]
+            [
+              "Multistrato PEX-Al-PEX",
+              "2-4 €/m",
+              "50+ anni",
+              "Flessibile, posa rapida, poche giunzioni",
+              "Raccordi da annegare con cautela"
+            ],
+            [
+              "PPR a polifusione",
+              "1-2 €/m",
+              "50 anni",
+              "Economico, nessuna corrosione",
+              "Qualità dipende dalla saldatura"
+            ],
+            [
+              "Rame",
+              "6-10 €/m",
+              "50+ anni",
+              "Robusto, batteriostatico, resistibile",
+              "Costo alto, posa lenta"
+            ],
+            [
+              "Ferro zincato (legacy)",
+              "non più installato",
+              "30-40 anni",
+              "resistenza meccanica",
+              "Corrosione interna, da sostituire"
+            ]
           ]
         }
       },
@@ -57,13 +87,37 @@
           "Una metrica alternativa usata nei preventivi per ristrutturazioni complete è il costo al metro quadro: 60-120 euro/mq per l'impianto idrosanitario completo, cifra che include smontaggio, posa delle nuove linee, collettori, collaudi e ripristini di base. Attenzione alle voci spesso escluse dai preventivi bassi: ricerca perdite preliminare, smaltimento macerie, ripristino di pavimenti e rivestimenti, pratiche amministrative e rilascio della dichiarazione di conformità."
         ],
         "table": {
-          "headers": ["Intervento", "Fascia di costo 2026", "Note"],
+          "headers": [
+            "Intervento",
+            "Fascia di costo 2026",
+            "Note"
+          ],
           "rows": [
-            ["Punto acqua (adduzione + scarico)", "150-300 €", "manodopera inclusa"],
-            ["Rifacimento bagno completo (impianto)", "1.500-4.000 €", "esclusi sanitari e piastrelle"],
-            ["Rifacimento cucina (2-3 punti acqua)", "800-2.000 €", "lavello, lavastoviglie, scarichi"],
-            ["Appartamento 80-100 mq (solo idrosanitario)", "2.500-6.000 €", "bagno + cucina"],
-            ["Idrosanitario + riscaldamento a radiatori", "8.000-15.000 €", "caldaia esclusa o inclusa secondo preventivo"]
+            [
+              "Punto acqua (adduzione + scarico)",
+              "150-300 €",
+              "manodopera inclusa"
+            ],
+            [
+              "Rifacimento bagno completo (impianto)",
+              "1.500-4.000 €",
+              "esclusi sanitari e piastrelle"
+            ],
+            [
+              "Rifacimento cucina (2-3 punti acqua)",
+              "800-2.000 €",
+              "lavello, lavastoviglie, scarichi"
+            ],
+            [
+              "Appartamento 80-100 mq (solo idrosanitario)",
+              "2.500-6.000 €",
+              "bagno + cucina"
+            ],
+            [
+              "Idrosanitario + riscaldamento a radiatori",
+              "8.000-15.000 €",
+              "caldaia esclusa o inclusa secondo preventivo"
+            ]
           ]
         }
       },
@@ -175,7 +229,13 @@
       "ristrutturare-bagno-costi-tempi",
       "detrazione-ristrutturazioni-50-come-funziona"
     ],
-    "tags": ["impianto idraulico", "rifacimento", "costi ristrutturazione", "multistrato", "dichiarazione di conformità"]
+    "tags": [
+      "impianto idraulico",
+      "rifacimento",
+      "costi ristrutturazione",
+      "multistrato",
+      "dichiarazione di conformità"
+    ]
   },
   {
     "slug": "impianto-elettrico-a-norma-cei-64-8",
@@ -188,7 +248,7 @@
     "author": "Davide Riva",
     "authorRole": "Termotecnico",
     "publishedAt": "2026-06-02",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-06-02",
     "heroAlt": "Quadro elettrico moderno con interruttori magnetotermici e differenziali per impianto elettrico a norma CEI 64-8",
     "pillar": false,
     "sections": [
@@ -209,13 +269,43 @@
           "Il quadro elettrico cambia di conseguenza: il livello base può contare su un solo differenziale, mentre i livelli superiori richiedono più differenziali per separare i circuiti e garantire continuità di servizio, più spazio libero nel quadro per future espansioni e, al livello 3, le predisposizioni per la gestione dei carichi e l'antintrusione."
         ],
         "table": {
-          "headers": ["Aspetto", "Livello 1 (base)", "Livello 2 (standard)", "Livello 3 (domotico)"],
+          "headers": [
+            "Aspetto",
+            "Livello 1 (base)",
+            "Livello 2 (standard)",
+            "Livello 3 (domotico)"
+          ],
           "rows": [
-            ["Potenza impegnata suggerita", "3 kW", "4,5 kW", "6 kW o più"],
-            ["Prese in soggiorno 20 mq", "5", "7", "11"],
-            ["Differenziali nel quadro", "1", "2 o più", "2 o più + gestione carichi"],
-            ["Predisposizione domotica", "No", "Parziale", "Sì"],
-            ["Videocitofono/antintrusione", "Opzionale", "Prevista", "Integrata"]
+            [
+              "Potenza impegnata suggerita",
+              "3 kW",
+              "4,5 kW",
+              "6 kW o più"
+            ],
+            [
+              "Prese in soggiorno 20 mq",
+              "5",
+              "7",
+              "11"
+            ],
+            [
+              "Differenziali nel quadro",
+              "1",
+              "2 o più",
+              "2 o più + gestione carichi"
+            ],
+            [
+              "Predisposizione domotica",
+              "No",
+              "Parziale",
+              "Sì"
+            ],
+            [
+              "Videocitofono/antintrusione",
+              "Opzionale",
+              "Prevista",
+              "Integrata"
+            ]
           ]
         }
       },
@@ -254,13 +344,37 @@
           "Le tempistiche per un appartamento sono di 5-10 giorni lavorativi per la parte elettrica, inserite in un cantiere di ristrutturazione più ampio. Come per l'idraulico, la prova e la misurazione finali (continuità dei conduttori di protezione, resistenza di isolamento, resistenza di terra) devono essere documentate: sono le verifiche che la norma richiede prima della messa in servizio."
         ],
         "table": {
-          "headers": ["Voce", "Fascia di costo 2026", "Note"],
+          "headers": [
+            "Voce",
+            "Fascia di costo 2026",
+            "Note"
+          ],
           "rows": [
-            ["Punto luce / presa posato", "40-70 €", "materiale e manodopera"],
-            ["Rifacimento appartamento 80-100 mq", "3.000-7.000 €", "livello 2, quadro incluso"],
-            ["Nuovo quadro con differenziali", "400-900 €", "a seconda dei moduli"],
-            ["Ripristino tracce", "15-30 €/m lineare", "intonaco e rasatura"],
-            ["Aumento potenza contatore", "costi verso distributore", "variabili, da preventivo"]
+            [
+              "Punto luce / presa posato",
+              "40-70 €",
+              "materiale e manodopera"
+            ],
+            [
+              "Rifacimento appartamento 80-100 mq",
+              "3.000-7.000 €",
+              "livello 2, quadro incluso"
+            ],
+            [
+              "Nuovo quadro con differenziali",
+              "400-900 €",
+              "a seconda dei moduli"
+            ],
+            [
+              "Ripristino tracce",
+              "15-30 €/m lineare",
+              "intonaco e rasatura"
+            ],
+            [
+              "Aumento potenza contatore",
+              "costi verso distributore",
+              "variabili, da preventivo"
+            ]
           ]
         }
       },
@@ -298,13 +412,37 @@
           "Anche i punti luce meritano progettazione: il comando a due vie per corridoio e camera, la luce orientabile sull'isola della cucina, l'illuminazione a LED integrata nei pensili. Con lampade a LED i consumi dell'illuminazione si sono ridotti del 70-80% rispetto alle alogene, ma il comfort dipende dalla distribuzione dei punti, non dalla loro potenza."
         ],
         "table": {
-          "headers": ["Ambiente", "Prese consigliate (oltre i minimi)", "Accorgimenti pratici"],
+          "headers": [
+            "Ambiente",
+            "Prese consigliate (oltre i minimi)",
+            "Accorgimenti pratici"
+          ],
           "rows": [
-            ["Soggiorno", "8-12", "multipla schierata dietro TV, prese USB"],
-            ["Cucina", "6-8 sul piano + dedicate", "circuiti separati per frigo, forno, induzione"],
-            ["Camera matrimoniale", "6-8", "prese ai due lati del letto, comando luci a letto"],
-            ["Bagno", "2-3 fuori dai volumi", "presa rasoi con separazione, luce specchio"],
-            ["Studio/smart working", "6-10", "linea dedicata con SPD per la strumentazione"]
+            [
+              "Soggiorno",
+              "8-12",
+              "multipla schierata dietro TV, prese USB"
+            ],
+            [
+              "Cucina",
+              "6-8 sul piano + dedicate",
+              "circuiti separati per frigo, forno, induzione"
+            ],
+            [
+              "Camera matrimoniale",
+              "6-8",
+              "prese ai due lati del letto, comando luci a letto"
+            ],
+            [
+              "Bagno",
+              "2-3 fuori dai volumi",
+              "presa rasoi con separazione, luce specchio"
+            ],
+            [
+              "Studio/smart working",
+              "6-10",
+              "linea dedicata con SPD per la strumentazione"
+            ]
           ]
         }
       },
@@ -359,7 +497,13 @@
       "ristrutturare-casa-da-dove-iniziare",
       "bonus-edilizi-2026-guida-completa"
     ],
-    "tags": ["impianto elettrico", "CEI 64-8", "normativa", "rifacimento impianti", "sicurezza elettrica"]
+    "tags": [
+      "impianto elettrico",
+      "CEI 64-8",
+      "normativa",
+      "rifacimento impianti",
+      "sicurezza elettrica"
+    ]
   },
   {
     "slug": "domotica-casa-intelligente-guida",
@@ -372,7 +516,7 @@
     "author": "Davide Riva",
     "authorRole": "Termotecnico",
     "publishedAt": "2026-06-20",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-06-20",
     "heroAlt": "Domotica casa: pannello di controllo touch per gestione di luci, clima e tapparelle",
     "pillar": false,
     "sections": [
@@ -393,12 +537,37 @@
           "La terza famiglia è quella dei dispositivi stand-alone: termostati intelligenti, prese connesse, videocitofoni smart che funzionano da soli con la propria app. Costano poco e si installano in minuti, ma senza una piattaforma di integrazione restano isole: la vera domotica inizia quando i dispositivi dialogano tra loro in scenari coordinati."
         ],
         "table": {
-          "headers": ["Sistema", "Costo indicativo (appartamento 100 mq)", "Affidabilità", "Quando sceglierlo"],
+          "headers": [
+            "Sistema",
+            "Costo indicativo (appartamento 100 mq)",
+            "Affidabilità",
+            "Quando sceglierlo"
+          ],
           "rows": [
-            ["Bus cablato KNX", "8.000-15.000 €", "Molto alta", "Nuova costruzione o ristrutturazione integrale"],
-            ["Wireless professionale", "3.000-7.000 €", "Alta (reti mesh)", "Casa abitata, senza opere murarie"],
-            ["Kit stand-alone", "300-1.500 €", "Media, dipende dal cloud", "Primo approccio, singole funzioni"],
-            ["Ibrido bus + radio", "5.000-10.000 €", "Alta", "Ristrutturazioni parziali con espansioni future"]
+            [
+              "Bus cablato KNX",
+              "8.000-15.000 €",
+              "Molto alta",
+              "Nuova costruzione o ristrutturazione integrale"
+            ],
+            [
+              "Wireless professionale",
+              "3.000-7.000 €",
+              "Alta (reti mesh)",
+              "Casa abitata, senza opere murarie"
+            ],
+            [
+              "Kit stand-alone",
+              "300-1.500 €",
+              "Media, dipende dal cloud",
+              "Primo approccio, singole funzioni"
+            ],
+            [
+              "Ibrido bus + radio",
+              "5.000-10.000 €",
+              "Alta",
+              "Ristrutturazioni parziali con espansioni future"
+            ]
           ]
         }
       },
@@ -462,12 +631,37 @@
           "Matter è il più giovane e il più promettente sul fronte consumer: uno standard applicativo voluto dai grandi produttori per far dialogare dispositivi di ecosistemi diversi, che viaggia su Wi-Fi e Thread e punta sul funzionamento locale. Non sostituisce KNX negli impianti strutturati, ma sta risolvendo il problema storico dei prodotti smart che non parlano tra loro. La regola pratica: impianto nuovo o rifatto, KNX; casa esistente, Zigbee/Z-Wave con gateway aperto; dispositivi singoli, verificare il badge Matter prima di comprare."
         ],
         "table": {
-          "headers": ["Protocollo", "Mezzo", "Interoperabilità", "Funziona senza cloud?"],
+          "headers": [
+            "Protocollo",
+            "Mezzo",
+            "Interoperabilità",
+            "Funziona senza cloud?"
+          ],
           "rows": [
-            ["KNX", "Bus cablato", "Alta, certificata, centinaia di marchi", "Sì, totalmente locale"],
-            ["Zigbee", "Radio mesh 2,4 GHz", "Buona via gateway", "Sì, con gateway locale"],
-            ["Z-Wave", "Radio mesh 868 MHz", "Alta, certificazione obbligatoria", "Sì, con gateway locale"],
-            ["Matter/Thread", "Wi-Fi + radio mesh", "In crescita, multipiattaforma", "Progettato per il locale"]
+            [
+              "KNX",
+              "Bus cablato",
+              "Alta, certificata, centinaia di marchi",
+              "Sì, totalmente locale"
+            ],
+            [
+              "Zigbee",
+              "Radio mesh 2,4 GHz",
+              "Buona via gateway",
+              "Sì, con gateway locale"
+            ],
+            [
+              "Z-Wave",
+              "Radio mesh 868 MHz",
+              "Alta, certificazione obbligatoria",
+              "Sì, con gateway locale"
+            ],
+            [
+              "Matter/Thread",
+              "Wi-Fi + radio mesh",
+              "In crescita, multipiattaforma",
+              "Progettato per il locale"
+            ]
           ]
         }
       },
@@ -563,7 +757,13 @@
       "pompa-di-calore-guida-completa",
       "incentivi-fotovoltaico-2026"
     ],
-    "tags": ["domotica", "casa intelligente", "KNX", "risparmio energetico", "building automation"]
+    "tags": [
+      "domotica",
+      "casa intelligente",
+      "KNX",
+      "risparmio energetico",
+      "building automation"
+    ]
   },
   {
     "slug": "ventilazione-meccanica-controllata-guida",
@@ -576,7 +776,7 @@
     "author": "Elena Gatti",
     "authorRole": "Ingegnere edile",
     "publishedAt": "2026-07-05",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-07-05",
     "heroAlt": "Unità di ventilazione meccanica controllata a doppio flusso con recuperatore di calore installata in un appartamento",
     "pillar": false,
     "sections": [
@@ -606,11 +806,31 @@
           "La VMC decentralizzata puntuale usa piccole unità a recupero di calore installate direttamente su parete esterna, una per locale: è la soluzione principe per appartamenti in condominio o edilizia esistente senza controsoffitti, perché basta un foro carotato da 160-200 mm per unità. Il costo è di 600-1.200 euro a macchina installata; il limite è la filtrazione più semplice e la gestione locale anziché centralizzata."
         ],
         "table": {
-          "headers": ["Tipologia", "Recupero calore", "Costo indicativo (100 mq)", "Contesto ideale"],
+          "headers": [
+            "Tipologia",
+            "Recupero calore",
+            "Costo indicativo (100 mq)",
+            "Contesto ideale"
+          ],
           "rows": [
-            ["Singolo flusso", "No", "1.000-3.000 €", "Climi miti, budget minimi"],
-            ["Doppio flusso centralizzata", "85-92%", "4.000-8.000 €", "Nuove costruzioni, ristrutturazioni profonde"],
-            ["Decentralizzata puntuale", "80-90% (per unità)", "2.500-6.000 €", "Appartamenti, condomini, senza controsoffitti"]
+            [
+              "Singolo flusso",
+              "No",
+              "1.000-3.000 €",
+              "Climi miti, budget minimi"
+            ],
+            [
+              "Doppio flusso centralizzata",
+              "85-92%",
+              "4.000-8.000 €",
+              "Nuove costruzioni, ristrutturazioni profonde"
+            ],
+            [
+              "Decentralizzata puntuale",
+              "80-90% (per unità)",
+              "2.500-6.000 €",
+              "Appartamenti, condomini, senza controsoffitti"
+            ]
           ]
         }
       },
@@ -657,13 +877,37 @@
           "La centrale si sceglie infine sul punto di lavoro: la portata richiesta alla prevalenza reale della rete di condotte, non il valore massimo di catalogo a bocca libera. Una rete ben progettata per un appartamento presenta perdite di carico di 80-150 Pa; chiedere al fornitore la curva ventilatore e verificare che il punto di lavoro cada nella zona efficiente e silenziosa è la verifica che distingue un progetto da un preventivo."
         ],
         "table": {
-          "headers": ["Locale", "Tipo", "Portata tipica"],
+          "headers": [
+            "Locale",
+            "Tipo",
+            "Portata tipica"
+          ],
           "rows": [
-            ["Camera matrimoniale", "Immissione", "40-60 m³/h"],
-            ["Cameretta", "Immissione", "25-40 m³/h"],
-            ["Soggiorno", "Immissione", "40-80 m³/h"],
-            ["Bagno", "Estrazione", "30-50 m³/h"],
-            ["Cucina", "Estrazione", "40-60 m³/h (boost in cottura)"]
+            [
+              "Camera matrimoniale",
+              "Immissione",
+              "40-60 m³/h"
+            ],
+            [
+              "Cameretta",
+              "Immissione",
+              "25-40 m³/h"
+            ],
+            [
+              "Soggiorno",
+              "Immissione",
+              "40-80 m³/h"
+            ],
+            [
+              "Bagno",
+              "Estrazione",
+              "30-50 m³/h"
+            ],
+            [
+              "Cucina",
+              "Estrazione",
+              "40-60 m³/h (boost in cottura)"
+            ]
           ]
         }
       },
@@ -701,13 +945,37 @@
           "La regola di sintesi per il progettista: la VMC garantisce ricambio e qualità dell'aria tutto l'anno; la gestione estiva dell'umidità spetta alla climatizzazione. Negli edifici molto performanti, la combinazione VMC entalpica più pompa di calore con deumidifica è oggi lo standard di riferimento per il comfort estivo senza aprire le finestre."
         ],
         "table": {
-          "headers": ["Funzione", "VMC", "Deumidificatore"],
+          "headers": [
+            "Funzione",
+            "VMC",
+            "Deumidificatore"
+          ],
           "rows": [
-            ["Ricambio d'aria", "Sì, continuo", "No"],
-            ["Riduzione CO₂ e VOC", "Sì", "No"],
-            ["Controllo umidità invernale", "Sì, ottimo", "Sì, ma localizzato"],
-            ["Deumidifica estiva intensiva", "Limitata (entalpico)", "Sì, dedicata"],
-            ["Consumo tipico", "30-80 W", "200-500 W in funzione"]
+            [
+              "Ricambio d'aria",
+              "Sì, continuo",
+              "No"
+            ],
+            [
+              "Riduzione CO₂ e VOC",
+              "Sì",
+              "No"
+            ],
+            [
+              "Controllo umidità invernale",
+              "Sì, ottimo",
+              "Sì, ma localizzato"
+            ],
+            [
+              "Deumidifica estiva intensiva",
+              "Limitata (entalpico)",
+              "Sì, dedicata"
+            ],
+            [
+              "Consumo tipico",
+              "30-80 W",
+              "200-500 W in funzione"
+            ]
           ]
         }
       }
@@ -748,6 +1016,12 @@
       "cappotto-termico-esterno-guida",
       "direttiva-case-green-cosa-cambia"
     ],
-    "tags": ["ventilazione meccanica controllata", "VMC", "qualità dell'aria", "recupero di calore", "efficienza energetica"]
+    "tags": [
+      "ventilazione meccanica controllata",
+      "VMC",
+      "qualità dell'aria",
+      "recupero di calore",
+      "efficienza energetica"
+    ]
   }
 ]

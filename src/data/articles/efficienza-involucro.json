@@ -10,7 +10,7 @@
     "author": "Davide Riva",
     "authorRole": "Termotecnico",
     "publishedAt": "2026-05-20",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-05-20",
     "heroAlt": "Pompa di calore aria-acqua installata all'esterno di una villetta unifamiliare",
     "pillar": false,
     "sections": [
@@ -31,13 +31,49 @@
           "Le aria-acqua sono oggi la soluzione più diffusa nelle ristrutturazioni residenziali italiane: un'unità esterna capta il calore dall'aria e lo cede all'acqua dell'impianto di riscaldamento. Le aria-aria sono i comuni climatizzatori a split, efficienti in raffrescamento e nel riscaldamento delle mezze stagioni. Le geotermiche prelevano calore dal terreno tramite sonde e offrono le rese più stabili, ma richiedono scavi o perforazioni."
         ],
         "table": {
-          "headers": ["Tipologia", "Fonte di calore", "COP medio stagionale", "Costo installato indicativo", "Ideale per"],
+          "headers": [
+            "Tipologia",
+            "Fonte di calore",
+            "COP medio stagionale",
+            "Costo installato indicativo",
+            "Ideale per"
+          ],
           "rows": [
-            ["Aria-acqua monoblocco", "Aria esterna", "3,0-3,8", "8.000-14.000 euro", "Villette con radiante o termosifoni sovradimensionati"],
-            ["Aria-acqua splittata", "Aria esterna", "3,0-3,8", "9.000-15.000 euro", "Climi rigidi, unità idraulica protetta dal gelo"],
-            ["Aria-aria (multisplit)", "Aria esterna", "3,5-4,5", "2.500-6.000 euro", "Appartamenti, integrazione, raffrescamento estivo"],
-            ["Acqua-acqua", "Falda acquifera", "4,5-5,5", "20.000-35.000 euro", "Grandi edifici con disponibilità di falda e autorizzazioni"],
-            ["Geotermica (sonde verticali)", "Terreno", "4,0-5,0", "25.000-40.000 euro", "Nuove costruzioni con spazio per perforazioni"]
+            [
+              "Aria-acqua monoblocco",
+              "Aria esterna",
+              "3,0-3,8",
+              "8.000-14.000 euro",
+              "Villette con radiante o termosifoni sovradimensionati"
+            ],
+            [
+              "Aria-acqua splittata",
+              "Aria esterna",
+              "3,0-3,8",
+              "9.000-15.000 euro",
+              "Climi rigidi, unità idraulica protetta dal gelo"
+            ],
+            [
+              "Aria-aria (multisplit)",
+              "Aria esterna",
+              "3,5-4,5",
+              "2.500-6.000 euro",
+              "Appartamenti, integrazione, raffrescamento estivo"
+            ],
+            [
+              "Acqua-acqua",
+              "Falda acquifera",
+              "4,5-5,5",
+              "20.000-35.000 euro",
+              "Grandi edifici con disponibilità di falda e autorizzazioni"
+            ],
+            [
+              "Geotermica (sonde verticali)",
+              "Terreno",
+              "4,0-5,0",
+              "25.000-40.000 euro",
+              "Nuove costruzioni con spazio per perforazioni"
+            ]
           ]
         },
         "subsections": [
@@ -142,12 +178,37 @@
           "I valori della tabella sono puramente indicativi, basati su prezzi dell'energia variabili nel tempo: il confronto va sempre rifatto con le proprie tariffe contrattuali e con i consumi reali della propria abitazione."
         ],
         "table": {
-          "headers": ["Voce", "Caldaia a condensazione", "Pompa di calore (SCOP 3,5)", "Pompa di calore + fotovoltaico"],
+          "headers": [
+            "Voce",
+            "Caldaia a condensazione",
+            "Pompa di calore (SCOP 3,5)",
+            "Pompa di calore + fotovoltaico"
+          ],
           "rows": [
-            ["Energia per 10.000 kWh termici/anno", "Circa 1.050 mc di gas", "Circa 2.850 kWh elettrici", "Circa 1.700-2.000 kWh prelevati dalla rete"],
-            ["Costo annuo indicativo", "1.200-1.500 euro", "750-1.000 euro", "500-700 euro"],
-            ["Emissioni di CO2 stimate", "Circa 2.100 kg/anno", "In calo con il mix elettrico nazionale", "Le più basse, grazie all'autoconsumo"],
-            ["Manutenzione obbligatoria", "Controllo efficienza e fumi periodico", "Controllo perdite F-gas sopra le soglie di legge", "Come pompa di calore, più verifica impianto FV"]
+            [
+              "Energia per 10.000 kWh termici/anno",
+              "Circa 1.050 mc di gas",
+              "Circa 2.850 kWh elettrici",
+              "Circa 1.700-2.000 kWh prelevati dalla rete"
+            ],
+            [
+              "Costo annuo indicativo",
+              "1.200-1.500 euro",
+              "750-1.000 euro",
+              "500-700 euro"
+            ],
+            [
+              "Emissioni di CO2 stimate",
+              "Circa 2.100 kg/anno",
+              "In calo con il mix elettrico nazionale",
+              "Le più basse, grazie all'autoconsumo"
+            ],
+            [
+              "Manutenzione obbligatoria",
+              "Controllo efficienza e fumi periodico",
+              "Controllo perdite F-gas sopra le soglie di legge",
+              "Come pompa di calore, più verifica impianto FV"
+            ]
           ]
         }
       },
@@ -190,8 +251,19 @@
         "a": "Spesso sì, almeno in una fase transitoria: mantenere la caldaia come generatore di emergenza riduce il rischio dell'investimento negli edifici non ancora riqualificati. Le centraline dei sistemi ibridi gestiscono automaticamente la commutazione in funzione di temperatura esterna e convenienza economica."
       }
     ],
-    "related": ["pannelli-solari-fotovoltaico-guida-completa", "cappotto-termico-esterno-guida", "incentivi-fotovoltaico-2026", "conto-termico-3-come-funziona"],
-    "tags": ["pompa di calore", "riscaldamento", "efficienza energetica", "fotovoltaico", "riqualificazione energetica"]
+    "related": [
+      "pannelli-solari-fotovoltaico-guida-completa",
+      "cappotto-termico-esterno-guida",
+      "incentivi-fotovoltaico-2026",
+      "conto-termico-3-come-funziona"
+    ],
+    "tags": [
+      "pompa di calore",
+      "riscaldamento",
+      "efficienza energetica",
+      "fotovoltaico",
+      "riqualificazione energetica"
+    ]
   },
   {
     "slug": "cappotto-termico-esterno-guida",
@@ -204,7 +276,7 @@
     "author": "Elena Gatti",
     "authorRole": "Ingegnere edile",
     "publishedAt": "2026-06-03",
-    "updatedAt": "2026-07-21",
+    "updatedAt": "2026-06-03",
     "heroAlt": "Posa di pannelli isolanti per cappotto termico sulla facciata di un condominio",
     "pillar": false,
     "sections": [
@@ -225,13 +297,55 @@
           "L'EPS (polistirene espanso sinterizzato) è lo standard di mercato, con oltre il 70% delle applicazioni in Italia: economico, leggero, facile da lavorare. Lana di roccia e sughero coprono le esigenze di reazione al fuoco e naturalità; la fibra di legno è apprezzata per lo sfasamento estivo. Ecco il confronto operativo."
         ],
         "table": {
-          "headers": ["Materiale", "Conducibilità λ (W/mK)", "Reazione al fuoco", "Costo fornitura e posa (euro/mq, 12 cm)", "Punti di forza", "Limiti"],
+          "headers": [
+            "Materiale",
+            "Conducibilità λ (W/mK)",
+            "Reazione al fuoco",
+            "Costo fornitura e posa (euro/mq, 12 cm)",
+            "Punti di forza",
+            "Limiti"
+          ],
           "rows": [
-            ["EPS bianco", "0,036-0,040", "E (autoesinguente)", "70-95", "Economico, leggero, posa rapida", "Sensibile al calore, scarso sfasamento estivo"],
-            ["EPS grafite", "0,031-0,033", "E (autoesinguente)", "75-100", "A parità di spessore isola il 15-20% in più", "Surriscaldamento in fase di posa al sole"],
-            ["Lana di roccia", "0,034-0,038", "A1/A2 (incombustibile)", "95-130", "Sicurezza al fuoco, fonoassorbenza", "Peso, costo, posa più lenta"],
-            ["Sughero", "0,037-0,040", "E", "110-150", "Naturale, traspirante, durevole", "Costo elevato, spessori maggiori a parità di trasmittanza"],
-            ["Fibra di legno", "0,038-0,043", "E", "100-140", "Ottimo sfasamento estivo, traspirante", "Sensibile all'umidità in fase di cantiere"]
+            [
+              "EPS bianco",
+              "0,036-0,040",
+              "E (autoesinguente)",
+              "70-95",
+              "Economico, leggero, posa rapida",
+              "Sensibile al calore, scarso sfasamento estivo"
+            ],
+            [
+              "EPS grafite",
+              "0,031-0,033",
+              "E (autoesinguente)",
+              "75-100",
+              "A parità di spessore isola il 15-20% in più",
+              "Surriscaldamento in fase di posa al sole"
+            ],
+            [
+              "Lana di roccia",
+              "0,034-0,038",
+              "A1/A2 (incombustibile)",
+              "95-130",
+              "Sicurezza al fuoco, fonoassorbenza",
+              "Peso, costo, posa più lenta"
+            ],
+            [
+              "Sughero",
+              "0,037-0,040",
+              "E",
+              "110-150",
+              "Naturale, traspirante, durevole",
+              "Costo elevato, spessori maggiori a parità di trasmittanza"
+            ],
+            [
+              "Fibra di legno",
+              "0,038-0,043",
+              "E",
+              "100-140",
+              "Ottimo sfasamento estivo, traspirante",
+              "Sensibile all'umidità in fase di cantiere"
+            ]
           ]
         }
       },
@@ -400,7 +514,18 @@
         "a": "Non se progettato correttamente. Il rischio di condensa interstiziale si valuta con il calcolo igrometrico secondo la norma UNI EN ISO 13788: in funzione di clima, muratura e materiale si decide se serve un freno al vapore. Materiali capillari come il calcio silicato gestiscono meglio l'umidità rispetto ai pannelli con barriere rigide."
       }
     ],
-    "related": ["migliori-isolanti-termici-confronto", "pompa-di-calore-guida-completa", "sostituzione-infissi-costi-guida", "detrazione-ristrutturazioni-50-come-funziona"],
-    "tags": ["cappotto termico", "isolamento", "involucro edilizio", "ETICS", "riqualificazione energetica"]
+    "related": [
+      "migliori-isolanti-termici-confronto",
+      "pompa-di-calore-guida-completa",
+      "sostituzione-infissi-costi-guida",
+      "detrazione-ristrutturazioni-50-come-funziona"
+    ],
+    "tags": [
+      "cappotto termico",
+      "isolamento",
+      "involucro edilizio",
+      "ETICS",
+      "riqualificazione energetica"
+    ]
   }
 ]

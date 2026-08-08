@@ -113,8 +113,11 @@ export default function ArticlePage() {
                 <span className="text-muted-foreground"> · {article.authorRole}</span>
               </p>
               <p className="font-sans text-xs text-muted-foreground">
-                Pubblicato il {formatDate(article.publishedAt)} · Aggiornato il{" "}
-                {formatDate(article.updatedAt)} · {readingTime(article)} min di lettura
+                Pubblicato il {formatDate(article.publishedAt)}
+                {article.updatedAt > article.publishedAt && (
+                  <> · Aggiornato il {formatDate(article.updatedAt)}</>
+                )}{" "}
+                · {readingTime(article)} min di lettura
               </p>
               {/* Condivisione leggera: solo link, nessuno script esterno */}
               <div className="font-sans ml-auto flex items-center gap-3 text-xs font-semibold">
