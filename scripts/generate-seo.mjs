@@ -62,6 +62,7 @@ const urls = [
     priority: a.pillar ? "0.9" : "0.7",
     changefreq: "weekly",
     lastmod: a.updatedAt,
+    image: { loc: `/images/articles/${a.slug}.webp`, title: a.title, caption: a.heroAlt },
   })),
   // Pagine autore: segnale E-E-A-T, vanno indicizzate
   ...[...new Set(articles.map((a) => a.author))].map((n) => ({
@@ -76,14 +77,24 @@ const urls = [
 ];
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls
   .map(
     (u) => `  <url>
     <loc>${SITE}${esc(u.loc)}</loc>
     ${u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : ""}
     <changefreq>${u.changefreq}</changefreq>
-    <priority>${u.priority}</priority>
+    <priority>${u.priority}</priority>${
+      u.image
+        ? `
+    <image:image>
+      <image:loc>${SITE}${u.image.loc}</image:loc>
+      <image:title>${esc(u.image.title)}</image:title>
+      <image:caption>${esc(u.image.caption)}</image:caption>
+    </image:image>`
+        : ""
+    }
   </url>`
   )
   .join("\n")}
@@ -185,6 +196,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
     <language>it-it</language>
     <lastBuildDate>${rfc822(articles[0]?.updatedAt ?? "2026-07-21")}</lastBuildDate>
     <atom:link href="${SITE}/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 ${articles
   .slice(0, 20)
   .map(

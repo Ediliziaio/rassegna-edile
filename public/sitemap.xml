@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
     <lastmod>2026-07-10</lastmod>
@@ -59,210 +60,385 @@
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/migliori-marche-pannelli-solari.webp</image:loc>
+      <image:title>Migliori pannelli solari 2026: marche, criteri di scelta e schede tecniche a confronto</image:title>
+      <image:caption>Migliori pannelli solari: confronto tra moduli fotovoltaici monocristallini di ultima generazione</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/legno-lamellare-costruzioni-guida/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/legno-lamellare-costruzioni-guida.webp</image:loc>
+      <image:title>Legno lamellare: guida completa a caratteristiche, impieghi e costi nelle costruzioni</image:title>
+      <image:caption>Struttura portante in legno lamellare durante il montaggio in cantiere</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/stampa-3d-edilizia-case/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/stampa-3d-edilizia-case.webp</image:loc>
+      <image:title>Stampa 3D in edilizia: come si costruiscono le case, costi e stato dell'arte</image:title>
+      <image:caption>Stampa 3D edilizia: stampante robotica estrude calcestruzzo per una casa</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/ventilazione-meccanica-controllata-guida/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/ventilazione-meccanica-controllata-guida.webp</image:loc>
+      <image:title>Ventilazione meccanica controllata (VMC): guida completa a tipologie, costi e manutenzione</image:title>
+      <image:caption>Unità di ventilazione meccanica controllata a doppio flusso con recuperatore di calore installata in un appartamento</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/detrazione-ristrutturazioni-50-come-funziona/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/detrazione-ristrutturazioni-50-come-funziona.webp</image:loc>
+      <image:title>Detrazione ristrutturazioni al 50%: come funziona, massimali e documenti</image:title>
+      <image:caption>Ristrutturazione appartamento e detrazione ristrutturazioni al 50%</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/salva-casa-sanatoria-edilizia/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/salva-casa-sanatoria-edilizia.webp</image:loc>
+      <image:title>Salva casa e sanatoria edilizia: cosa prevede il decreto e come funziona</image:title>
+      <image:caption>Salva casa sanatoria edilizia: tecnico verifica documenti di un immobile</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/zanzariere-guida-scelta/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/zanzariere-guida-scelta.webp</image:loc>
+      <image:title>Zanzariere: guida alla scelta tra rullo, plissettata, magnetica e scorrevole</image:title>
+      <image:caption>Zanzariere a rullo e plissettate installate su finestre e porte finestre</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/come-funzionano-pannelli-solari/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/come-funzionano-pannelli-solari.webp</image:loc>
+      <image:title>Come funzionano i pannelli solari: dall'effetto fotovoltaico alla bolletta</image:title>
+      <image:caption>Come funzionano i pannelli solari: schema di un impianto fotovoltaico con moduli e inverter</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/manutenzione-pannelli-solari/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/manutenzione-pannelli-solari.webp</image:loc>
+      <image:title>Manutenzione dei pannelli solari: guida pratica a pulizia, controlli e costi</image:title>
+      <image:caption>Tecnico esegue la manutenzione e la pulizia dei pannelli solari su un tetto</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/domotica-casa-intelligente-guida.webp</image:loc>
+      <image:title>Domotica e casa intelligente: guida a sistemi, costi e automazioni che contano davvero</image:title>
+      <image:caption>Domotica casa: pannello di controllo touch per gestione di luci, clima e tapparelle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/ristrutturare-casa-da-dove-iniziare.webp</image:loc>
+      <image:title>Ristrutturare casa: da dove iniziare? Metodo, budget e ordine dei lavori</image:title>
+      <image:caption>Ristrutturare casa da dove iniziare: planimetria, budget e sopralluogo tecnico prima dei lavori</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/direttiva-case-green-cosa-cambia.webp</image:loc>
+      <image:title>Direttiva Case Green: cosa cambia per edifici, proprietari e imprese</image:title>
+      <image:caption>Direttiva Case Green: edificio efficiente con pannelli solari e cappotto termico</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/case-prefabbricate-prezzi-guida.webp</image:loc>
+      <image:title>Case prefabbricate: prezzi al mq, tipologie e come scegliere il produttore</image:title>
+      <image:caption>Casa prefabbricata in legno in fase di montaggio con gru, prezzi e tipologie</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/conto-termico-3-come-funziona.webp</image:loc>
+      <image:title>Conto Termico 3.0: come funziona l'incentivo del GSE per l'efficienza energetica</image:title>
+      <image:caption>Pompa di calore e conto termico 3.0: incentivo GSE per l'efficienza energetica</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/migliori-isolanti-termici-confronto/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/migliori-isolanti-termici-confronto.webp</image:loc>
+      <image:title>Migliori isolanti termici a confronto: conducibilità, costi e impieghi ideali</image:title>
+      <image:caption>Confronto dei migliori isolanti termici per cappotto e coperture</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/sostituzione-infissi-costi-guida/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/sostituzione-infissi-costi-guida.webp</image:loc>
+      <image:title>Sostituzione infissi: costi 2026 per materiale, posa in opera e pratiche da seguire</image:title>
+      <image:caption>Sostituzione infissi in cantiere con posa del nuovo serramento sul vano finestra</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/cappotto-termico-esterno-guida/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/cappotto-termico-esterno-guida.webp</image:loc>
+      <image:title>Cappotto termico esterno: guida a materiali, spessori, costi e posa</image:title>
+      <image:caption>Posa di pannelli isolanti per cappotto termico sulla facciata di un condominio</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/sicurezza-cantiere-dlgs-81-guida/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/sicurezza-cantiere-dlgs-81-guida.webp</image:loc>
+      <image:title>Sicurezza in cantiere: la guida al D.Lgs 81/2008 per committenti e imprese</image:title>
+      <image:caption>Sicurezza in cantiere secondo il D.Lgs 81/2008: operai con DPI al lavoro</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/impianto-elettrico-a-norma-cei-64-8.webp</image:loc>
+      <image:title>Impianto elettrico a norma CEI 64-8: cosa prescrive, livelli e costi del rifacimento</image:title>
+      <image:caption>Quadro elettrico moderno con interruttori magnetotermici e differenziali per impianto elettrico a norma CEI 64-8</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-cucina-guida/</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/ristrutturare-cucina-guida.webp</image:loc>
+      <image:title>Ristrutturare la cucina: guida a costi, layout, impianti e materiali</image:title>
+      <image:caption>Ristrutturare cucina: progetto di cucina moderna con isola e nuovi impianti</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/intelligenza-artificiale-cantieri-edili/</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/intelligenza-artificiale-cantieri-edili.webp</image:loc>
+      <image:title>Intelligenza artificiale in edilizia: applicazioni reali nei cantieri italiani</image:title>
+      <image:caption>Intelligenza artificiale in edilizia: tablet con analisi dati in un cantiere</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-costi-prezzi/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/pannelli-solari-costi-prezzi.webp</image:loc>
+      <image:title>Costo pannelli solari 2026: prezzi per taglia, accumulo e rientro dell'investimento</image:title>
+      <image:caption>Costo pannelli solari: operaio installa moduli fotovoltaici su un tetto residenziale</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/incentivi-fotovoltaico-2026/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/incentivi-fotovoltaico-2026.webp</image:loc>
+      <image:title>Incentivi fotovoltaico 2026: detrazioni, Conto Termico e valorizzazione dell'energia</image:title>
+      <image:caption>Impianto fotovoltaico domestico e incentivi fotovoltaico disponibili</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/blocchi-termoisolanti-laterizi-guida/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/blocchi-termoisolanti-laterizi-guida.webp</image:loc>
+      <image:title>Blocchi termoisolanti in laterizio: guida a tipologie, prestazioni e costi al mq</image:title>
+      <image:caption>Muro in blocchi termoisolanti porizzati in fase di posa in cantiere</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/finestre-triplo-vetro-conviene/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/finestre-triplo-vetro-conviene.webp</image:loc>
+      <image:title>Triplo vetro: quando conviene davvero e quanto fa risparmiare in bolletta</image:title>
+      <image:caption>Finestra con triplo vetro basso-emissivo e gas argon in abitazione coibentata</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pompa-di-calore-guida-completa/</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/pompa-di-calore-guida-completa.webp</image:loc>
+      <image:title>Pompa di calore: guida completa a funzionamento, tipologie, costi e incentivi</image:title>
+      <image:caption>Pompa di calore aria-acqua installata all'esterno di una villetta unifamiliare</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/normative/cila-scia-permesso-costruire-differenze/</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/cila-scia-permesso-costruire-differenze.webp</image:loc>
+      <image:title>CILA, SCIA e permesso di costruire: le differenze spiegate in modo chiaro</image:title>
+      <image:caption>CILA, SCIA e permesso di costruire: differenze tra titoli abilitativi edilizi</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-bagno-costi-tempi/</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/ristrutturare-bagno-costi-tempi.webp</image:loc>
+      <image:title>Ristrutturare il bagno: costi, tempi e voci di spesa nel 2026</image:title>
+      <image:caption>Ristrutturare bagno costi: cantiere di rifacimento bagno con nuove tubature e sanitari</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/impianti/rifacimento-impianto-idraulico-costi/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/rifacimento-impianto-idraulico-costi.webp</image:loc>
+      <image:title>Rifacimento impianto idraulico: costi, materiali e tempi della sostituzione completa</image:title>
+      <image:caption>Rifacimento impianto idraulico: costi e posa di nuove tubazioni in multistrato in un bagno</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/tecnologie-innovazione/bim-edilizia-guida/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/bim-edilizia-guida.webp</image:loc>
+      <image:title>BIM edilizia: cos'è, come funziona e perché conviene a imprese e professionisti</image:title>
+      <image:caption>Modello BIM edilizia su schermo con struttura tridimensionale di un edificio</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/cemento-sostenibile-materiali-innovativi/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/cemento-sostenibile-materiali-innovativi.webp</image:loc>
+      <image:title>Cemento sostenibile: guida ai materiali innovativi che riducono la CO2 in cantiere</image:title>
+      <image:caption>Getto di cemento sostenibile a basso clinker in un cantiere edile italiano</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/serramenti-pvc-alluminio-legno-confronto/</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/serramenti-pvc-alluminio-legno-confronto.webp</image:loc>
+      <image:title>Serramenti in PVC, alluminio o legno: il confronto definitivo per scegliere senza errori</image:title>
+      <image:caption>Confronto tra serramenti in PVC, alluminio e legno su un cantiere di ristrutturazione</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/ristrutturazione-chiavi-in-mano-guida.webp</image:loc>
+      <image:title>Ristrutturazione chiavi in mano: cos'è, quanto costa e come funziona nel 2026</image:title>
+      <image:caption>Cantiere di ristrutturazione chiavi in mano di un appartamento con impresa edile al lavoro</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/pannelli-solari-fotovoltaico-guida-completa.webp</image:loc>
+      <image:title>Pannelli solari fotovoltaico: la guida completa 2026 per la tua casa</image:title>
+      <image:caption>Pannelli solari fotovoltaico installati sul tetto a falda di una villetta italiana</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/incentivi-bonus/bonus-edilizi-2026-guida-completa/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/bonus-edilizi-2026-guida-completa.webp</image:loc>
+      <image:title>Bonus edilizi 2026: la guida completa a tutte le agevolazioni per la casa</image:title>
+      <image:caption>Cantieri e agevolazioni fiscali: guida ai bonus edilizi 2026 per la casa</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/autore/davide-riva/</loc>

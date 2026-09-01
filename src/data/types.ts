@@ -38,6 +38,12 @@ export interface Category {
   description: string;
   metaTitle: string;
   metaDescription: string;
+  /** Panoramica editoriale della sezione: contenuto originale della pagina hub. */
+  intro?: string[];
+  /** Sotto-temi coperti dalla sezione, con spiegazione sintetica. */
+  covers?: { title: string; text: string }[];
+  /** Domande frequenti di sezione (alimentano FAQPage sulla pagina hub). */
+  faq?: { q: string; a: string }[];
 }
 
 export interface Author {
