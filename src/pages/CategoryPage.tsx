@@ -107,7 +107,7 @@ export default function CategoryPage() {
         </section>
       )}
 
-      <div className="grid gap-10 py-8 lg:grid-cols-[2fr_1fr]">
+      <div className="grid gap-10 py-8 lg:grid-cols-[minmax(0,2fr)_1fr]">
         <div>
           {first && (
             <div className="border-b border-border pb-8">
@@ -126,9 +126,9 @@ export default function CategoryPage() {
           </div>
         </div>
 
-        <aside className="lg:sticky lg:top-6 lg:self-start">
+        <aside className="min-w-0 lg:sticky lg:top-6 lg:self-start">
           <AdSlot id={`rect-${cat.slug}-1`} format="rectangle" className="mx-auto" />
-          <AdSlot id={`rect-${cat.slug}-2`} format="rectangle" className="mx-auto mt-6" />
+          <AdSlot id={`ad-${cat.slug}-2`} format="box" className="mx-auto mt-6" />
         </aside>
       </div>
 

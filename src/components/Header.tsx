@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { categories, SITE } from "@/data/categories";
-import { ADS_ENABLED } from "./AdSlot";
+import AdSlot from "./AdSlot";
 
 function Logo({ compact = false }: { compact?: boolean }) {
   return (
@@ -77,18 +77,13 @@ export default function Header() {
       {/* Masthead */}
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
         <Logo />
-        {/* Slot leaderboard 728x90 (attivo solo con ADS_ENABLED) */}
-        {ADS_ENABLED && (
-          <div
-            className="hidden h-[90px] w-[728px] items-center justify-center border border-dashed border-border bg-muted/40 lg:flex"
-            data-ad-slot="leaderboard-top"
-            aria-label="Spazio pubblicitario"
-          >
-            <span className="font-sans text-[0.6rem] uppercase tracking-[0.3em] text-muted-foreground">
-              Pubblicità 728×90
-            </span>
-          </div>
-        )}
+        {/* Leaderboard in testata: visibile da desktop, above the fold */}
+        <AdSlot
+          id="leaderboard-top"
+          format="leaderboard"
+          eager
+          className="hidden lg:block"
+        />
       </div>
 
       {/* Nav categorie */}

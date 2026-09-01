@@ -89,7 +89,7 @@ export default function ArticlePage() {
 
       <div className="mt-6 grid gap-10 lg:grid-cols-[minmax(0,2fr)_1fr]">
         {/* ===== CORPO ARTICOLO ===== */}
-        <article>
+        <article className="min-w-0">
           <header>
             <p className="kicker">{cat.name}</p>
             <h1 className="font-display mt-2 text-3xl font-black leading-tight text-foreground md:text-[2.6rem] md:leading-[1.15]">
@@ -257,7 +257,7 @@ export default function ArticlePage() {
                 ))}
                 {/* Slot in-article tra le sezioni: spazio riservato, nessun CLS */}
                 {si === 1 && (
-                  <AdSlot id="rect-article-inline" format="rectangle" className="mx-auto my-8" />
+                  <AdSlot id="ad-article-inline" format="box" className="mx-auto my-8" />
                 )}
               </section>
             ))}
@@ -310,7 +310,7 @@ export default function ArticlePage() {
         </article>
 
         {/* ===== SIDEBAR ===== */}
-        <aside className="lg:sticky lg:top-6 lg:self-start">
+        <aside className="min-w-0 lg:sticky lg:top-6 lg:self-start">
           <AdSlot id="rect-article-sidebar" format="rectangle" className="mx-auto" />
           <section aria-labelledby="correlati" className="mt-8">
             <h2

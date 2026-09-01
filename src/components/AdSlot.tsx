@@ -1,43 +1,96 @@
 interface AdSlotProps {
   id: string;
-  format: "leaderboard" | "rectangle" | "infeed" | "anchor";
+  format: AdFormat;
   className?: string;
+  /** true solo per lo slot in testata, che è above the fold. */
+  eager?: boolean;
 }
 
-const dims: Record<string, string> = {
-  leaderboard: "h-[90px] w-full max-w-[728px]",
-  rectangle: "h-[250px] w-[300px]",
-  infeed: "h-[132px] w-full",
-  anchor: "h-[60px] w-full",
-};
+export type AdFormat = "leaderboard" | "rectangle" | "infeed" | "box";
+
+/** Destinazione delle campagne attualmente in rotazione. */
+const AD_HREF = "https://www.ediliziaincloud.com/";
 
 /**
- * Slot pubblicitario.
- *
- * ADS_ENABLED = false → non renderizza nulla: finché non è collegato un
- * circuito reale (AdSense / Ad Manager) mostrare riquadri vuoti con la scritta
- * "Pubblicità" fa apparire il sito incompiuto agli utenti e ai quality rater.
- *
- * Per attivare la monetizzazione: portare ADS_ENABLED a true e sostituire il
- * placeholder con il tag dell'ad unit, mantenendo il wrapper a dimensione fissa
- * (lo spazio resta riservato prima del caricamento → nessun layout shift).
+ * Creatività disponibili. Ogni formato dichiara le dimensioni native
+ * dell'immagine: lo spazio viene riservato con l'aspect-ratio corretto, quindi
+ * nessun layout shift e nessuna deformazione.
  */
-export const ADS_ENABLED = false;
+const creatives: Record<
+  AdFormat,
+  { src: string; w: number; h: number; alt: string; wrap: string }
+> = {
+  leaderboard: {
+    src: "/images/ads/leaderboard.webp",
+    w: 1940,
+    h: 180,
+    alt: "EdiliziaInCloud — il gestionale con AI per l'edilizia: prova gratuita di 31 giorni",
+    wrap: "w-full max-w-[970px]",
+  },
+  rectangle: {
+    src: "/images/ads/rectangle.webp",
+    w: 600,
+    h: 500,
+    alt: "EdiliziaInCloud — controlla margini, utili e guadagni della tua impresa edile",
+    wrap: "w-[300px]",
+  },
+  infeed: {
+    src: "/images/ads/infeed.webp",
+    w: 1620,
+    h: 672,
+    alt: "EdiliziaInCloud — gestione cantieri, finanza e fatturazione in un'unica piattaforma",
+    wrap: "w-full max-w-[820px] mx-auto",
+  },
+  box: {
+    src: "/images/ads/box.webp",
+    w: 800,
+    h: 581,
+    alt: "EdiliziaInCloud — aumenta margini e utili con l'AI per l'edilizia",
+    wrap: "w-full max-w-[500px]",
+  },
+};
 
-export default function AdSlot({ id, format, className = "" }: AdSlotProps) {
+/** Portare a false per sospendere tutte le campagne. */
+export const ADS_ENABLED = true;
+
+export default function AdSlot({
+  id,
+  format,
+  className = "",
+  eager = false,
+}: AdSlotProps) {
   if (!ADS_ENABLED) return null;
+  const c = creatives[format];
 
   return (
-    <div
-      className={`flex items-center justify-center overflow-hidden border border-dashed border-border bg-muted/40 ${dims[format]} ${className}`}
+    <aside
+      className={`${c.wrap} ${className}`}
       data-ad-slot={id}
       data-ad-format={format}
-      role="complementary"
-      aria-label="Spazio pubblicitario"
+      aria-label="Contenuto pubblicitario"
     >
-      <span className="font-sans text-[0.6rem] uppercase tracking-[0.3em] text-muted-foreground">
+      <p className="font-sans mb-1 text-[0.55rem] uppercase tracking-[0.25em] text-muted-foreground">
         Pubblicità
-      </span>
-    </div>
+      </p>
+      <a
+        href={AD_HREF}
+        target="_blank"
+        // sponsored: segnala a Google che è un link pubblicitario e non
+        // trasferisce PageRank, come richiesto per i contenuti a pagamento.
+        rel="sponsored noopener noreferrer"
+        className="block overflow-hidden rounded-sm border border-border transition-opacity hover:opacity-90"
+      >
+        <img
+          src={c.src}
+          alt={c.alt}
+          width={c.w}
+          height={c.h}
+          loading={eager ? "eager" : "lazy"}
+          decoding="async"
+          className="block h-auto w-full"
+          style={{ aspectRatio: `${c.w} / ${c.h}` }}
+        />
+      </a>
+    </aside>
   );
 }

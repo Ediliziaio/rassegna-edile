@@ -33,7 +33,7 @@ export default function HomePage() {
   return (
     <div className="mx-auto max-w-7xl px-4">
       {/* ===== APERTURA: hero + secondari ===== */}
-      <div className="grid gap-8 border-b border-border py-8 lg:grid-cols-[2fr_1fr]">
+      <div className="grid gap-8 border-b border-border py-8 lg:grid-cols-[minmax(0,2fr)_1fr]">
         {hero && <ArticleCard article={hero} variant="hero" priority />}
         <aside aria-label="In primo piano" className="border-t border-border pt-4 lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0">
           <p className="font-sans mb-2 text-[0.68rem] font-bold uppercase tracking-[0.2em] text-primary">
@@ -46,7 +46,7 @@ export default function HomePage() {
       </div>
 
       {/* ===== Ultimi articoli + sidebar più letti ===== */}
-      <div className="grid gap-10 py-10 lg:grid-cols-[2fr_1fr]">
+      <div className="grid gap-10 py-10 lg:grid-cols-[minmax(0,2fr)_1fr]">
         <section aria-labelledby="ultimi">
           <h2
             id="ultimi"
