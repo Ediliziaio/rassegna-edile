@@ -32,6 +32,13 @@ export default function HomePage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4">
+      {/* The homepage shipped without an H1: Google had no heading stating what
+          this site is about, on its most important page. Visually hidden so the
+          existing layout is untouched. */}
+      <h1 className="sr-only">
+        Rassegna Edile: prezzi, costi e guide tecniche per l'edilizia italiana
+      </h1>
+
       {/* ===== APERTURA: hero + secondari ===== */}
       <div className="grid gap-8 border-b border-border py-8 lg:grid-cols-[minmax(0,2fr)_1fr]">
         {hero && <ArticleCard article={hero} variant="hero" priority />}
