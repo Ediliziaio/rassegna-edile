@@ -2,10 +2,10 @@ import type { Category } from "./types";
 
 export const SITE = {
   name: "Rassegna Edile",
-  tagline: "Il quotidiano online dell'edilizia italiana",
+  tagline: "Prezzi, costi e guide tecniche per l'edilizia",
   url: "https://www.rassegnaedile.it",
   description:
-    "Rassegna Edile è il magazine online verticale sull'edilizia: ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi, tecnologie e normative.",
+    "Rassegna Edile documenta quanto costano davvero i lavori edili in Italia: intervalli di prezzo verificabili per ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico, con le guide tecniche che spiegano da cosa dipende la spesa.",
 };
 
 export const categories: Category[] = [

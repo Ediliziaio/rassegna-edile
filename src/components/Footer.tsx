@@ -42,6 +42,7 @@ export default function Footer() {
               La testata
             </p>
             {[
+              ["Osservatorio prezzi", "/prezzi/"],
               ["Chi siamo", "/chi-siamo/"],
               ["Redazione e autori", "/redazione/"],
               ["Contatti", "/contatti/"],

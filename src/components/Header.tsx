@@ -58,6 +58,9 @@ export default function Header() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-1.5 font-sans text-[0.7rem]">
           <span className="capitalize">{today}</span>
           <nav aria-label="Utility" className="flex items-center gap-4">
+            <Link to="/prezzi/" className="font-semibold hover:underline">
+              Osservatorio prezzi
+            </Link>
             <Link to="/cerca/" className="hover:underline">
               Cerca
             </Link>

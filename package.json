@@ -6,11 +6,12 @@
   "scripts": {
     "dev": "vite",
     "seo": "node scripts/generate-seo.mjs",
-    "build": "node scripts/generate-seo.mjs && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-server && node scripts/prerender.mjs",
+    "build": "node scripts/build-prices.mjs && node scripts/generate-seo.mjs && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-server && node scripts/prerender.mjs",
     "build:spa": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "indexnow": "node scripts/indexnow.mjs"
+    "indexnow": "node scripts/indexnow.mjs",
+    "prices": "node scripts/build-prices.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

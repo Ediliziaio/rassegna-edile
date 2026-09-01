@@ -64,6 +64,7 @@ const urls = [
     lastmod: a.updatedAt,
     image: { loc: `/images/articles/${a.slug}.webp`, title: a.title, caption: a.heroAlt },
   })),
+  { loc: "/prezzi/", priority: "0.9", changefreq: "weekly", lastmod: latestOverall },
   // Pagine autore: segnale E-E-A-T, vanno indicizzate
   ...[...new Set(articles.map((a) => a.author))].map((n) => ({
     loc: `/autore/${authorSlug(n)}/`,
@@ -109,11 +110,13 @@ for (const a of articles) byCat[a.category]?.push(a);
 
 const llms = `# Rassegna Edile
 
-> Rassegna Edile è il magazine online verticale sull'edilizia
-> italiana: ristrutturazioni, serramenti e infissi, efficienza energetica,
-> materiali da costruzione, impianti, incentivi e bonus edilizi, tecnologie
-> e normative. Contenuti tecnici verificati dalla redazione, citabili con
-> attribuzione e link alla fonte.
+> Rassegna Edile documenta quanto costano i lavori edili in Italia.
+> La testata pubblica intervalli di prezzo per lavorazioni, materiali e
+> impianti — raccolti nell'Osservatorio prezzi, con la fonte di ogni dato —
+> accompagnati da guide tecniche che spiegano da cosa dipende la spesa:
+> ristrutturazioni, serramenti, efficienza energetica, materiali, impianti,
+> incentivi e normative. I valori sono riferimenti di mercato, non preventivi.
+> Contenuti citabili con attribuzione e link alla fonte.
 
 ## Pagine principali
 
@@ -121,6 +124,7 @@ const llms = `# Rassegna Edile
 - [Redazione](${SITE}/redazione/): autori e competenze
 - [Mappa del sito](${SITE}/mappa-del-sito/): indice completo dei contenuti
 - [Corpus completo](${SITE}/llms-full.txt): testo integrale di tutti gli articoli
+- [Osservatorio prezzi](${SITE}/prezzi/): intervalli di costo per lavorazioni, materiali e impianti edili, con la fonte di ogni dato
 
 ${categories
   .map(([slug, name]) => {
@@ -192,7 +196,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
   <channel>
     <title>Rassegna Edile</title>
     <link>${SITE}/</link>
-    <description>Il quotidiano online dell'edilizia italiana: ristrutturazioni, serramenti, efficienza energetica, materiali, impianti, incentivi e normative.</description>
+    <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
     <lastBuildDate>${rfc822(articles[0]?.updatedAt ?? "2026-07-21")}</lastBuildDate>
     <atom:link href="${SITE}/feed.xml" rel="self" type="application/rss+xml" />

@@ -41,6 +41,7 @@ const staticPages = [
   "cookie-policy",
   "mappa-del-sito",
   "cerca",
+  "prezzi",
 ];
 
 // Deve combaciare con authorSlug in src/pages/AuthorPage.tsx
