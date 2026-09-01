@@ -311,7 +311,12 @@ export default function ArticlePage() {
 
         {/* ===== SIDEBAR ===== */}
         <aside className="min-w-0 lg:sticky lg:top-6 lg:self-start">
-          <AdSlot id="rect-article-sidebar" format="rectangle" className="mx-auto" />
+          <AdSlot
+            id="ad-article-sidebar"
+            format="halfpage"
+            mobileFormat="rectangle"
+            className="mx-auto"
+          />
           <section aria-labelledby="correlati" className="mt-8">
             <h2
               id="correlati"

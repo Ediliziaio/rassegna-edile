@@ -127,7 +127,12 @@ export default function CategoryPage() {
         </div>
 
         <aside className="min-w-0 lg:sticky lg:top-6 lg:self-start">
-          <AdSlot id={`rect-${cat.slug}-1`} format="rectangle" className="mx-auto" />
+          <AdSlot
+            id={`ad-${cat.slug}-1`}
+            format="halfpage"
+            mobileFormat="rectangle"
+            className="mx-auto"
+          />
           <AdSlot id={`ad-${cat.slug}-2`} format="box" className="mx-auto mt-6" />
         </aside>
       </div>
