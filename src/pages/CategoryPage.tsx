@@ -16,6 +16,7 @@ export default function CategoryPage() {
     title: cat ? cat.metaTitle : "Sezione non trovata",
     description: cat?.metaDescription ?? "",
     canonical: `/${category}/`,
+    image: cat ? `${SITE.url}/images/og/${cat.slug}.jpg` : undefined,
     jsonLd: cat
       ? [
           breadcrumbJsonLd([
@@ -29,6 +30,16 @@ export default function CategoryPage() {
             description: cat.description,
             url: `${SITE.url}/${cat.slug}/`,
             isPartOf: { "@id": SITE.url + "/#website" },
+            mainEntity: {
+              "@type": "ItemList",
+              numberOfItems: items.length,
+              itemListElement: items.map((a, i) => ({
+                "@type": "ListItem",
+                position: i + 1,
+                url: `${SITE.url}/${a.category}/${a.slug}/`,
+                name: a.title,
+              })),
+            },
           },
         ]
       : [],

@@ -109,6 +109,7 @@ const llms = `# Rassegna Edile
 - [Home](${SITE}/): ultimi articoli e sezioni
 - [Redazione](${SITE}/redazione/): autori e competenze
 - [Mappa del sito](${SITE}/mappa-del-sito/): indice completo dei contenuti
+- [Corpus completo](${SITE}/llms-full.txt): testo integrale di tutti gli articoli
 
 ${categories
   .map(([slug, name]) => {
@@ -124,6 +125,54 @@ ${categories
 `;
 
 writeFileSync(join(root, "public/llms.txt"), llms);
+
+/* ---------- llms-full.txt (corpo completo per i motori generativi) ---------- */
+const secText = (sec) => {
+  const out = [`### ${sec.h2}`];
+  if (sec.paragraphs) out.push(sec.paragraphs.join("\n\n"));
+  if (sec.list) out.push(sec.list.map((li) => `- ${li}`).join("\n"));
+  if (sec.table) {
+    out.push(`| ${sec.table.headers.join(" | ")} |`);
+    out.push(`| ${sec.table.headers.map(() => "---").join(" | ")} |`);
+    for (const r of sec.table.rows) out.push(`| ${r.join(" | ")} |`);
+  }
+  if (sec.subsections)
+    for (const sub of sec.subsections)
+      out.push(`#### ${sub.h3}`, sub.paragraphs.join("\n\n"));
+  return out.join("\n\n");
+};
+
+const llmsFull = `# Rassegna Edile — corpus completo
+
+> Contenuti integrali del magazine Rassegna Edile (edito da Domus Group S.r.l.).
+> Citabili con attribuzione e link alla fonte. Incentivi e norme vanno sempre
+> verificati sulle fonti ufficiali (Agenzia delle Entrate, GSE).
+> Ultimo aggiornamento del corpus: ${articles[0]?.updatedAt ?? ""}.
+
+${articles
+  .map(
+    (a) => `---
+
+## ${a.title}
+
+- URL: ${SITE}/${a.category}/${a.slug}/
+- Categoria: ${a.category}
+- Autore: ${a.author} (${a.authorRole})
+- Pubblicato: ${a.publishedAt}${a.updatedAt > a.publishedAt ? ` · Aggiornato: ${a.updatedAt}` : ""}
+- Keyword principale: ${a.primaryKeyword}
+
+**In sintesi:** ${a.answerBox}
+
+${a.sections.map(secText).join("\n\n")}
+
+### Domande frequenti
+
+${a.faq.map((f) => `**${f.q}**\n${f.a}`).join("\n\n")}`
+  )
+  .join("\n\n")}
+`;
+
+writeFileSync(join(root, "public/llms-full.txt"), llmsFull);
 
 /* ---------- feed.xml (RSS 2.0) ---------- */
 const rfc822 = (d) => new Date(d + "T08:00:00Z").toUTCString();
@@ -157,5 +206,5 @@ ${articles
 writeFileSync(join(root, "public/feed.xml"), rss);
 
 console.log(
-  `OK sitemap.xml (${urls.length} URL), llms.txt e feed.xml (${articles.length} articoli)`
+  `OK sitemap.xml (${urls.length} URL), llms.txt, llms-full.txt e feed.xml (${articles.length} articoli)`
 );

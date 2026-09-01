@@ -11,6 +11,7 @@
 - [Home](https://www.rassegnaedile.it/): ultimi articoli e sezioni
 - [Redazione](https://www.rassegnaedile.it/redazione/): autori e competenze
 - [Mappa del sito](https://www.rassegnaedile.it/mappa-del-sito/): indice completo dei contenuti
+- [Corpus completo](https://www.rassegnaedile.it/llms-full.txt): testo integrale di tutti gli articoli
 
 ## Ristrutturazioni
 

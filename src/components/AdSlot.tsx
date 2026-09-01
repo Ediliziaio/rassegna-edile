@@ -12,12 +12,21 @@ const dims: Record<string, string> = {
 };
 
 /**
- * Slot pubblicitario con dimensioni riservate: lo spazio è allocato
- * prima del caricamento degli script ads → zero layout shift (CLS ≈ 0).
- * Compatibile con Google AdSense / Ad Manager (sostituire il placeholder
- * con il tag di ad unit mantenendo il wrapper a dimensione fissa).
+ * Slot pubblicitario.
+ *
+ * ADS_ENABLED = false → non renderizza nulla: finché non è collegato un
+ * circuito reale (AdSense / Ad Manager) mostrare riquadri vuoti con la scritta
+ * "Pubblicità" fa apparire il sito incompiuto agli utenti e ai quality rater.
+ *
+ * Per attivare la monetizzazione: portare ADS_ENABLED a true e sostituire il
+ * placeholder con il tag dell'ad unit, mantenendo il wrapper a dimensione fissa
+ * (lo spazio resta riservato prima del caricamento → nessun layout shift).
  */
+export const ADS_ENABLED = false;
+
 export default function AdSlot({ id, format, className = "" }: AdSlotProps) {
+  if (!ADS_ENABLED) return null;
+
   return (
     <div
       className={`flex items-center justify-center overflow-hidden border border-dashed border-border bg-muted/40 ${dims[format]} ${className}`}

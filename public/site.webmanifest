@@ -1,17 +1,17 @@
 {
   "name": "Rassegna Edile",
   "short_name": "Rassegna Edile",
-  "description": "Il quotidiano online dell'edilizia italiana",
+  "description": "Magazine online verticale sull'edilizia italiana",
   "lang": "it",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f8f7f4",
   "theme_color": "#16305e",
   "icons": [
-    {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
