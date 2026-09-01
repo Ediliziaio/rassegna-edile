@@ -4,6 +4,7 @@ import { categoryBySlug, SITE } from "@/data/categories";
 import ArticleCard, { formatDate } from "@/components/ArticleCard";
 import ArticleVisual from "@/components/ArticleVisual";
 import AdSlot from "@/components/AdSlot";
+import CostBox from "@/components/CostBox";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { useSeo, breadcrumbJsonLd } from "@/lib/seo";
 import { authorSlug } from "./AuthorPage";
@@ -105,6 +106,9 @@ export default function ArticlePage() {
                 {article.answerBox}
               </p>
             </div>
+
+            {/* Costi documentati: il tratto distintivo della testata */}
+            <CostBox slug={article.slug} />
 
             {/* Byline E-E-A-T */}
             <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 border-y border-border py-3">

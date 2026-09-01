@@ -55,9 +55,13 @@ export default function Header() {
     <header className="border-b border-border bg-card">
       {/* Top bar */}
       <div className="bg-primary text-primary-foreground">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-1.5 font-sans text-[0.7rem]">
-          <span className="capitalize">{today}</span>
-          <nav aria-label="Utility" className="flex items-center gap-4">
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-1.5 font-sans text-[0.7rem]">
+          <span className="shrink-0 whitespace-nowrap capitalize">{today}</span>
+          {/* La barra scorre invece di sfondare il viewport sui piccoli schermi */}
+          <nav
+            aria-label="Utility"
+            className="flex min-w-0 flex-1 items-center gap-4 overflow-x-auto whitespace-nowrap [scrollbar-width:none] sm:flex-none sm:justify-end [&::-webkit-scrollbar]:hidden"
+          >
             <Link to="/prezzi/" className="font-semibold hover:underline">
               Osservatorio prezzi
             </Link>
