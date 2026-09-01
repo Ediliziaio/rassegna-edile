@@ -11,7 +11,7 @@
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/migliori-marche-pannelli-solari/
 - Categoria: efficienza-energetica
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-10
 - Keyword principale: migliori pannelli solari
 
@@ -135,7 +135,7 @@ Quando il tetto è piccolo sì: la maggiore efficienza di tecnologie come TOPCon
 
 - URL: https://www.rassegnaedile.it/materiali-costruzione/legno-lamellare-costruzioni-guida/
 - Categoria: materiali-costruzione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-06
 - Keyword principale: legno lamellare
 
@@ -251,7 +251,7 @@ In genere no: l'essiccazione industriale sotto il 15% di umidità e la protezion
 
 - URL: https://www.rassegnaedile.it/tecnologie-innovazione/stampa-3d-edilizia-case/
 - Categoria: tecnologie-innovazione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-06
 - Keyword principale: stampa 3D edilizia
 
@@ -366,7 +366,7 @@ Riduce sprechi di materiale, trasporti e tempi di cantiere, ma la miscela cement
 
 - URL: https://www.rassegnaedile.it/impianti/ventilazione-meccanica-controllata-guida/
 - Categoria: impianti
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-05
 - Keyword principale: ventilazione meccanica controllata
 
@@ -529,7 +529,7 @@ No. La cappa di cottura espelle grassi e odori che sporcherebbero condotte e rec
 
 - URL: https://www.rassegnaedile.it/incentivi-bonus/detrazione-ristrutturazioni-50-come-funziona/
 - Categoria: incentivi-bonus
-- Autore: Anna Bellini (Giornalista)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-02
 - Keyword principale: detrazione ristrutturazioni 50%
 
@@ -637,7 +637,7 @@ Per pratiche semplici il CAF è spesso sufficiente e conveniente. Quando gli imp
 
 - URL: https://www.rassegnaedile.it/normative/salva-casa-sanatoria-edilizia/
 - Categoria: normative
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-07-02
 - Keyword principale: salva casa sanatoria
 
@@ -756,7 +756,7 @@ No. Una domanda di condono pendente non è un titolo rilasciato: lo stato di leg
 
 - URL: https://www.rassegnaedile.it/serramenti-infissi/zanzariere-guida-scelta/
 - Categoria: serramenti-infissi
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-24
 - Keyword principale: zanzariere
 
@@ -862,7 +862,7 @@ Le reti standard a rullo possono uscire dalle guide con raffiche oltre i 60-70 k
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/come-funzionano-pannelli-solari/
 - Categoria: efficienza-energetica
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-20
 - Keyword principale: come funzionano i pannelli solari
 
@@ -963,7 +963,7 @@ Dipende da stagione e zona: in estate un 3 kW al Sud produce anche 16-18 kWh al 
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/manutenzione-pannelli-solari/
 - Categoria: efficienza-energetica
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-20
 - Keyword principale: manutenzione pannelli solari
 
@@ -1100,7 +1100,7 @@ Non richiede manutenzione meccanica ma va tenuto pulito, ventilato e al riparo d
 
 - URL: https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/
 - Categoria: impianti
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-20
 - Keyword principale: domotica casa
 
@@ -1267,7 +1267,7 @@ Alcuni sì: telecamere con archivio cloud, videocitofoni e sistemi di allarme co
 
 - URL: https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/
 - Categoria: ristrutturazioni
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-18
 - Keyword principale: ristrutturare casa da dove iniziare
 
@@ -1417,7 +1417,7 @@ La riserva consigliata è il 10-15% dell'importo lavori, da aumentare al 15-20% 
 
 - URL: https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/
 - Categoria: normative
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-17
 - Keyword principale: direttiva case green
 
@@ -1546,7 +1546,7 @@ L'APE ha una validità massima prevista dalla disciplina nazionale e va aggiorna
 
 - URL: https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/
 - Categoria: tecnologie-innovazione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-15
 - Keyword principale: case prefabbricate prezzi
 
@@ -1669,7 +1669,7 @@ Le strutture prefabbricate progettate secondo le Norme Tecniche per le Costruzio
 
 - URL: https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/
 - Categoria: incentivi-bonus
-- Autore: Anna Bellini (Giornalista)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-12
 - Keyword principale: conto termico 3.0
 
@@ -1783,7 +1783,7 @@ Per alcuni interventi le regole applicative richiedono la relazione o la documen
 
 - URL: https://www.rassegnaedile.it/materiali-costruzione/migliori-isolanti-termici-confronto/
 - Categoria: materiali-costruzione
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-12
 - Keyword principale: migliori isolanti termici
 
@@ -1924,7 +1924,7 @@ Dipende dalla zona climatica e dal materiale. Per U = 0,25-0,30 W/mqK servono in
 
 - URL: https://www.rassegnaedile.it/serramenti-infissi/sostituzione-infissi-costi-guida/
 - Categoria: serramenti-infissi
-- Autore: Sara Colombo (Architetto)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-09
 - Keyword principale: sostituzione infissi costi
 
@@ -2047,7 +2047,7 @@ Sì, nella quasi totalità dei casi: ogni vano resta scoperto solo poche ore e i
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/cappotto-termico-esterno-guida/
 - Categoria: efficienza-energetica
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-03
 - Keyword principale: cappotto termico
 
@@ -2213,7 +2213,7 @@ Non se progettato correttamente. Il rischio di condensa interstiziale si valuta 
 
 - URL: https://www.rassegnaedile.it/normative/sicurezza-cantiere-dlgs-81-guida/
 - Categoria: normative
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-03
 - Keyword principale: sicurezza cantiere
 
@@ -2353,7 +2353,7 @@ I controlli spettano agli organi ispettivi del lavoro, che verificano documenti,
 
 - URL: https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/
 - Categoria: impianti
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-02
 - Keyword principale: impianto elettrico a norma
 
@@ -2518,7 +2518,7 @@ Una wallbox da 7,4 kW installata costa in media 1.200-2.500 euro, compresi linea
 
 - URL: https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-cucina-guida/
 - Categoria: ristrutturazioni
-- Autore: Sara Colombo (Architetto)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-02
 - Keyword principale: ristrutturare cucina
 
@@ -2641,7 +2641,7 @@ Nella maggior parte dei casi sì: la cucina concentra i carichi maggiori della c
 
 - URL: https://www.rassegnaedile.it/tecnologie-innovazione/intelligenza-artificiale-cantieri-edili/
 - Categoria: tecnologie-innovazione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-06-02
 - Keyword principale: intelligenza artificiale edilizia
 
@@ -2743,7 +2743,7 @@ Le funzioni AI integrate in software gestionali o di progettazione partono da po
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-costi-prezzi/
 - Categoria: efficienza-energetica
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-28
 - Keyword principale: costo pannelli solari
 
@@ -2867,7 +2867,7 @@ Dipende dal tasso: con un finanziamento a tasso contenuto la rata mensile può e
 
 - URL: https://www.rassegnaedile.it/incentivi-bonus/incentivi-fotovoltaico-2026/
 - Categoria: incentivi-bonus
-- Autore: Anna Bellini (Giornalista)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-28
 - Keyword principale: incentivi fotovoltaico
 
@@ -2965,7 +2965,7 @@ In genere l'installatore cura la parte tecnica e le pratiche di connessione, men
 
 - URL: https://www.rassegnaedile.it/materiali-costruzione/blocchi-termoisolanti-laterizi-guida/
 - Categoria: materiali-costruzione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-28
 - Keyword principale: blocchi termoisolanti
 
@@ -3086,7 +3086,7 @@ Indicativamente 80-130 euro al mq compresi blocco, giunti e intonaco civile. La 
 
 - URL: https://www.rassegnaedile.it/serramenti-infissi/finestre-triplo-vetro-conviene/
 - Categoria: serramenti-infissi
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-28
 - Keyword principale: triplo vetro conviene
 
@@ -3192,7 +3192,7 @@ Il beneficio estivo diretto è modesto, perché il surriscaldamento dipende sopr
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/pompa-di-calore-guida-completa/
 - Categoria: efficienza-energetica
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-20
 - Keyword principale: pompa di calore
 
@@ -3358,7 +3358,7 @@ Spesso sì, almeno in una fase transitoria: mantenere la caldaia come generatore
 
 - URL: https://www.rassegnaedile.it/normative/cila-scia-permesso-costruire-differenze/
 - Categoria: normative
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-20
 - Keyword principale: CILA SCIA permesso di costruire differenze
 
@@ -3511,7 +3511,7 @@ La modifica va formalizzata prima dell'esecuzione: le varianti non essenziali se
 
 - URL: https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-bagno-costi-tempi/
 - Categoria: ristrutturazioni
-- Autore: Luca Ferrarini (Geometra)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-20
 - Keyword principale: ristrutturare bagno costi
 
@@ -3642,7 +3642,7 @@ Le tre leve principali sono: non spostare gli scarichi (risparmio fino al 30% su
 
 - URL: https://www.rassegnaedile.it/impianti/rifacimento-impianto-idraulico-costi/
 - Categoria: impianti
-- Autore: Davide Riva (Termotecnico)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-18
 - Keyword principale: rifacimento impianto idraulico costi
 
@@ -3794,7 +3794,7 @@ Con tubazioni in multistrato o PPR posate a regola d'arte la durata attesa super
 
 - URL: https://www.rassegnaedile.it/tecnologie-innovazione/bim-edilizia-guida/
 - Categoria: tecnologie-innovazione
-- Autore: Marco Bertelli (Direttore responsabile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-18
 - Keyword principale: BIM edilizia
 
@@ -3918,7 +3918,7 @@ L'IFC (Industry Foundation Classes) è un formato di file aperto e neutro, stand
 
 - URL: https://www.rassegnaedile.it/materiali-costruzione/cemento-sostenibile-materiali-innovativi/
 - Categoria: materiali-costruzione
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-15
 - Keyword principale: cemento sostenibile
 
@@ -4029,7 +4029,7 @@ Per applicazioni strutturali l'impiego è ancora sperimentale e richiede validaz
 
 - URL: https://www.rassegnaedile.it/serramenti-infissi/serramenti-pvc-alluminio-legno-confronto/
 - Categoria: serramenti-infissi
-- Autore: Sara Colombo (Architetto)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-12
 - Keyword principale: serramenti pvc alluminio o legno
 
@@ -4152,7 +4152,7 @@ Il PVC bianco massiccio resta il più stabile nel tempo perché assorbe meno cal
 
 - URL: https://www.rassegnaedile.it/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/
 - Categoria: ristrutturazioni
-- Autore: Sara Colombo (Architetto)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-07
 - Keyword principale: ristrutturazione chiavi in mano
 
@@ -4328,7 +4328,7 @@ Il direttore dei lavori verifica la corrispondenza tra capitolato ed esecuzione 
 
 - URL: https://www.rassegnaedile.it/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/
 - Categoria: efficienza-energetica
-- Autore: Elena Gatti (Ingegnere edile)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-05
 - Keyword principale: pannelli solari fotovoltaico
 
@@ -4509,7 +4509,7 @@ Le analisi di mercato immobiliare indicano che le case con impianto fotovoltaico
 
 - URL: https://www.rassegnaedile.it/incentivi-bonus/bonus-edilizi-2026-guida-completa/
 - Categoria: incentivi-bonus
-- Autore: Anna Bellini (Giornalista)
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
 - Pubblicato: 2026-05-05
 - Keyword principale: bonus edilizi 2026
 

@@ -11,7 +11,7 @@
 ## Pagine principali
 
 - [Home](https://www.rassegnaedile.it/): ultimi articoli e sezioni
-- [Redazione](https://www.rassegnaedile.it/redazione/): autori e competenze
+- [Redazione](https://www.rassegnaedile.it/redazione/): firma redazionale, metodo e fonti
 - [Mappa del sito](https://www.rassegnaedile.it/mappa-del-sito/): indice completo dei contenuti
 - [Corpus completo](https://www.rassegnaedile.it/llms-full.txt): testo integrale di tutti gli articoli
 - [Osservatorio prezzi](https://www.rassegnaedile.it/prezzi/): intervalli di costo per lavorazioni, materiali e impianti edili, con la fonte di ogni dato

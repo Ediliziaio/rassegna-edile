@@ -44,26 +44,17 @@ const staticPages = [
   "prezzi",
 ];
 
-// Deve combaciare con authorSlug in src/pages/AuthorPage.tsx
-const authorSlug = (name) =>
-  name
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/\s+/g, "-");
 
 const articles = readdirSync(articlesDir)
   .filter((f) => f.endsWith(".json"))
   .flatMap((f) => JSON.parse(readFileSync(join(articlesDir, f), "utf8")));
 
-const authorSlugs = [...new Set(articles.map((a) => authorSlug(a.author)))];
 
 const routes = [
   "/",
   ...categorySlugs.map((s) => `/${s}/`),
   ...articles.map((a) => `/${a.category}/${a.slug}/`),
   ...staticPages.map((p) => `/${p}/`),
-  ...authorSlugs.map((s) => `/autore/${s}/`),
 ];
 
 const template = readFileSync(join(distDir, "index.html"), "utf8");

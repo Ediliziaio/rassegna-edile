@@ -32,13 +32,6 @@ const articles = readdirSync(articlesDir)
 const esc = (s) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-// Deve combaciare con authorSlug in src/pages/AuthorPage.tsx
-const authorSlug = (name) =>
-  name
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/\s+/g, "-");
 
 /* ---------- sitemap.xml ---------- */
 // Data di ultimo aggiornamento globale e per sezione (per il campo lastmod)
@@ -65,13 +58,6 @@ const urls = [
     image: { loc: `/images/articles/${a.slug}.webp`, title: a.title, caption: a.heroAlt },
   })),
   { loc: "/prezzi/", priority: "0.9", changefreq: "weekly", lastmod: latestOverall },
-  // Pagine autore: segnale E-E-A-T, vanno indicizzate
-  ...[...new Set(articles.map((a) => a.author))].map((n) => ({
-    loc: `/autore/${authorSlug(n)}/`,
-    priority: "0.5",
-    changefreq: "weekly",
-    lastmod: latestOverall,
-  })),
   ...["chi-siamo", "redazione", "contatti", "pubblicita", "privacy", "cookie-policy", "mappa-del-sito"].map(
     (p) => ({ loc: `/${p}/`, priority: "0.3", changefreq: "monthly" })
   ),
@@ -121,7 +107,7 @@ const llms = `# Rassegna Edile
 ## Pagine principali
 
 - [Home](${SITE}/): ultimi articoli e sezioni
-- [Redazione](${SITE}/redazione/): autori e competenze
+- [Redazione](${SITE}/redazione/): firma redazionale, metodo e fonti
 - [Mappa del sito](${SITE}/mappa-del-sito/): indice completo dei contenuti
 - [Corpus completo](${SITE}/llms-full.txt): testo integrale di tutti gli articoli
 - [Osservatorio prezzi](${SITE}/prezzi/): intervalli di costo per lavorazioni, materiali e impianti edili, con la fonte di ogni dato

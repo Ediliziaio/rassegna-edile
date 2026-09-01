@@ -7,7 +7,6 @@ import ArticlePage from "@/pages/ArticlePage";
 import StaticPage, { SitemapPage } from "@/pages/StaticPages";
 import SearchPage from "@/pages/SearchPage";
 import PricesPage from "@/pages/PricesPage";
-import AuthorPage from "@/pages/AuthorPage";
 import NotFoundPage from "@/pages/NotFoundPage";
 
 /**
@@ -27,7 +26,6 @@ export default function App() {
           <Route path="/mappa-del-sito/" element={<SitemapPage />} />
           <Route path="/cerca/" element={<SearchPage />} />
           <Route path="/prezzi/" element={<PricesPage />} />
-          <Route path="/autore/:name/" element={<AuthorPage />} />
           <Route path="/chi-siamo/" element={<StaticPage pageKey="chi-siamo" />} />
           <Route path="/redazione/" element={<StaticPage pageKey="redazione" />} />
           <Route path="/contatti/" element={<StaticPage pageKey="contatti" />} />

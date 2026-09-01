@@ -7,7 +7,6 @@ import AdSlot from "@/components/AdSlot";
 import CostBox from "@/components/CostBox";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { useSeo, breadcrumbJsonLd } from "@/lib/seo";
-import { authorSlug } from "./AuthorPage";
 import NotFoundPage from "./NotFoundPage";
 
 export default function ArticlePage() {
@@ -47,13 +46,9 @@ export default function ArticlePage() {
             datePublished: article.publishedAt,
             dateModified: article.updatedAt,
             inLanguage: "it-IT",
-            author: {
-              "@type": "Person",
-              "@id": `${SITE.url}/autore/${authorSlug(article.author)}/#person`,
-              name: article.author,
-              jobTitle: article.authorRole,
-              url: `${SITE.url}/autore/${authorSlug(article.author)}/`,
-            },
+            // Firma redazionale: la responsabilita e dell'organizzazione,
+            // non di una persona non verificabile.
+            author: { "@id": SITE.url + "/#organization" },
             publisher: { "@id": SITE.url + "/#organization" },
             isAccessibleForFree: true,
             mainEntityOfPage: { "@type": "WebPage", "@id": url },
@@ -115,12 +110,11 @@ export default function ArticlePage() {
               <p className="font-sans text-sm">
                 di{" "}
                 <Link
-                  to={`/autore/${authorSlug(article.author)}/`}
+                  to="/redazione/"
                   className="font-semibold text-primary hover:text-accent"
                 >
                   {article.author}
                 </Link>
-                <span className="text-muted-foreground"> · {article.authorRole}</span>
               </p>
               <p className="font-sans text-xs text-muted-foreground">
                 Pubblicato il {formatDate(article.publishedAt)}
