@@ -49,7 +49,17 @@
   ],
   "redirects": [
     {
-      "source": "/autore/:slug*",
+      "source": "/autore/:slug/",
+      "destination": "/redazione/",
+      "permanent": true
+    },
+    {
+      "source": "/autore/",
+      "destination": "/redazione/",
+      "permanent": true
+    },
+    {
+      "source": "/autore/:slug",
       "destination": "/redazione/",
       "permanent": true
     }
