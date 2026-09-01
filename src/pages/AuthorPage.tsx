@@ -1,7 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { articles, articleUrl } from "@/data/articles";
 import { authors } from "@/data/authors";
-import { SITE } from "@/data/categories";
+import { SITE, categories } from "@/data/categories";
 import ArticleCard from "@/components/ArticleCard";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { useSeo } from "@/lib/seo";
@@ -104,7 +104,56 @@ export default function AuthorPage() {
         )}
       </header>
 
-      <section aria-labelledby="articoli-autore" className="mt-8 max-w-3xl">
+      {/* Competenze derivate dagli articoli realmente firmati: dati, non biografia */}
+      {written.length > 0 && (
+        <section aria-labelledby="competenze" className="mt-8 max-w-3xl">
+          <h2
+            id="competenze"
+            className="font-display border-b-2 border-primary pb-2 text-xl font-bold text-primary"
+          >
+            Temi seguiti
+          </h2>
+          <p className="mt-3 leading-relaxed text-foreground/80">
+            {author.name} firma {written.length}{" "}
+            {written.length === 1 ? "guida" : "guide"} su Rassegna Edile,
+            distribuite su{" "}
+            {new Set(written.map((a) => a.category)).size}{" "}
+            {new Set(written.map((a) => a.category)).size === 1
+              ? "area tematica"
+              : "aree tematiche"}
+            . I contenuti sono redatti secondo le linee guida editoriali della
+            testata: fonti verificate, dati di mercato dichiarati come
+            riferimenti e rimando alle fonti ufficiali per normativa e
+            incentivi.
+          </p>
+          <ul className="font-sans mt-4 flex flex-wrap gap-2">
+            {[...new Set(written.map((a) => a.primaryKeyword))].map((k) => (
+              <li
+                key={k}
+                className="rounded-sm border border-border bg-muted/40 px-3 py-1 text-xs text-foreground/80"
+              >
+                {k}
+              </li>
+            ))}
+          </ul>
+          <div className="mt-5 flex flex-wrap gap-x-8 gap-y-2 border-t border-border pt-4 font-sans text-sm">
+            {[...new Set(written.map((a) => a.category))].map((c) => {
+              const cat = categories.find((x) => x.slug === c);
+              return (
+                <Link
+                  key={c}
+                  to={`/${c}/`}
+                  className="text-accent hover:underline"
+                >
+                  {cat?.name ?? c} →
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      <section aria-labelledby="articoli-autore" className="mt-10 max-w-3xl">
         <h2 id="articoli-autore" className="font-display text-2xl font-bold text-primary">
           Articoli di {author.name.split(" ")[0]}
         </h2>
