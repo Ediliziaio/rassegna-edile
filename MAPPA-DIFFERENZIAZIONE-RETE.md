@@ -5,7 +5,7 @@
 > condiviso, sessioni parallele riassegnano gli stessi territori e ricreano la
 > sovrapposizione che la differenziazione deve eliminare — è già successo.
 
-Ultimo aggiornamento: 2026-09-01
+Ultimo aggiornamento: 2026-09-01 (asset ilfattoedile)
 
 ## Perché esiste
 
@@ -27,7 +27,7 @@ sito **ha già**, non su un'idea a tavolino.
 | **ilcardine.it** | Efficienza energetica e impianti | 11/39 articoli nel cluster (quota maggiore) | guide su involucro, FV, pompe di calore, VMC |
 | **mediaedile.it** | Classifiche produttori e marchi | 20/30 articoli sono classifiche (67%) | `/produttori` — Indice, 144 marchi, `ItemList` |
 | **edilizia24ore.it** | News e attualità di settore | 14/44 news, unico con categoria dedicata | cronaca quotidiana del settore |
-| **ilfattoedile.it** | Cantiere e pratica professionale | 22 classifiche su pratiche, non su prodotti | checklist: adempimenti, controlli, errori |
+| **ilfattoedile.it** | Cantiere e pratica professionale | 22 classifiche su pratiche, non su prodotti | `/checklist` — Indice, 159 controlli, `CollectionPage`+`ItemList` |
 | **corrieredile.it** | B2B imprese e professionisti | titoli rivolti a "imprese, artigiani, professionisti" | normativa e mercato per chi lavora |
 | **ilgiornaleedile.it** | Comparatori / guide alla scelta | 7 comparatori interattivi già online | `/comparatore/` — strumenti di confronto |
 | **infissimedia.it** | Serramenti e infissi | verticale monotematico | l'unico già verticalizzato |
@@ -65,8 +65,9 @@ avere **un asset che gli altri non possono replicare** — è ciò che dà a Goo
 una ragione concreta per indicizzarlo:
 
 - fatto: rassegnaedile (Osservatorio prezzi, 79 voci), mediaedile (Indice
-  produttori, 144 marchi), ilgiornaleedile (7 comparatori)
-- da fare: ilcardine, edilizia24ore, ilfattoedile, corrieredile
+  produttori, 144 marchi), ilgiornaleedile (7 comparatori), ilfattoedile
+  (Indice checklist, 159 controlli)
+- da fare: ilcardine, edilizia24ore, corrieredile
 
 ## Avvertenza operativa
 
@@ -74,3 +75,12 @@ Più sessioni hanno lavorato in parallelo su questi repository sovrascrivendosi:
 in un caso lo stesso sito dichiarava due identità diverse in file diversi
 (`index.html` contro il titolo renderizzato). Prima di modificare, verificare
 sempre `git log` e lo stato del working tree.
+
+## Deviazioni corrette
+
+- **2026-09-01 — ilfattoedile.it**: una sessione parallela lo aveva riposizionato
+  su *"Imprese, professioni e politiche delle costruzioni"* (title, `SITE`,
+  `llms.txt`), invadendo il territorio B2B di corrieredile.it — esattamente la
+  collisione che questa mappa avverte di evitare. Riportato al territorio
+  assegnato («Cantiere e pratica professionale») in title, meta, `llms.txt`,
+  chi-siamo e intro di rubrica, e dotato dell'asset che gli mancava.
