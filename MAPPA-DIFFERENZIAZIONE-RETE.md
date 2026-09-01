@@ -25,7 +25,7 @@ sito **ha già**, non su un'idea a tavolino.
 |---|---|---|---|
 | **rassegnaedile.it** | Prezzi e costi | 28/35 articoli con prezzi, 522 importi, 43 tabelle | `/prezzi/` — Osservatorio, 79 voci, schema `Dataset` |
 | **ilcardine.it** | Efficienza energetica e impianti | 11/39 articoli nel cluster (quota maggiore) | guide su involucro, FV, pompe di calore, VMC |
-| **mediaedile.it** | Classifiche produttori e marchi | 20/30 articoli sono classifiche (67%) | "I 5 migliori produttori di…" |
+| **mediaedile.it** | Classifiche produttori e marchi | 20/30 articoli sono classifiche (67%) | `/produttori` — Indice, 144 marchi, `ItemList` |
 | **edilizia24ore.it** | News e attualità di settore | 14/44 news, unico con categoria dedicata | cronaca quotidiana del settore |
 | **ilfattoedile.it** | Cantiere e pratica professionale | 22 classifiche su pratiche, non su prodotti | checklist: adempimenti, controlli, errori |
 | **corrieredile.it** | B2B imprese e professionisti | titoli rivolti a "imprese, artigiani, professionisti" | normativa e mercato per chi lavora |
@@ -64,8 +64,9 @@ Il titolo differenziato è necessario ma non sufficiente. Ogni sito dovrebbe
 avere **un asset che gli altri non possono replicare** — è ciò che dà a Google
 una ragione concreta per indicizzarlo:
 
-- fatto: rassegnaedile (Osservatorio prezzi), ilgiornaleedile (comparatori)
-- da fare: ilcardine, mediaedile, edilizia24ore, ilfattoedile, corrieredile
+- fatto: rassegnaedile (Osservatorio prezzi, 79 voci), mediaedile (Indice
+  produttori, 144 marchi), ilgiornaleedile (7 comparatori)
+- da fare: ilcardine, edilizia24ore, ilfattoedile, corrieredile
 
 ## Avvertenza operativa
 
