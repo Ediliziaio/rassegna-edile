@@ -1,3 +1,4 @@
+import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { priceRows } from "@/data/prices.generated";
 import { categories, SITE } from "@/data/categories";
@@ -12,11 +13,35 @@ const range = (min: number, max: number, unita: string) =>
   min === max ? `${fmt(min)} ${unita}` : `${fmt(min)} – ${fmt(max)} ${unita}`;
 
 export default function PricesPage() {
-  const byCat = categories
-    .map((c) => ({ cat: c, rows: priceRows.filter((r) => r.categoria === c.slug) }))
-    .filter((g) => g.rows.length > 0);
+  const [query, setQuery] = useState("");
+  const [filtroCat, setFiltroCat] = useState("");
 
   const fonti = new Set(priceRows.map((r) => r.fonteSlug)).size;
+
+  /* Filtro solo client-side: il render iniziale — e quindi l'HTML
+     prerenderizzato consegnato ai crawler — contiene sempre tutte le voci. */
+  const norm = (s: string) =>
+    s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+  const visibili = useMemo(() => {
+    const q = norm(query.trim());
+    return priceRows.filter((r) => {
+      if (filtroCat && r.categoria !== filtroCat) return false;
+      if (!q) return true;
+      return (
+        norm(r.voce).includes(q) ||
+        norm(r.contesto).includes(q) ||
+        norm(r.colonna).includes(q) ||
+        norm(r.fonteTitolo).includes(q)
+      );
+    });
+  }, [query, filtroCat]);
+
+  const byCat = categories
+    .map((c) => ({ cat: c, rows: visibili.filter((r) => r.categoria === c.slug) }))
+    .filter((g) => g.rows.length > 0);
+
+  const filtroAttivo = query.trim() !== "" || filtroCat !== "";
 
   useSeo({
     title: "Osservatorio prezzi edilizia 2026: costi a confronto",
@@ -89,6 +114,66 @@ export default function PricesPage() {
         </div>
       </section>
 
+      <section className="mt-8 rounded-sm border border-border bg-muted/30 p-4">
+        <div className="font-sans flex flex-col gap-3 sm:flex-row">
+          <label className="flex-1">
+            <span className="mb-1 block text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+              Cerca una voce di costo
+            </span>
+            <input
+              type="search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Es. cappotto, fotovoltaico, bagno, infissi…"
+              className="w-full rounded-sm border border-border bg-background px-3 py-2.5 text-sm"
+            />
+          </label>
+          <label className="sm:w-64">
+            <span className="mb-1 block text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+              Categoria
+            </span>
+            <select
+              value={filtroCat}
+              onChange={(e) => setFiltroCat(e.target.value)}
+              className="w-full rounded-sm border border-border bg-background px-3 py-2.5 text-sm"
+            >
+              <option value="">Tutte le categorie</option>
+              {categories
+                .filter((c) => priceRows.some((r) => r.categoria === c.slug))
+                .map((c) => (
+                  <option key={c.slug} value={c.slug}>
+                    {c.name}
+                  </option>
+                ))}
+            </select>
+          </label>
+        </div>
+        <p className="font-sans mt-3 text-sm text-foreground/75" aria-live="polite">
+          {filtroAttivo ? (
+            <>
+              <strong>{visibili.length}</strong>{" "}
+              {visibili.length === 1 ? "voce trovata" : "voci trovate"} su {priceRows.length}
+              {" · "}
+              <button
+                type="button"
+                onClick={() => {
+                  setQuery("");
+                  setFiltroCat("");
+                }}
+                className="underline hover:text-accent"
+              >
+                azzera i filtri
+              </button>
+            </>
+          ) : (
+            <>
+              Tutte le <strong>{priceRows.length}</strong> voci. Digita per restringere
+              il prospetto.
+            </>
+          )}
+        </p>
+      </section>
+
       <nav aria-label="Sezioni dell'osservatorio" className="mt-8">
         <ul className="font-sans flex flex-wrap gap-2">
           {byCat.map(({ cat, rows }) => (
@@ -106,6 +191,12 @@ export default function PricesPage() {
 
       <div className="mt-8 grid gap-10 lg:grid-cols-[minmax(0,2fr)_1fr]">
         <div className="min-w-0">
+          {filtroAttivo && visibili.length === 0 && (
+            <p className="rounded-sm border border-border bg-background p-6 text-foreground/75">
+              Nessuna voce corrisponde alla ricerca. Prova con il nome della lavorazione
+              o del materiale, per esempio &laquo;cappotto&raquo; o &laquo;pompa di calore&raquo;.
+            </p>
+          )}
           {byCat.map(({ cat, rows }, ci) => (
             <section
               key={cat.slug}
