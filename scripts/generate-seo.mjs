@@ -5,6 +5,7 @@
  *   node scripts/generate-seo.mjs
  */
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -36,6 +37,19 @@ const esc = (s) =>
 /* ---------- sitemap.xml ---------- */
 // Data di ultimo aggiornamento globale e per sezione (per il campo lastmod)
 const latestOverall = articles.reduce((m, a) => (a.updatedAt > m ? a.updatedAt : m), "");
+// L'Osservatorio prezzi non e' un articolo: il suo lastmod deve seguire i DATI,
+// non la data dell'ultimo articolo pubblicato. Si usa la data dell'ultimo commit
+// che ha toccato la sorgente dei prezzi: la mtime del file non va bene perche'
+// cambia a ogni build e produrrebbe freschezza fittizia.
+const pricesLastmod = (() => {
+  try {
+    const out = execFileSync("git", ["log", "-1", "--format=%cs", "--", "scripts/prices.source.json", "src/data/prices.generated.ts"],
+      { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim();
+    if (/^\d{4}-\d{2}-\d{2}$/.test(out)) return out;
+  } catch { /* git non disponibile nell'ambiente di build */ }
+  return latestOverall;
+})();
+
 const latestByCat = {};
 for (const a of articles) {
   if (!latestByCat[a.category] || a.updatedAt > latestByCat[a.category])
@@ -57,7 +71,7 @@ const urls = [
     lastmod: a.updatedAt,
     image: { loc: `/images/articles/${a.slug}.webp`, title: a.title, caption: a.heroAlt },
   })),
-  { loc: "/prezzi/", priority: "0.9", changefreq: "weekly", lastmod: latestOverall },
+  { loc: "/prezzi/", priority: "0.9", changefreq: "weekly", lastmod: pricesLastmod },
   ...["chi-siamo", "redazione", "contatti", "pubblicita", "privacy", "cookie-policy", "mappa-del-sito"].map(
     (p) => ({ loc: `/${p}/`, priority: "0.3", changefreq: "monthly" })
   ),
