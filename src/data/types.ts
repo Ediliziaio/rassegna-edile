@@ -1,4 +1,13 @@
+/** Blocchi di contenuto in ordine libero (paragrafi, tabelle e liste alternati). */
+export type ArticleBlock =
+  | { type: "p"; text: string }
+  | { type: "h3"; text: string }
+  | { type: "list"; ordered?: boolean; items: string[] }
+  | { type: "table"; headers: string[]; rows: string[][] };
+
 export interface ArticleSection {
+  /** se presente, la sezione si rende da questi blocchi nell'ordine dato */
+  blocks?: ArticleBlock[];
   id: string;
   h2: string;
   paragraphs?: string[];

@@ -30,6 +30,7 @@ const categorySlugs = [
   "incentivi-bonus",
   "tecnologie-innovazione",
   "normative",
+  "costi",
 ];
 
 const staticPages = [

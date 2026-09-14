@@ -1,3 +1,4 @@
+import SectionBlocks from "@/components/SectionBlocks";
 import { Link, useParams } from "react-router-dom";
 import { articleByPath, articleUrl, readingTime, relatedArticles } from "@/data/articles";
 import { categoryBySlug, SITE } from "@/data/categories";
@@ -214,6 +215,7 @@ export default function ArticlePage() {
                   {s.h2}
                 </h2>
                 {s.paragraphs?.map((p, i) => <p key={i}>{p}</p>)}
+                {s.blocks && <SectionBlocks blocks={s.blocks} />}
                 {s.list && (
                   <ul>
                     {s.list.map((li, i) => (

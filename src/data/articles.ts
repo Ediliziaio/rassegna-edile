@@ -26,6 +26,9 @@ export const readingTime = (a: Article) => {
         ...(s.paragraphs ?? []),
         ...(s.list ?? []),
         ...(s.subsections ?? []).flatMap((x) => x.paragraphs),
+        ...(s.blocks ?? []).flatMap((b) =>
+          b.type === "list" ? b.items : b.type === "table" ? b.rows.flat() : [b.text]
+        ),
       ])
       .join(" ")
       .split(/\s+/).length +

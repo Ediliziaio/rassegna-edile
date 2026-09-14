@@ -3,7 +3,120 @@
 > Contenuti integrali del magazine Rassegna Edile (edito da Domus Group S.r.l.).
 > Citabili con attribuzione e link alla fonte. Incentivi e norme vanno sempre
 > verificati sulle fonti ufficiali (Agenzia delle Entrate, GSE).
-> Ultimo aggiornamento del corpus: 2026-07-10.
+> Ultimo aggiornamento del corpus: 2026-09-14.
+
+---
+
+## Quanto costa davvero acquisire un cliente B2B nell’edilizia e nell’impiantistica
+
+- URL: https://www.rassegnaedile.it/costi/costo-acquisizione-cliente-b2b-edilizia/
+- Categoria: costi
+- Autore: Redazione Rassegna Edile (Redazione tecnica)
+- Pubblicato: 2026-09-14
+- Keyword principale: costo acquisizione cliente B2B
+
+**In sintesi:** Il costo di acquisizione cliente, o CAC, è la spesa totale necessaria per portare a casa un cliente nuovo. Si calcola dividendo i costi commerciali di un periodo per i clienti acquisiti. Eppure il costo acquisizione cliente B2B resta un numero che quasi nessuna impresa edile o impiantistica italiana ha mai scritto da qualche parte. Qui ci sono le voci che lo compongono, gli ordini di grandezza del costo per appuntamento e il calcolo per capire se spendete bene.
+
+### Cos’è il CAC e perché quasi nessuna PMI edile lo calcola
+
+Il motivo è contabile prima che culturale. La contabilità di un’impresa edile è organizzata per commessa: si sa quanto è costato il cantiere, non quanto è costato trovarlo. Le spese commerciali finiscono nelle spese generali, insieme all’assicurazione e al gasolio dei furgoni.
+
+Poi c’è il ruolo che non esiste. Nella maggior parte delle PMI vende il titolare, il preventivista o il capocantiere che conosce il geometra: il loro tempo non ha un codice di costo. La rilevazione annuale di Banca d’Italia sulle imprese industriali e dei servizi racconta un tessuto produttivo in cui la funzione commerciale strutturata resta l’eccezione. Così il budget si decide a sensazione e il ritorno della lead generation non si misura.
+
+### Le 4 voci che compongono davvero il costo acquisizione cliente B2B
+
+Un CAC calcolato solo sulle fatture dei fornitori è sbagliato per difetto, spesso della metà.
+
+1. Tempo commerciale interno. Ore del titolare, del tecnico commerciale, di chi fissa gli appuntamenti, al costo orario pieno. È la voce più grande e l’unica che nessuno conteggia.
+
+2. Generazione della domanda. Fiere e stand, campagne Google e LinkedIn, sito e contenuti, liste, CRM, fornitori esterni.
+
+3. Produzione dell’offerta. Nel B2B tecnico pesa come in pochi altri settori: sopralluogo, rilievo, computo metrico, progettazione preliminare. Un preventivo serio costa da mezza giornata a tre giornate uomo, e si paga anche quando la gara si perde.
+
+4. Costo degli scarti. Preventivi persi, appuntamenti a vuoto, contatti lavorati per settimane senza esito: tempo pagato che non produce margine.
+
+CAC = (1 + 2 + 3 + 4) ÷ clienti nuovi del periodo.
+
+### Costo per appuntamento B2B a confronto: fiera, agente, Google Ads, outbound
+
+I valori qui sotto sono ordini di grandezza osservati sul mercato italiano, non prezzi di listino: cambiano con settore, area e livello del decisore.
+
+| Canale | Costo per appuntamento (ordine di grandezza) | Rischio principale |
+
+| --- | --- | --- |
+
+| Fiera di settore | 300–900 €, tra stand, allestimento e trasferte | Molti passaggi, pochi decisori |
+
+| Agente plurimandatario | Variabile, senza prezzo esplicito | Nessun controllo su frequenza e target |
+
+| Google Ads / inbound | 80–250 € per lead | Il lead non è un appuntamento |
+
+| Outbound interno (SDR) | 120–350 € | Costo fisso che corre a vuoto |
+
+| Outbound a performance | 150–450 € | Selezione del fornitore |
+
+Un riferimento per l’inbound: il report WordStream sui benchmark Google Ads 2026 (dati aprile 2025 – marzo 2026) indica un costo per lead medio di 75,19 dollari in Industrial & Commercial e di 90,92 in Home & Home Improvement. Ma tra un modulo compilato e un tecnico davanti a un decisore ci sono tasso di contatto, qualifica e no-show.
+
+### Il calcolo del punto di pareggio su una commessa media
+
+Un’impresa impiantistica del Nord-Est, commessa media 45.000 €, margine di contribuzione al 18%: circa 8.100 € per lavoro. Se l’acquisizione non deve assorbire più del 20% di quel margine, la soglia di CAC accettabile è 1.620 €. Serve poi il tasso di chiusura.
+
+| Appuntamenti per cliente | CAC a 250 €/appuntamento | Esito vs soglia 1.620 € |
+
+| --- | --- | --- |
+
+| 4 | 1.000 € | Dentro |
+
+| 6 | 1.500 € | Al limite |
+
+| 8 | 2.000 € | Fuori |
+
+| 12 | 3.000 € | Ben fuori |
+
+La lettura è controintuitiva: il prezzo dell’appuntamento conta meno del tasso di chiusura. Pagare 400 € un incontro che chiude 1 su 4 costa meno di 150 € per uno che chiude 1 su 12. E il margine non è una costante: secondo l’Istat i prezzi alla produzione delle costruzioni per edifici residenziali e non residenziali sono cresciuti del 2,8% su base annua a giugno 2026. Ogni punto di costo in più abbassa la soglia sostenibile.
+
+### Quando il modello pay-per-appointment conviene e quando no
+
+Chi si rivolge a un’agenzia di lead generation B2B compra quasi sempre attività: giornate di lavoro, email inviate, liste costruite. Il rischio resta dalla parte di chi paga: se la campagna non produce incontri, il fornitore ha comunque lavorato e comunque fattura.
+
+Il modello a performance ribalta lo schema. Con il pay per appointment si paga l’incontro che si tiene con un decisore in target: il costo per appuntamento B2B diventa un prezzo dichiarato prima, non una media ricavata dal consuntivo. È la logica su cui è costruito il modello pay-per-appointment di Clientium, che espone un listino per appuntamento anziché per giornata. Il punto non è il prezzo, è dove si sposta il rischio: se il fornitore incassa solo sugli incontri tenuti, il no-show diventa un costo suo e il filtro su che cosa sia un lead qualificato passa dalla vostra parte del tavolo alla sua.
+
+«Se il cliente paga solo l’appuntamento che si tiene, il rischio economico sta dalla mia parte», spiega Arnold Koci, founder di Clientium e autore de La macchina degli appuntamenti. «Sulla selezione ho pochissimo margine di errore: ogni incontro fuori target lo pago io». Secondo i dati diffusi dalla sua agenzia lo show rate è intorno all’87%.
+
+Il modello però non conviene sempre.
+
+- Ticket medio basso. Sotto i 3.000–4.000 € di margine per commessa nessun tasso di chiusura recupera il costo di un appuntamento qualificato.
+- Ciclo di vendita cortissimo. Materiali a catalogo, ricambi, forniture ricorrenti: l’acquisto non passa da una riunione e l’inbound costa meno.
+- Pochissime aziende target. Con trenta o cinquanta nomi in Italia la relazione diretta del titolare vale più di qualsiasi processo esterno.
+- Agenda tecnica satura. Senza qualcuno che segua gli incontri e produca le offerte, gli appuntamenti comprati diventano costo puro.
+
+«Il costo per appuntamento è una metrica più onesta del costo per lead», osserva Koci. «Un lead è un nome su un file. In una sala riunioni non ci è mai entrato nessuno».
+
+### Il foglio di calcolo minimo per tenere sotto controllo il CAC
+
+Non serve un software. Basta un foglio con una riga per mese: spesa per canale, lead generati, appuntamenti fissati, appuntamenti tenuti, offerte emesse, contratti firmati, valore dei contratti.
+
+Da lì escono i quattro indicatori che governano la generazione vendite B2B:
+
+1. Show rate = appuntamenti tenuti ÷ fissati. Sotto il 70% il problema è la qualifica.
+2. Costo per appuntamento tenuto = spesa ÷ appuntamenti tenuti.
+3. Tasso di chiusura = contratti ÷ appuntamenti tenuti.
+4. CAC per canale = spesa del canale ÷ clienti da quel canale.
+
+Il calcolo va tenuto separato per canale: un CAC aggregato nasconde il canale che brucia budget dietro quello che funziona, e la pipeline commerciale resta alimentata per anni dalla fonte sbagliata.
+
+Chi lo tiene per dodici mesi smette di discutere se la fiera “serve”: ha i numeri, e decide dove spostare il budget commerciale dell’anno successivo.
+
+### Domande frequenti
+
+**Quanto costa un appuntamento B2B qualificato in Italia?**
+Sul mercato italiano il costo per appuntamento B2B con un decisore in target si colloca in genere tra 150 e 450 euro nell’outbound esternalizzato, con variazioni forti per settore e livello dell’interlocutore. Sono ordini di grandezza osservati, non listini: vanno confrontati con il tasso di chiusura aziendale.
+
+**Come si calcola il CAC in un’impresa edile o impiantistica?**
+Si sommano, su dodici mesi, le ore commerciali interne valorizzate al costo aziendale pieno, le spese dirette di marketing e fiere, il costo di produzione dei preventivi e il tempo speso sulle trattative perse. Il totale si divide per i clienti nuovi acquisiti nello stesso periodo.
+
+**Conviene calcolare il costo acquisizione cliente B2B per singolo canale?**
+Sì, sempre. Un CAC aggregato fa media tra canali che si comportano in modo opposto e nasconde quello che consuma budget senza chiudere nulla. Il calcolo per canale permette di spostare risorse in corso d’anno e di capire quale fonte alimenta davvero la pipeline commerciale.
 
 ---
 

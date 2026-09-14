@@ -15,7 +15,7 @@ const SITE = (process.env.SITE_URL || "https://www.rassegnaedile.it").replace(/\
 const articlesDir = join(root, "src/data/articles");
 
 const categories = [
-  ["ristrutturazioni", "Ristrutturazioni"],
+  ["ristrutturazioni", "Ristrutturazioni", "costi"],
   ["serramenti-infissi", "Serramenti e Infissi"],
   ["efficienza-energetica", "Efficienza Energetica"],
   ["materiali-costruzione", "Materiali da Costruzione"],
@@ -144,6 +144,17 @@ writeFileSync(join(root, "public/llms.txt"), llms);
 /* ---------- llms-full.txt (corpo completo per i motori generativi) ---------- */
 const secText = (sec) => {
   const out = [`### ${sec.h2}`];
+  const plain = (t) => t.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/\*\*/g, "");
+  for (const b of sec.blocks ?? []) {
+    if (b.type === "p") out.push(plain(b.text));
+    else if (b.type === "h3") out.push(`#### ${b.text}`);
+    else if (b.type === "list") out.push(b.items.map((li, i) => `${b.ordered ? `${i + 1}.` : "-"} ${plain(li)}`).join("\n"));
+    else if (b.type === "table") {
+      out.push(`| ${b.headers.join(" | ")} |`);
+      out.push(`| ${b.headers.map(() => "---").join(" | ")} |`);
+      for (const r of b.rows) out.push(`| ${r.map(plain).join(" | ")} |`);
+    }
+  }
   if (sec.paragraphs) out.push(sec.paragraphs.join("\n\n"));
   if (sec.list) out.push(sec.list.map((li) => `- ${li}`).join("\n"));
   if (sec.table) {

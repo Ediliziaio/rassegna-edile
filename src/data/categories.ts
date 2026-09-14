@@ -105,6 +105,15 @@ export const categories: Category[] = [
     covers: [{"title": "Titoli edilizi", "text": "CILA, SCIA e permesso di costruire: criteri di scelta, procedura e conseguenze di un inquadramento errato."}, {"title": "Sicurezza in cantiere", "text": "Obblighi del D.Lgs. 81/2008, figure coinvolte e responsabilità che ricadono sul committente."}, {"title": "Prestazioni energetiche e sanatorie", "text": "Direttiva europea sugli edifici e disciplina delle regolarizzazioni: stato dell'arte e margini di intervento."}],
     faq: [{"q": "Qual è la differenza tra CILA, SCIA e permesso di costruire?", "a": "Individuano interventi di incidenza crescente: la CILA riguarda opere di manutenzione straordinaria senza effetti sulle parti strutturali, la SCIA interventi più incisivi compresi quelli su parti strutturali, il permesso di costruire le trasformazioni urbanistiche ed edilizie di maggiore rilievo. La classificazione dipende dalla natura delle opere."}, {"q": "Il committente privato ha obblighi di sicurezza in cantiere?", "a": "Sì. Il D.Lgs. 81/2008 attribuisce al committente obblighi specifici, tra cui la verifica dell'idoneità tecnico-professionale delle imprese e, nei casi previsti, la nomina dei coordinatori per la sicurezza. Sono responsabilità che non vengono meno affidando i lavori a un'unica impresa."}, {"q": "Che cosa cambia con la direttiva europea sulle case green?", "a": "La direttiva fissa obiettivi di miglioramento delle prestazioni energetiche del patrimonio edilizio, lasciando agli Stati membri la definizione delle modalità attuative. Gli obblighi concretamente applicabili in Italia dipendono dal recepimento nazionale: fino a quel momento le indicazioni vanno lette come traiettoria, non come prescrizioni immediate."}],
   },
+  {
+    slug: "costi",
+    name: "Costi d'impresa",
+    description:
+      "Quanto costa fare impresa nell'edilizia e nell'impiantistica: acquisizione clienti, struttura commerciale e marginalità di commessa.",
+    metaTitle: "Costi d'impresa nell'edilizia | Rassegna Edile",
+    metaDescription:
+      "Costo di acquisizione cliente, costo per appuntamento e marginalità di commessa: i numeri che servono a imprese edili e impiantisti.",
+  },
 ];
 
 export const categoryBySlug = (slug: string) =>
