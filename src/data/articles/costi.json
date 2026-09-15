@@ -245,5 +245,216 @@
       "CAC",
       "lead generation B2B"
     ]
+  },
+  {
+    "slug": "quanto-costa-causa-costruttore",
+    "category": "costi",
+    "title": "Quanto costa davvero fare causa al costruttore (e quando non conviene)",
+    "metaTitle": "Causa al costruttore: quanto costa davvero nel 2027",
+    "metaDescription": "Contributo unificato, CTU, spese legali e tempi: quanto costa una causa per difetti costruttivi e quando conviene fermarsi prima di iniziarla.",
+    "primaryKeyword": "quanto costa fare causa al costruttore",
+    "answerBox": "Una causa civile ha quattro voci di costo: contributo unificato, compenso del difensore, consulente tecnico di parte, consulenza tecnica d’ufficio. Chi si chiede quanto costa fare causa al costruttore deve sapere questo: tre di queste quattro voci si pagano a causa in corso, prima di sapere come finisce.",
+    "author": "Avv. Armando Rossi",
+    "authorRole": "Avvocato del Foro di Napoli",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "heroAlt": "Quanto costa davvero fare causa al costruttore (e quando non conviene)",
+    "pillar": false,
+    "sections": [
+      {
+        "id": "le-voci-di-spesa-una-per-una",
+        "h2": "Le voci di spesa, una per una",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Contributo unificato.** È la somma dovuta allo Stato per iscrivere la causa a ruolo. L’articolo 13 del testo unico sulle spese di giustizia ([d.P.R. 115/2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115)) fissa scaglioni crescenti sul valore della domanda. Si paga al deposito, con l’anticipazione forfettaria di 27 euro. In appello aumenta della metà, in Cassazione raddoppia."
+          },
+          {
+            "type": "p",
+            "text": "**Difesa tecnica.** Il compenso dell’avvocato non è un tariffario: si pattuisce. Il d.m. 55/2014, aggiornato dal d.m. 147/2022, fissa i parametri che il giudice usa per liquidare le spese a carico di chi perde, divisi in quattro fasi: studio, introduttiva, istruttoria, decisionale. L’articolo 13 della legge 247/2012 impone di comunicare al cliente in forma scritta la prevedibile misura del costo: il preventivo scritto è un diritto."
+          },
+          {
+            "type": "p",
+            "text": "**Consulente tecnico di parte (CTP).** È il tecnico che assiste nella parte tecnica della lite. Compenso libero. È la prima spesa in ordine di tempo e quasi sempre la più utile: dice se la causa sta in piedi prima di iniziarla."
+          },
+          {
+            "type": "p",
+            "text": "**CTU.** È la consulenza tecnica d’ufficio, il perito nominato dal giudice. Il compenso lo liquida il giudice in base al d.P.R. 115/2002 e al d.m. 30 maggio 2002: per costruzioni ed estimo gli onorari si calcolano in percentuale sul valore, quindi la spesa cresce con il valore della causa. In corso di giudizio il giudice pone un fondo spese a carico di una parte e decide il carico definitivo alla fine."
+          },
+          {
+            "type": "p",
+            "text": "Chi perde paga anche le spese dell’altro (articolo 91 del codice di procedura civile), ma il giudice può compensarle nei casi previsti dall’articolo 92. Vincere non significa recuperare tutto."
+          }
+        ]
+      },
+      {
+        "id": "quanto-costa-fare-causa-al-costruttore-per-fascia-di-valore",
+        "h2": "Quanto costa fare causa al costruttore per fascia di valore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I numeri che seguono sono **ordini di grandezza, non tariffe**. Il contributo unificato è un importo di legge; la terza colonna riporta parametri medi per la liquidazione giudiziale, non il prezzo di un incarico. CTP e CTU non compaiono: non hanno importi prestabiliti."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Valore della domanda",
+              "Contributo unificato (1° grado)",
+              "Valore medio d.m. 55/2014, quattro fasi"
+            ],
+            "rows": [
+              [
+                "fino a 1.100 €",
+                "43 €",
+                "—"
+              ],
+              [
+                "1.100 – 5.200 €",
+                "98 €",
+                "—"
+              ],
+              [
+                "5.200 – 26.000 €",
+                "237 €",
+                "circa 5.100 €"
+              ],
+              [
+                "26.000 – 52.000 €",
+                "518 €",
+                "circa 7.600 €"
+              ],
+              [
+                "52.000 – 260.000 €",
+                "759 €",
+                "circa 14.100 €"
+              ],
+              [
+                "260.000 – 520.000 €",
+                "1.214 €",
+                "—"
+              ],
+              [
+                "oltre 520.000 €",
+                "1.686 €",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A ogni riga va aggiunta l’anticipazione forfettaria di 27 euro. Il conto vero, però, lo fa la perizia, e sotto una certa soglia di valore costa più di quello che si può ottenere."
+          }
+        ]
+      },
+      {
+        "id": "laccertamento-tecnico-preventivo-per-i-difetti-costruttivi-l",
+        "h2": "L’accertamento tecnico preventivo per i difetti costruttivi: la via che costa meno e chiude prima",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "L’articolo 696-bis del codice di procedura civile permette di chiedere al tribunale una consulenza tecnica **prima e fuori** dalla causa di merito, per accertare crediti da inadempimento contrattuale o da fatto illecito. Prima di depositare la relazione il consulente tenta la conciliazione: se l’accordo si raggiunge il verbale è esente da imposta di registro e il giudice può attribuirgli efficacia di titolo esecutivo, altrimenti la relazione può essere acquisita nel giudizio di merito."
+          },
+          {
+            "type": "p",
+            "text": "Il vantaggio economico è concreto: un contributo unificato e una sola consulenza, senza finanziare quattro fasi di giudizio per scoprire solo alla fine che cosa dice il tecnico. E l’articolo 5, comma 6, del d.lgs. 28/2010 esclude questo procedimento dall’obbligo di mediazione."
+          },
+          {
+            "type": "p",
+            "text": "La convenienza dipende però dai termini. La responsabilità del costruttore per i **difetti costruttivi** più gravi è regolata dall’articolo 1669 del codice civile, che lo rende responsabile per dieci anni dal compimento dell’opera quando l’edificio rovina, minaccia di rovinare o presenta gravi difetti. Dentro quel decennio la denuncia va fatta entro un anno dalla scoperta a pena di decadenza — la perdita del diritto per il solo decorso del tempo, senza le interruzioni ammesse per la prescrizione — e l’azione entro un anno dalla denuncia. Per i vizi non gravi valgono i termini più stretti dell’articolo 1667 del codice civile: sessanta giorni dalla scoperta per la denuncia, due anni dalla consegna per l’azione. Su come si contano è utile [la guida di Edilizia Legale sui difetti costruttivi](https://www.edilizialegale.it/guide/difetti-costruttivi-casa-nuova)."
+          }
+        ]
+      },
+      {
+        "id": "i-tempi-reali-di-un-giudizio-civile",
+        "h2": "I tempi reali di un giudizio civile",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Il Ministero della Giustizia pubblica il disposition time, l’indicatore CEPEJ che misura quanto impiega un ufficio a smaltire le cause pendenti ([dati e statistiche](https://datiestatistiche.giustizia.it/page/it/disposition-time-e-pendenza-civile-e-penale)). È un dato aggregato, non la durata della singola causa: due tribunali della stessa regione possono discostarsi molto."
+          },
+          {
+            "type": "p",
+            "text": "In una lite edilizia la variabile che pesa non è il ruolo, è la perizia. Una CTU richiede nomina, giuramento, sopralluogo, contraddittorio con i consulenti di parte, deposito, osservazioni e spesso un supplemento: sono mesi, non settimane. L’appello aggiunge tempo e un contributo unificato maggiorato della metà."
+          }
+        ]
+      },
+      {
+        "id": "quando-non-conviene-fare-causa-quattro-casi-concreti",
+        "h2": "Quando non conviene fare causa: quattro casi concreti",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Il danno vale meno di quanto costa accertarlo.** Un difetto da tremila euro che richiede perizia, giudizio e due anni di attesa è una perdita anche vincendo."
+          },
+          {
+            "type": "p",
+            "text": "**La prova non è raggiungibile.** L’onere della prova (articolo 2697 del codice civile) è di chi agisce: deve dimostrare il difetto e la sua origine. Se l’immobile è stato rifatto da altri, se mancano fotografie dello stato originario, se nessun documento collega quel vizio a quella lavorazione, si investe su una prova che non c’è."
+          },
+          {
+            "type": "p",
+            "text": "**La controparte non ha patrimonio.** Una sentenza contro un’impresa cancellata dal registro o priva di beni è un titolo che non si esegue. La visura camerale costa poche decine di euro: va fatta prima, non dopo."
+          },
+          {
+            "type": "p",
+            "text": "**I termini sono scaduti.** Una denuncia tardiva chiude la strada anche a un difetto reale ed evidente. È la verifica da fare per prima: è l’unica che può rendere inutile tutto il resto."
+          },
+          {
+            "type": "p",
+            "text": "Nessuno di questi quattro casi si decide leggendo un articolo. Si decide sulle date e sui documenti di quel cantiere."
+          }
+        ]
+      },
+      {
+        "id": "la-mediazione-e-la-negoziazione-assistita-cosa-sono-e-quando",
+        "h2": "La mediazione e la negoziazione assistita: cosa sono e quando sono obbligatorie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La mediazione è un tentativo di accordo davanti a un organismo terzo, disciplinato dal [d.lgs. 28/2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28). L’articolo 5 la rende condizione di procedibilità in un elenco chiuso di materie, fra cui condominio, diritti reali, divisione, successioni, locazione e comodato. L’appalto, da solo, non c’è. Ma una lite su parti comuni o su un muro perimetrale può rientrarvi come controversia condominiale o di diritti reali: si guarda alla domanda, non all’etichetta del contratto. I costi sono fissati dal d.m. 150/2023 e per il primo incontro restano nell’ordine di poche centinaia di euro; l’articolo 20 riconosce crediti d’imposta su indennità e compenso del difensore."
+          },
+          {
+            "type": "p",
+            "text": "La negoziazione assistita è un accordo a trattare tramite avvocati, previsto dall’articolo 3 del d.l. 132/2014. È condizione di procedibilità per le domande di pagamento fino a 50.000 euro, ma lo stesso articolo esclude le obbligazioni contrattuali fra professionisti e consumatori e la consulenza tecnica preventiva."
+          },
+          {
+            "type": "p",
+            "text": "Il conto finale non dipende dallo scaglione, ma da due domande nell’ordine giusto: i termini sono ancora aperti? il danno vale più dell’accertamento che serve a dimostrarlo? Se la prima risposta è no, non c’è strategia che tenga. Se lo è la seconda, la strada più efficiente è quella che evita il giudizio di merito."
+          },
+          {
+            "type": "p",
+            "text": "**Avv. Armando Rossi** — Avvocato del Foro di Napoli, si occupa di diritto dell’edilizia e degli appalti privati. Assiste imprese di costruzioni, artigiani e committenti in materia di contratti d’appalto, recupero crediti, difetti costruttivi e contenzioso di cantiere. Scrive su edilizialegale.it."
+          },
+          {
+            "type": "p",
+            "text": "Il contenuto di questo articolo ha carattere informativo generale, non costituisce parere legale e non sostituisce l’esame del caso concreto."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Entro quanto tempo si devono denunciare i difetti al costruttore?",
+        "a": "In termini generali: per i gravi difetti dell’articolo 1669 del codice civile la denuncia va fatta entro un anno dalla scoperta, dentro il decennio dal compimento dell’opera, e l’azione si prescrive in un anno dalla denuncia. Per i vizi dell’articolo 1667 i termini sono sessanta giorni e due anni. Il calcolo dipende dai fatti."
+      },
+      {
+        "q": "Chi paga la consulenza tecnica d’ufficio?",
+        "a": "In generale il giudice pone un fondo spese a carico di una parte durante il processo e decide il carico definitivo con la sentenza, secondo il principio di soccombenza dell’articolo 91 del codice di procedura civile, salva la compensazione. Chi anticipa non sempre sopporta il costo alla fine."
+      },
+      {
+        "q": "Conviene prima un accertamento tecnico preventivo o subito la causa per difetti costruttivi?",
+        "a": "Dipende dal caso, e la risposta qui è solo generale. L’accertamento preventivo dell’articolo 696-bis del codice di procedura civile costa meno e chiude prima quando il punto controverso è tecnico e la controparte è solvibile. Se i termini stanno per scadere, la valutazione cambia."
+      }
+    ],
+    "related": [
+      "costo-acquisizione-cliente-b2b-edilizia",
+      "ristrutturazione-chiavi-in-mano-guida",
+      "cila-scia-permesso-costruire-differenze"
+    ],
+    "tags": [
+      "quanto costa fare causa al costruttore",
+      "difetti costruttivi",
+      "difetti costruttivi",
+      "accertamento tecnico preventivo"
+    ]
   }
 ]

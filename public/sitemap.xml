@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,6 +54,17 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/costi/quanto-costa-causa-costruttore/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/quanto-costa-causa-costruttore.webp</image:loc>
+      <image:title>Quanto costa davvero fare causa al costruttore (e quando non conviene)</image:title>
+      <image:caption>Quanto costa davvero fare causa al costruttore (e quando non conviene)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/costo-acquisizione-cliente-b2b-edilizia/</loc>

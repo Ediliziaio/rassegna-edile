@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Quanto costa davvero fare causa al costruttore (e quando non conviene)</title>
+      <link>https://www.rassegnaedile.it/costi/quanto-costa-causa-costruttore/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/costi/quanto-costa-causa-costruttore/</guid>
+      <description>Contributo unificato, CTU, spese legali e tempi: quanto costa una causa per difetti costruttivi e quando conviene fermarsi prima di iniziarla.</description>
+      <author>redazione@rassegnaedile.it (Avv. Armando Rossi)</author>
+      <category>costi</category>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Quanto costa davvero acquisire un cliente B2B nell’edilizia e nell’impiantistica</title>
       <link>https://www.rassegnaedile.it/costi/costo-acquisizione-cliente-b2b-edilizia/</link>
@@ -178,15 +187,6 @@
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>normative</category>
       <pubDate>Wed, 03 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Impianto elettrico a norma CEI 64-8: cosa prescrive, livelli e costi del rifacimento</title>
-      <link>https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/impianti/impianto-elettrico-a-norma-cei-64-8/</guid>
-      <description>Cosa prescrive la norma CEI 64-8 per l'impianto elettrico: livelli 1-3, numero di prese, costi del rifacimento e dichiarazione di conformità.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>impianti</category>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
