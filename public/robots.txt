@@ -46,3 +46,4 @@ Sitemap: https://www.rassegnaedile.it/sitemap.xml
 # Corpus per i motori generativi
 # https://www.rassegnaedile.it/llms.txt
 # https://www.rassegnaedile.it/llms-full.txt
+Sitemap: https://www.rassegnaedile.it/sitemap-editorial.xml

@@ -53,6 +53,7 @@ export default function Header() {
 
   return (
     <header className="border-b border-border bg-card">
+      <nav aria-label="Guide e speciali" style={{display:"flex",justifyContent:"center",flexWrap:"wrap",gap:"20px",padding:"8px 16px",background:"#f5f5f2",color:"#263c42",fontSize:"13px",borderBottom:"1px solid #dce1df"}}><a href="/guide-pratiche/">Guide pratiche</a><a href="/speciali-aziende/">Speciali aziende · contenuti sponsorizzati</a></nav>
       {/* Top bar */}
       <div className="bg-primary text-primary-foreground">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-1.5 font-sans text-[0.7rem]">

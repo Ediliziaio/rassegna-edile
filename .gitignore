@@ -16,3 +16,4 @@ dist/
 
 # SSR prerender intermedio
 dist-server/
+/editorial/drafts/
