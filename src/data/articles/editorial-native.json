@@ -3,7 +3,7 @@
     "slug": "preventivo-cappotto-termico-voci-escluse",
     "category": "costi",
     "title": "Preventivo cappotto termico: le voci che mancano più spesso",
-    "metaTitle": "Preventivo cappotto termico: le voci che mancano più spesso",
+    "metaTitle": "Preventivo cappotto termico: inclusioni ed esclusioni",
     "metaDescription": "Come rendere confrontabili le offerte del cappotto: supporto, ponteggio, raccordi e finiture. Una matrice delle inclusioni, senza listini inventati.",
     "primaryKeyword": "preventivo cappotto termico",
     "answerBox": "Un’offerta di cappotto va letta insieme al progetto e alle esclusioni. Prima di confrontare il prezzo al mq, uniforma superfici, sistema proposto, preparazione del supporto, accessi e raccordi: un totale basso può riferirsi a un lavoro più ristretto.",
@@ -150,6 +150,32 @@
         ]
       },
       {
+        "id": "approfondimento-0",
+        "h2": "Le esclusioni vanno lette insieme al programma",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Una voce esclusa deve avere un interlocutore e un momento di gestione se interessa il risultato finale. Chiedi quindi non soltanto che cosa non è compreso, ma come il progetto consideri i punti di contatto con le altre attività. Non tutte le differenze tra offerte indicano un'omissione: possono descrivere perimetri diversi che devono essere resi confrontabili. Una tabella con inclusioni, esclusioni e verifiche aperte è più utile di una somma ricostruita aggiungendo importi non riferiti alla stessa configurazione."
+          }
+        ],
+        "paragraphs": [
+          "Una voce esclusa deve avere un interlocutore e un momento di gestione se interessa il risultato finale. Chiedi quindi non soltanto che cosa non è compreso, ma come il progetto consideri i punti di contatto con le altre attività. Non tutte le differenze tra offerte indicano un'omissione: possono descrivere perimetri diversi che devono essere resi confrontabili. Una tabella con inclusioni, esclusioni e verifiche aperte è più utile di una somma ricostruita aggiungendo importi non riferiti alla stessa configurazione."
+        ]
+      },
+      {
+        "id": "approfondimento-2",
+        "h2": "Un esempio di confronto per revisioni",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Immagina che, dopo il sopralluogo, alcune parti del progetto vengano aggiornate. Registra quali documenti e descrizioni cambiano e verifica che le offerte successive si riferiscano a quella stessa revisione. Un vecchio prezzo associato a un perimetro superato non diventa automaticamente rappresentativo del nuovo insieme. L'esempio serve a organizzare il confronto: non indica costi o requisiti tecnici del cappotto, che devono essere valutati in relazione al progetto e alle condizioni dell'immobile."
+          }
+        ],
+        "paragraphs": [
+          "Immagina che, dopo il sopralluogo, alcune parti del progetto vengano aggiornate. Registra quali documenti e descrizioni cambiano e verifica che le offerte successive si riferiscano a quella stessa revisione. Un vecchio prezzo associato a un perimetro superato non diventa automaticamente rappresentativo del nuovo insieme. L'esempio serve a organizzare il confronto: non indica costi o requisiti tecnici del cappotto, che devono essere valutati in relazione al progetto e alle condizioni dell'immobile."
+        ]
+      },
+      {
         "id": "fonti",
         "h2": "Fonti e riferimenti",
         "blocks": [
@@ -158,6 +184,20 @@
             "items": [
               "[Cortexa — Guida alla formulazione del preventivo del cappotto](https://www.cortexa.it/modello-preventivo-cappotto-termico/)",
               "[Cortexa — Manuale del sistema a cappotto](https://www.cortexa.it/guida/manuale-cappotto-termico-cortexa/)"
+            ]
+          }
+        ],
+        "paragraphs": []
+      },
+      {
+        "id": "letture-correlate",
+        "h2": "Approfondimenti nella testata",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "[Cappotto termico esterno: guida a materiali, spessori, costi e posa](/efficienza-energetica/cappotto-termico-esterno-guida/)",
+              "[Migliori isolanti termici a confronto: conducibilità, costi e impieghi ideali](/materiali-costruzione/migliori-isolanti-termici-confronto/)"
             ]
           }
         ],
@@ -176,9 +216,20 @@
       {
         "q": "La tabella è un capitolato di posa?",
         "a": "No: è uno strumento per confrontare inclusioni ed esclusioni rispetto al progetto."
+      },
+      {
+        "q": "Un'esclusione rende sempre incompleto il preventivo?",
+        "a": "No. Può delimitare correttamente il perimetro, purché sia comprensibile chi gestirà l'attività pertinente e come verrà coordinata con il progetto complessivo."
+      },
+      {
+        "q": "Come confronto una proposta aggiornata con quella precedente?",
+        "a": "Identifica versione, perimetro e modifiche. Non confrontare soltanto i totali se le descrizioni del lavoro o le condizioni considerate non sono più le stesse."
       }
     ],
-    "related": [],
+    "related": [
+      "cappotto-termico-esterno-guida",
+      "migliori-isolanti-termici-confronto"
+    ],
     "tags": [
       "costi"
     ],
@@ -188,7 +239,7 @@
     "slug": "renova-solution-confrontare-le-alternative-per-le-nuove-finestre",
     "category": "serramenti-infissi",
     "title": "Renova Solution: confrontare le alternative per le nuove finestre",
-    "metaTitle": "Renova Solution: confrontare le alternative per le nuove finestre",
+    "metaTitle": "Renova Solution: confrontare i preventivi infissi",
     "metaDescription": "Stessi vani e stesso perimetro di lavori: un metodo per conoscere le proposte Renova Solution e discutere le alternative degli infissi.",
     "primaryKeyword": "Renova Solution: confrontare le alternative per le nuove finestre",
     "answerBox": "Un confronto è utile quando cambiano le soluzioni, non le informazioni di partenza. Per le finestre, serve una richiesta comune che descriva aperture e lavorazioni.",
@@ -276,6 +327,83 @@
         ]
       },
       {
+        "id": "approfondimento-0",
+        "h2": "Due preventivi si confrontano per vano",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Prima del totale, costruisci una tabella che riporti le medesime aperture per entrambe le offerte. Usa un codice per ciascun vano e verifica che ogni proposta includa lo stesso insieme di elementi. Una cifra più bassa può dipendere da un'apertura mancante o da un accessorio descritto altrove. Il confronto diventa utile quando puoi risalire dal totale alla singola configurazione. Nel contatto con Renova Solution, questa tabella aiuta a formulare richieste e osservazioni riconoscibili."
+          }
+        ],
+        "paragraphs": [
+          "Prima del totale, costruisci una tabella che riporti le medesime aperture per entrambe le offerte. Usa un codice per ciascun vano e verifica che ogni proposta includa lo stesso insieme di elementi. Una cifra più bassa può dipendere da un'apertura mancante o da un accessorio descritto altrove. Il confronto diventa utile quando puoi risalire dal totale alla singola configurazione. Nel contatto con Renova Solution, questa tabella aiuta a formulare richieste e osservazioni riconoscibili."
+        ]
+      },
+      {
+        "id": "approfondimento-2",
+        "h2": "Separare le differenze tecniche dalle differenze di perimetro",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Materiale, apertura e configurazione della vetrazione appartengono alla soluzione del serramento. Rimozione, movimentazione, smaltimento e ripristini descrivono invece il lavoro che la circonda. Tieni distinte queste due famiglie quando confronti le proposte. Chiedi spiegazioni sulle caratteristiche rilevanti per il tuo immobile senza trattare un solo indicatore come giudizio universale di qualità. La scelta deve essere coerente con requisiti, uso delle aperture e attività comprese nell'intervento."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Confronto",
+              "Verifica pratica"
+            ],
+            "rows": [
+              [
+                "Quantità",
+                "Stesso elenco di vani e accessori"
+              ],
+              [
+                "Configurazione",
+                "Differenze esplicitate nelle schede delle aperture"
+              ],
+              [
+                "Posa e finiture",
+                "Attività incluse ed escluse indicate separatamente"
+              ],
+              [
+                "Versione",
+                "Offerte riferite alla stessa revisione della richiesta"
+              ]
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Materiale, apertura e configurazione della vetrazione appartengono alla soluzione del serramento. Rimozione, movimentazione, smaltimento e ripristini descrivono invece il lavoro che la circonda. Tieni distinte queste due famiglie quando confronti le proposte. Chiedi spiegazioni sulle caratteristiche rilevanti per il tuo immobile senza trattare un solo indicatore come giudizio universale di qualità. La scelta deve essere coerente con requisiti, uso delle aperture e attività comprese nell'intervento."
+        ]
+      },
+      {
+        "id": "approfondimento-5",
+        "h2": "Le alternative non si sommano alla soluzione di base",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Se stai valutando due finiture o due configurazioni, fai presentare una base e varianti riconoscibili. La variante deve chiarire cosa sostituisce e quale elemento della proposta cambia. In questo modo eviti un confronto in cui una cifra include un'opzione e l'altra no. Conserva anche la configurazione scartata, ma segnala che non è quella approvata. I documenti aiutano a ricostruire la scelta soltanto se il loro stato è comprensibile."
+          }
+        ],
+        "paragraphs": [
+          "Se stai valutando due finiture o due configurazioni, fai presentare una base e varianti riconoscibili. La variante deve chiarire cosa sostituisce e quale elemento della proposta cambia. In questo modo eviti un confronto in cui una cifra include un'opzione e l'altra no. Conserva anche la configurazione scartata, ma segnala che non è quella approvata. I documenti aiutano a ricostruire la scelta soltanto se il loro stato è comprensibile."
+        ]
+      },
+      {
+        "id": "approfondimento-7",
+        "h2": "Esempio: mantenere alcuni elementi esistenti",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Immagina due offerte per nuove finestre: una considera il mantenimento di alcuni accessori, l'altra ne prevede la sostituzione. Non sono necessariamente in contraddizione; descrivono perimetri differenti che devono essere discussi. Chiedi quali verifiche supportino la scelta e come saranno trattati i collegamenti con le parti mantenute. È un esempio di lettura, non un'offerta dell'azienda. La decisione utile nasce da una spiegazione delle differenze, non dal confronto isolato delle somme finali."
+          }
+        ],
+        "paragraphs": [
+          "Immagina due offerte per nuove finestre: una considera il mantenimento di alcuni accessori, l'altra ne prevede la sostituzione. Non sono necessariamente in contraddizione; descrivono perimetri differenti che devono essere discussi. Chiedi quali verifiche supportino la scelta e come saranno trattati i collegamenti con le parti mantenute. È un esempio di lettura, non un'offerta dell'azienda. La decisione utile nasce da una spiegazione delle differenze, non dal confronto isolato delle somme finali."
+        ]
+      },
+      {
         "id": "informazioni-azienda",
         "h2": "Informazioni e contatti",
         "blocks": [
@@ -287,10 +415,40 @@
         "paragraphs": [
           "[Conosci Renova Solution per il rinnovo degli infissi](https://www.renovasolution.it/ \"sponsored\")"
         ]
+      },
+      {
+        "id": "letture-correlate",
+        "h2": "Approfondimenti nella testata",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "[Serramenti in PVC, alluminio o legno: il confronto definitivo per scegliere senza errori](/serramenti-infissi/serramenti-pvc-alluminio-legno-confronto/)",
+              "[Sostituzione infissi: costi 2026 per materiale, posa in opera e pratiche da seguire](/serramenti-infissi/sostituzione-infissi-costi-guida/)"
+            ]
+          }
+        ],
+        "paragraphs": []
       }
     ],
-    "faq": [],
-    "related": [],
+    "faq": [
+      {
+        "q": "Il preventivo più dettagliato è sempre il migliore?",
+        "a": "Il dettaglio è utile se permette di capire e confrontare la fornitura. Verifica la pertinenza delle informazioni e le condizioni del lavoro: il numero di pagine non è una valutazione tecnica."
+      },
+      {
+        "q": "Come confronto offerte con materiali diversi?",
+        "a": "Parti dagli stessi requisiti dell'immobile e chiedi che le differenze siano spiegate. Non presumere equivalenza soltanto perché le aperture hanno le medesime dimensioni indicative."
+      },
+      {
+        "q": "Cosa devo firmare quando scelgo una variante?",
+        "a": "La configurazione approvata deve essere riconoscibile e coerente con il documento a cui si riferisce. Chiedi che sia chiaro quale opzione sostituisce e quali parti rimangono comprese."
+      }
+    ],
+    "related": [
+      "serramenti-pvc-alluminio-legno-confronto",
+      "sostituzione-infissi-costi-guida"
+    ],
     "tags": [
       "serramenti-infissi"
     ],
@@ -300,7 +458,7 @@
     "slug": "innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico",
     "category": "efficienza-energetica",
     "title": "Innovasol: dare una priorità tra fotovoltaico e solare termico",
-    "metaTitle": "Innovasol: dare una priorità tra fotovoltaico e solare termico",
+    "metaTitle": "Innovasol: fotovoltaico o solare termico per casa",
     "metaDescription": "Produzione elettrica e acqua calda sono obiettivi diversi. Come preparare il confronto sui due servizi presentati da Innovasol in Sicilia.",
     "primaryKeyword": "Innovasol: dare una priorità tra fotovoltaico e solare termico",
     "answerBox": "Prima di occupare lo spazio del tetto, chiarisci quale esigenza vuoi affrontare. La richiesta cambia quando distingui produzione elettrica e acqua calda.",
@@ -388,6 +546,79 @@
         ]
       },
       {
+        "id": "approfondimento-0",
+        "h2": "Prima domanda: quale bisogno vuoi affrontare?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Una richiesta centrata sul nome di una tecnologia può partire dal punto sbagliato. Descrivi invece se il problema riguarda l'acqua calda, i consumi elettrici o più esigenze da coordinare. Il solare termico produce calore; il fotovoltaico produce elettricità. Per il funzionamento della tecnologia, si veda il [riferimento tecnico ENEA sul solare termico](https://iris.enea.it/retrieve/dd11e37c-d63d-5d97-e053-d805fe0a6f04/V2017_Catalogo-tecnologie-energetiche.pdf). Non sono quindi due etichette intercambiabili della stessa fornitura. Innovasol presenta entrambe le famiglie di servizi, ma il confronto utile deve spiegare come ciascuna eventuale proposta risponda agli utilizzi del tuo immobile."
+          }
+        ],
+        "paragraphs": [
+          "Una richiesta centrata sul nome di una tecnologia può partire dal punto sbagliato. Descrivi invece se il problema riguarda l'acqua calda, i consumi elettrici o più esigenze da coordinare. Il solare termico produce calore; il fotovoltaico produce elettricità. Per il funzionamento della tecnologia, si veda il [riferimento tecnico ENEA sul solare termico](https://iris.enea.it/retrieve/dd11e37c-d63d-5d97-e053-d805fe0a6f04/V2017_Catalogo-tecnologie-energetiche.pdf). Non sono quindi due etichette intercambiabili della stessa fornitura. Innovasol presenta entrambe le famiglie di servizi, ma il confronto utile deve spiegare come ciascuna eventuale proposta risponda agli utilizzi del tuo immobile."
+        ]
+      },
+      {
+        "id": "approfondimento-2",
+        "h2": "La priorità dipende anche dai lavori già decisi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Elenca gli impianti esistenti e i cambiamenti approvati per la casa. Se un intervento è soltanto possibile, mantienilo separato dal quadro attuale. Chiedi quali verifiche richiedano le alternative e se alcune decisioni dipendano da altre lavorazioni. Lo spazio disponibile non dovrebbe essere descritto soltanto come una superficie: occorre individuare le condizioni pertinenti al progetto e lasciare al confronto tecnico la valutazione delle informazioni necessarie."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Esigenza da discutere",
+              "Informazione iniziale"
+            ],
+            "rows": [
+              [
+                "Acqua calda",
+                "Abitudini e sistema che la produce oggi"
+              ],
+              [
+                "Consumi elettrici",
+                "Documenti disponibili e distribuzione degli utilizzi"
+              ],
+              [
+                "Più interventi",
+                "Priorità e decisioni già approvate"
+              ]
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Elenca gli impianti esistenti e i cambiamenti approvati per la casa. Se un intervento è soltanto possibile, mantienilo separato dal quadro attuale. Chiedi quali verifiche richiedano le alternative e se alcune decisioni dipendano da altre lavorazioni. Lo spazio disponibile non dovrebbe essere descritto soltanto come una superficie: occorre individuare le condizioni pertinenti al progetto e lasciare al confronto tecnico la valutazione delle informazioni necessarie."
+        ]
+      },
+      {
+        "id": "approfondimento-5",
+        "h2": "Confrontare scenari senza sommare promesse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Se vengono illustrate più possibilità, chiedi che ciascuna abbia una descrizione separata delle ipotesi e del perimetro. Non sommare benefici descritti per scenari alternativi come se appartenessero a un'unica configurazione. Lo stesso vale per parti che verrebbero mantenute in un caso e sostituite in un altro. La scheda di confronto deve permettere di capire che cosa cambierebbe nella casa e quali informazioni supportino ogni scenario, senza trasformare una presentazione generale in un risultato garantito."
+          }
+        ],
+        "paragraphs": [
+          "Se vengono illustrate più possibilità, chiedi che ciascuna abbia una descrizione separata delle ipotesi e del perimetro. Non sommare benefici descritti per scenari alternativi come se appartenessero a un'unica configurazione. Lo stesso vale per parti che verrebbero mantenute in un caso e sostituite in un altro. La scheda di confronto deve permettere di capire che cosa cambierebbe nella casa e quali informazioni supportino ogni scenario, senza trasformare una presentazione generale in un risultato garantito."
+        ]
+      },
+      {
+        "id": "approfondimento-7",
+        "h2": "Una decisione per volta, con le interfacce già visibili",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Può essere ragionevole affrontare prima una necessità e lasciare aperta una seconda. Chiedi però quali scelte della prima fase possano interessare quella successiva. Il metodo non impone di acquistare subito tutto: permette di conoscere le dipendenze prima di impegnarsi su una soluzione. Conserva la richiesta iniziale e il riepilogo delle alternative discusse. Se in futuro cambiano le abitudini o il progetto, avrai una base chiara da cui riprendere il confronto."
+          }
+        ],
+        "paragraphs": [
+          "Può essere ragionevole affrontare prima una necessità e lasciare aperta una seconda. Chiedi però quali scelte della prima fase possano interessare quella successiva. Il metodo non impone di acquistare subito tutto: permette di conoscere le dipendenze prima di impegnarsi su una soluzione. Conserva la richiesta iniziale e il riepilogo delle alternative discusse. Se in futuro cambiano le abitudini o il progetto, avrai una base chiara da cui riprendere il confronto."
+        ]
+      },
+      {
         "id": "informazioni-azienda",
         "h2": "Informazioni e contatti",
         "blocks": [
@@ -399,10 +630,40 @@
         "paragraphs": [
           "[Conosci i servizi energetici Innovasol](https://innovasol.it/ \"sponsored\")"
         ]
+      },
+      {
+        "id": "letture-correlate",
+        "h2": "Approfondimenti nella testata",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "[Pannelli solari fotovoltaico: la guida completa 2026 per la tua casa](/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/)",
+              "[Pompa di calore: guida completa a funzionamento, tipologie, costi e incentivi](/efficienza-energetica/pompa-di-calore-guida-completa/)"
+            ]
+          }
+        ],
+        "paragraphs": []
       }
     ],
-    "faq": [],
-    "related": [],
+    "faq": [
+      {
+        "q": "Fotovoltaico e solare termico fanno la stessa cosa?",
+        "a": "No: generano rispettivamente elettricità e calore. Parti dall'esigenza domestica da soddisfare e chiedi come venga affrontata dalla soluzione proposta."
+      },
+      {
+        "q": "Quale dei due devo installare per primo?",
+        "a": "Non esiste una priorità ricavabile dal solo nome della tecnologia. Servono esigenze, situazione dell'immobile e scelte già approvate, da discutere con chi valuta il progetto."
+      },
+      {
+        "q": "Posso lasciare un intervento per il futuro?",
+        "a": "Segnala questa possibilità e chiedi quali interfacce considerare nella prima fase. Un'ipotesi futura deve rimanere distinta da ciò che hai effettivamente deciso di realizzare."
+      }
+    ],
+    "related": [
+      "pannelli-solari-fotovoltaico-guida-completa",
+      "pompa-di-calore-guida-completa"
+    ],
     "tags": [
       "efficienza-energetica"
     ],
@@ -412,7 +673,7 @@
     "slug": "green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura",
     "category": "efficienza-energetica",
     "title": "Green Energy Group: valutare il fotovoltaico quando si rinnova la copertura",
-    "metaTitle": "Green Energy Group: valutare il fotovoltaico quando si rinnova la copertura",
+    "metaTitle": "Green Energy Group: fotovoltaico e lavori sulla copertura",
     "metaDescription": "Documenti del tetto, lavori previsti e programma: come impostare il confronto fotovoltaico senza separarlo dal progetto dell’immobile.",
     "primaryKeyword": "Green Energy Group: valutare il fotovoltaico quando si rinnova la copertura",
     "answerBox": "Quando il tetto è già interessato da lavori, il fotovoltaico entra in una discussione più ampia. Il punto di partenza è condividere lo stato del progetto e le verifiche disponibili.",
@@ -500,6 +761,79 @@
         ]
       },
       {
+        "id": "approfondimento-0",
+        "h2": "La copertura è un'interfaccia tra lavori diversi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Se sono previsti interventi sul tetto, segnala la circostanza prima di definire il progetto fotovoltaico. La sequenza deve tenere conto delle informazioni e delle condizioni che ciascuna attività richiede. Non significa che esista un ordine identico per tutti gli immobili: significa che i referenti devono discutere le dipendenze prima di approvare forniture o date. Nel confronto con Green Energy Group, la descrizione dei lavori già decisi è quindi parte del contesto iniziale."
+          }
+        ],
+        "paragraphs": [
+          "Se sono previsti interventi sul tetto, segnala la circostanza prima di definire il progetto fotovoltaico. La sequenza deve tenere conto delle informazioni e delle condizioni che ciascuna attività richiede. Non significa che esista un ordine identico per tutti gli immobili: significa che i referenti devono discutere le dipendenze prima di approvare forniture o date. Nel confronto con Green Energy Group, la descrizione dei lavori già decisi è quindi parte del contesto iniziale."
+        ]
+      },
+      {
+        "id": "approfondimento-2",
+        "h2": "Raccogliere i documenti senza dedurre la fattibilità",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Prepara gli elaborati e le informazioni disponibili sulla copertura e sull'immobile, indicando ciò che potrebbe non essere aggiornato. Le fotografie possono mostrare il contesto ma non sostituiscono verifiche tecniche. Se mancano dati, chiedi quali controlli siano necessari e chi debba eseguirli. Non considerare confermata l'idoneità di una superficie soltanto perché appare libera. Una richiesta chiara distingue condizioni osservate, documenti disponibili e aspetti che rimangono da accertare."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Interfaccia",
+              "Domanda da affrontare"
+            ],
+            "rows": [
+              [
+                "Progetto della copertura",
+                "Quali informazioni servono al confronto fotovoltaico?"
+              ],
+              [
+                "Programma dei lavori",
+                "Quali attività dipendono da decisioni precedenti?"
+              ],
+              [
+                "Consegna",
+                "Quali documenti descriveranno le opere e le loro interfacce?"
+              ]
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Prepara gli elaborati e le informazioni disponibili sulla copertura e sull'immobile, indicando ciò che potrebbe non essere aggiornato. Le fotografie possono mostrare il contesto ma non sostituiscono verifiche tecniche. Se mancano dati, chiedi quali controlli siano necessari e chi debba eseguirli. Non considerare confermata l'idoneità di una superficie soltanto perché appare libera. Una richiesta chiara distingue condizioni osservate, documenti disponibili e aspetti che rimangono da accertare."
+        ]
+      },
+      {
+        "id": "approfondimento-5",
+        "h2": "La ripartizione delle attività deve essere leggibile",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chiedi quali parti del lavoro vengano considerate nella proposta fotovoltaica e quali appartengano a un altro intervento. La chiarezza è particolarmente utile quando più soggetti devono operare sulla stessa area. Non dare per compresa un'attività perché sembra necessaria per completare l'insieme. Descrivi anche accessi e disponibilità dell'immobile, lasciando riconoscibili le questioni che richiedono il confronto tra professionisti. Il proprietario deve poter comprendere il programma senza assumere il ruolo di progettista."
+          }
+        ],
+        "paragraphs": [
+          "Chiedi quali parti del lavoro vengano considerate nella proposta fotovoltaica e quali appartengano a un altro intervento. La chiarezza è particolarmente utile quando più soggetti devono operare sulla stessa area. Non dare per compresa un'attività perché sembra necessaria per completare l'insieme. Descrivi anche accessi e disponibilità dell'immobile, lasciando riconoscibili le questioni che richiedono il confronto tra professionisti. Il proprietario deve poter comprendere il programma senza assumere il ruolo di progettista."
+        ]
+      },
+      {
+        "id": "approfondimento-7",
+        "h2": "Un esempio: rinnovare oggi e installare in un secondo momento",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Se immagini di completare la copertura prima del fotovoltaico, chiedi quali informazioni della prima fase sarà utile conservare e quali scelte debbano essere discusse già allora. Non si tratta di prevedere ogni futura soluzione, ma di conoscere le interfacce prima della riconsegna. L'esempio non descrive una procedura standard dell'azienda né una garanzia di compatibilità. Serve a evitare che il secondo progetto inizi senza una documentazione comprensibile di quanto è stato eseguito."
+          }
+        ],
+        "paragraphs": [
+          "Se immagini di completare la copertura prima del fotovoltaico, chiedi quali informazioni della prima fase sarà utile conservare e quali scelte debbano essere discusse già allora. Non si tratta di prevedere ogni futura soluzione, ma di conoscere le interfacce prima della riconsegna. L'esempio non descrive una procedura standard dell'azienda né una garanzia di compatibilità. Serve a evitare che il secondo progetto inizi senza una documentazione comprensibile di quanto è stato eseguito."
+        ]
+      },
+      {
         "id": "informazioni-azienda",
         "h2": "Informazioni e contatti",
         "blocks": [
@@ -511,10 +845,40 @@
         "paragraphs": [
           "[Approfondisci il fotovoltaico Green Energy Group](https://greenenergygroup.it/fotovoltaico/ \"sponsored\")"
         ]
+      },
+      {
+        "id": "letture-correlate",
+        "h2": "Approfondimenti nella testata",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "[Pannelli solari fotovoltaico: la guida completa 2026 per la tua casa](/efficienza-energetica/pannelli-solari-fotovoltaico-guida-completa/)",
+              "[Manutenzione dei pannelli solari: guida pratica a pulizia, controlli e costi](/efficienza-energetica/manutenzione-pannelli-solari/)"
+            ]
+          }
+        ],
+        "paragraphs": []
       }
     ],
-    "faq": [],
-    "related": [],
+    "faq": [
+      {
+        "q": "Un tetto libero è automaticamente adatto al fotovoltaico?",
+        "a": "No. La disponibilità visiva della superficie non sostituisce le verifiche pertinenti al sito, all'immobile e alla configurazione che si intende valutare."
+      },
+      {
+        "q": "Chi deve coordinare i due interventi?",
+        "a": "Il programma concreto deve identificare referenti e interfacce. Chiedi come verranno condivise le informazioni tra chi segue la copertura e chi valuta il fotovoltaico."
+      },
+      {
+        "q": "Posso installare i pannelli dopo il rifacimento?",
+        "a": "Presenta l'ipotesi prima della prima fase e chiedi quali condizioni o decisioni vadano considerate. La fattibilità non può essere dedotta da una sequenza generica dei lavori."
+      }
+    ],
+    "related": [
+      "pannelli-solari-fotovoltaico-guida-completa",
+      "manutenzione-pannelli-solari"
+    ],
     "tags": [
       "efficienza-energetica"
     ],
