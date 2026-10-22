@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,13 +15,13 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/efficienza-energetica/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -54,6 +54,50 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/costi/preventivo-cappotto-termico-voci-escluse/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/preventivo-cappotto-termico-voci-escluse.webp</image:loc>
+      <image:title>Preventivo cappotto termico: le voci che mancano più spesso</image:title>
+      <image:caption>Campioni illustrativi di isolamento e finitura per confrontare le offerte del cappotto</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/serramenti-infissi/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/renova-solution-confrontare-le-alternative-per-le-nuove-finestre.webp</image:loc>
+      <image:title>Renova Solution: confrontare le alternative per le nuove finestre</image:title>
+      <image:caption>Casa illustrativa con serramenti e pannelli solari, non un progetto documentato di Renova Solution</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/efficienza-energetica/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico.webp</image:loc>
+      <image:title>Innovasol: dare una priorità tra fotovoltaico e solare termico</image:title>
+      <image:caption>Abitazione mediterranea illustrativa con solare e climatizzazione, non un impianto reale di Innovasol</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/efficienza-energetica/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura.webp</image:loc>
+      <image:title>Green Energy Group: valutare il fotovoltaico quando si rinnova la copertura</image:title>
+      <image:caption>Casa illustrativa con fotovoltaico, accumulo e ricarica, non una realizzazione documentata di Green Energy Group</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/quanto-costa-causa-costruttore/</loc>
@@ -470,43 +514,43 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/chi-siamo/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/redazione/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/contatti/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/pubblicita/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/privacy/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/cookie-policy/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/mappa-del-sito/</loc>
-    
+
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>

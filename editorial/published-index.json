@@ -2,8 +2,8 @@
   {
     "title": "Preventivo cappotto termico: le voci che mancano più spesso",
     "description": "Come rendere confrontabili le offerte del cappotto: supporto, ponteggio, raccordi e finiture. Una matrice delle inclusioni, senza listini inventati.",
-    "path": "/guide-pratiche/preventivo-cappotto-termico-voci-escluse/",
-    "section": "guide-pratiche",
+    "path": "/costi/preventivo-cappotto-termico-voci-escluse/",
+    "section": "native",
     "slug": "preventivo-cappotto-termico-voci-escluse",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/preventivo-cappotto-termico-voci-escluse.webp",
@@ -11,39 +11,45 @@
     "sourceURLs": [
       "https://www.cortexa.it/modello-preventivo-cappotto-termico/",
       "https://www.cortexa.it/guida/manuale-cappotto-termico-cortexa/"
-    ]
+    ],
+    "previousPath": "/guide-pratiche/preventivo-cappotto-termico-voci-escluse/",
+    "category": "costi"
   },
   {
     "title": "Renova Solution: confrontare le alternative per le nuove finestre",
     "description": "Stessi vani e stesso perimetro di lavori: un metodo per conoscere le proposte Renova Solution e discutere le alternative degli infissi.",
-    "path": "/speciali-aziende/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/",
-    "section": "speciali-aziende",
+    "path": "/serramenti-infissi/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/",
+    "section": "native",
     "slug": "renova-solution-confrontare-le-alternative-per-le-nuove-finestre",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/renova-solution.webp",
     "sponsor": "Renova Solution",
     "sourceURLs": [
       "https://www.renovasolution.it/"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/",
+    "category": "serramenti-infissi"
   },
   {
     "title": "Innovasol: dare una priorità tra fotovoltaico e solare termico",
     "description": "Produzione elettrica e acqua calda sono obiettivi diversi. Come preparare il confronto sui due servizi presentati da Innovasol in Sicilia.",
-    "path": "/speciali-aziende/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
-    "section": "speciali-aziende",
+    "path": "/efficienza-energetica/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
+    "section": "native",
     "slug": "innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/innovasol.webp",
     "sponsor": "Innovasol",
     "sourceURLs": [
       "https://innovasol.it/"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
+    "category": "efficienza-energetica"
   },
   {
     "title": "Green Energy Group: valutare il fotovoltaico quando si rinnova la copertura",
     "description": "Documenti del tetto, lavori previsti e programma: come impostare il confronto fotovoltaico senza separarlo dal progetto dell’immobile.",
-    "path": "/speciali-aziende/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/",
-    "section": "speciali-aziende",
+    "path": "/efficienza-energetica/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/",
+    "section": "native",
     "slug": "green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/green-energy-group.webp",
@@ -51,6 +57,8 @@
     "sourceURLs": [
       "https://greenenergygroup.it/",
       "https://greenenergygroup.it/fotovoltaico/"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/",
+    "category": "efficienza-energetica"
   }
 ]

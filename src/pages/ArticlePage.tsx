@@ -89,7 +89,9 @@ export default function ArticlePage() {
         <article className="min-w-0">
           <header>
             <p className="kicker">{cat.name}</p>
-            <h1 className="font-display mt-2 text-3xl font-black leading-tight text-foreground md:text-[2.6rem] md:leading-[1.15]">
+
+            {article?.sponsor && <p className="my-3 font-sans text-xs font-bold uppercase tracking-wide" role="note">Contenuto sponsorizzato · {article.sponsor}</p>}
+<h1 className="font-display mt-2 text-3xl font-black leading-tight text-foreground md:text-[2.6rem] md:leading-[1.15]">
               {article.title}
             </h1>
 

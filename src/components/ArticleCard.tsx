@@ -28,6 +28,7 @@ export default function ArticleCard({
     return (
       <article className="border-b border-border py-3 last:border-0">
         <Link to={url} className="group">
+          {article.sponsor && <p className="mb-1 font-sans text-[10px] font-bold uppercase tracking-wide">Contenuto sponsorizzato · {article.sponsor}</p>}
           <h3 className="font-display text-[1.05rem] font-bold leading-snug text-foreground group-hover:text-accent">
             {article.title}
           </h3>
@@ -48,7 +49,8 @@ export default function ArticleCard({
         <div className="min-w-0">
           <p className="kicker">{cat?.name}</p>
           <Link to={url} className="group">
-            <h3 className="font-display mt-1 text-lg font-bold leading-snug text-foreground group-hover:text-accent">
+            {article.sponsor && <p className="mb-1 font-sans text-[10px] font-bold uppercase tracking-wide">Contenuto sponsorizzato · {article.sponsor}</p>}
+          <h3 className="font-display mt-1 text-lg font-bold leading-snug text-foreground group-hover:text-accent">
               {article.title}
             </h3>
           </Link>
@@ -73,7 +75,8 @@ export default function ArticleCard({
         <div className="mt-4">
           <p className="kicker">{cat?.name}</p>
           <Link to={url}>
-            <h2 className="font-display mt-2 text-2xl font-black leading-tight text-foreground group-hover:text-accent md:text-4xl">
+            {article.sponsor && <p className="mb-1 font-sans text-[10px] font-bold uppercase tracking-wide">Contenuto sponsorizzato · {article.sponsor}</p>}
+          <h2 className="font-display mt-2 text-2xl font-black leading-tight text-foreground group-hover:text-accent md:text-4xl">
               {article.title}
             </h2>
           </Link>
@@ -97,6 +100,7 @@ export default function ArticleCard({
       <div className="mt-3">
         <p className="kicker">{cat?.name}</p>
         <Link to={url}>
+          {article.sponsor && <p className="mb-1 font-sans text-[10px] font-bold uppercase tracking-wide">Contenuto sponsorizzato · {article.sponsor}</p>}
           <h3 className="font-display mt-1 text-xl font-bold leading-snug text-foreground group-hover:text-accent">
             {article.title}
           </h3>

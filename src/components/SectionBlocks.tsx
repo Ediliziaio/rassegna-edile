@@ -22,7 +22,7 @@ export function renderInline(text: string): ReactNode {
           key={key++}
           href={m[2]}
           {...(external
-            ? { target: "_blank", rel: m[3] === "sponsored" ? "sponsored noopener" : "noopener" }
+            ? { target: "_blank", rel: m[3] === "sponsored" ? "sponsored nofollow noopener noreferrer" : "noopener" }
             : {})}
           className="font-semibold text-accent underline underline-offset-2 hover:text-primary"
         >
