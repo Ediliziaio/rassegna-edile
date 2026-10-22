@@ -49,8 +49,18 @@
   ],
   "redirects": [
     {
+      "source": "/guide-pratiche/preventivo-cappotto-termico-voci-escluse/",
+      "destination": "/costi/preventivo-cappotto-termico-voci-escluse/",
+      "permanent": true
+    },
+    {
       "source": "/guide-pratiche/preventivo-cappotto-termico-voci-escluse",
       "destination": "/costi/preventivo-cappotto-termico-voci-escluse/",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/",
+      "destination": "/serramenti-infissi/renova-solution-confrontare-le-alternative-per-le-nuove-finestre/",
       "permanent": true
     },
     {
@@ -59,8 +69,18 @@
       "permanent": true
     },
     {
+      "source": "/speciali-aziende/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
+      "destination": "/efficienza-energetica/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
+      "permanent": true
+    },
+    {
       "source": "/speciali-aziende/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico",
       "destination": "/efficienza-energetica/innovasol-dare-una-priorita-tra-fotovoltaico-e-solare-termico/",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/",
+      "destination": "/efficienza-energetica/green-energy-group-valutare-il-fotovoltaico-quando-si-rinnova-la-copertura/",
       "permanent": true
     },
     {
@@ -69,7 +89,17 @@
       "permanent": true
     },
     {
+      "source": "/guide-pratiche/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/guide-pratiche",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/",
       "destination": "/",
       "permanent": true
     },
