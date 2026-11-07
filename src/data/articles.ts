@@ -23,7 +23,7 @@ export const readingTime = (a: Article) => {
   const words =
     (a.sections ?? [])
       .flatMap((s) => [
-        ...(s.paragraphs ?? []),
+        ...(!s.blocks ? s.paragraphs ?? [] : []),
         ...(s.list ?? []),
         ...(s.subsections ?? []).flatMap((x) => x.paragraphs),
         ...(s.blocks ?? []).flatMap((b) =>

@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Preventivo a corpo o a misura: come confrontare quantità, prezzi e inclusioni</title>
+      <link>https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/</guid>
+      <description>Confronta preventivi a corpo e a misura con quantità, unità, inclusioni e ipotesi esplicite. Esempio illustrativo e tabella di controllo.</description>
+      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
+      <category>costi</category>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Preventivo cappotto termico: le voci che mancano più spesso</title>
       <link>https://www.rassegnaedile.it/costi/preventivo-cappotto-termico-voci-escluse/</link>
@@ -178,15 +187,6 @@
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>tecnologie-innovazione</category>
       <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Conto Termico 3.0: come funziona l'incentivo del GSE per l'efficienza energetica</title>
-      <link>https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/incentivi-bonus/conto-termico-3-come-funziona/</guid>
-      <description>Conto Termico 3.0: cos'è, chi può richiederlo, interventi ammessi, incentivo diretto vs detrazione, tempi di erogazione e domanda al GSE. Guida completa.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>incentivi-bonus</category>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

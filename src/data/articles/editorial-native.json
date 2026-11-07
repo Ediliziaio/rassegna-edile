@@ -1,5 +1,262 @@
 [
   {
+    "slug": "preventivo-corpo-misura-confronto-costi",
+    "title": "Preventivo a corpo o a misura: come confrontare quantità, prezzi e inclusioni",
+    "metaTitle": "Preventivo a corpo o a misura: confronto costi",
+    "metaDescription": "Confronta preventivi a corpo e a misura con quantità, unità, inclusioni e ipotesi esplicite. Esempio illustrativo e tabella di controllo.",
+    "category": "costi",
+    "primaryKeyword": "preventivo a corpo o a misura",
+    "answerBox": "Confronta preventivi a corpo e a misura con quantità, unità, inclusioni e ipotesi esplicite. Esempio illustrativo e tabella di controllo.",
+    "author": "Redazione Rassegna Edile",
+    "authorRole": "Redazione",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "heroAlt": "Schema illustrativo: Preventivo a corpo o a misura: confronto costi",
+    "sections": [
+      {
+        "id": "introduzione",
+        "h2": "Il punto di partenza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un preventivo a corpo e uno a misura possono descrivere lo stesso intervento e risultare difficili da confrontare. Il problema nasce quando il totale nasconde quantità, esclusioni o ipotesi diverse. Prima di chiedere uno sconto, conviene ricostruire che cosa viene effettivamente acquistato e quali informazioni potrebbero cambiare durante il lavoro."
+          },
+          {
+            "type": "p",
+            "text": "Questa guida propone un metodo di lettura delle offerte. Non stabilisce le condizioni di un contratto specifico: prezzo, modalità di misurazione e gestione delle modifiche vanno verificati nei documenti concordati. L’obiettivo è arrivare al confronto con una scheda comune, leggibile dal committente e dai tecnici coinvolti."
+          }
+        ],
+        "paragraphs": [
+          "Un preventivo a corpo e uno a misura possono descrivere lo stesso intervento e risultare difficili da confrontare. Il problema nasce quando il totale nasconde quantità, esclusioni o ipotesi diverse. Prima di chiedere uno sconto, conviene ricostruire che cosa viene effettivamente acquistato e quali informazioni potrebbero cambiare durante il lavoro.",
+          "Questa guida propone un metodo di lettura delle offerte. Non stabilisce le condizioni di un contratto specifico: prezzo, modalità di misurazione e gestione delle modifiche vanno verificati nei documenti concordati. L’obiettivo è arrivare al confronto con una scheda comune, leggibile dal committente e dai tecnici coinvolti."
+        ]
+      },
+      {
+        "id": "che-cosa-confrontare-prima-del-prezzo-finale",
+        "h2": "Che cosa confrontare prima del prezzo finale",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Nell’offerta a corpo il corrispettivo si riferisce a un insieme definito di lavorazioni. Nell’offerta a misura il conteggio dipende dalle quantità contabilizzate e dai prezzi unitari concordati. Queste etichette, da sole, non descrivono tutte le condizioni: servono elaborati, descrizioni, criteri di misura e indicazioni sulle eventuali parti escluse."
+          },
+          {
+            "type": "p",
+            "text": "Un’offerta può inoltre essere mista. Alcune lavorazioni sono descritte con importo complessivo, altre con quantità stimate, altre ancora con voci da definire dopo un sopralluogo. Scrivere semplicemente “tutto compreso” non aiuta a ricostruire questi confini. Chiedi che siano specificati gli ambienti interessati, le opere incluse e le informazioni ancora da confermare."
+          },
+          {
+            "type": "p",
+            "text": "Prima del confronto economico, raccogli la versione del progetto utilizzata da ogni impresa. Due offerte basate su disegni diversi non sono equivalenti, anche quando riportano lo stesso indirizzo e una descrizione simile. Annota data, revisione e allegati effettivamente ricevuti da ciascun offerente."
+          }
+        ],
+        "paragraphs": [
+          "Nell’offerta a corpo il corrispettivo si riferisce a un insieme definito di lavorazioni. Nell’offerta a misura il conteggio dipende dalle quantità contabilizzate e dai prezzi unitari concordati. Queste etichette, da sole, non descrivono tutte le condizioni: servono elaborati, descrizioni, criteri di misura e indicazioni sulle eventuali parti escluse.",
+          "Un’offerta può inoltre essere mista. Alcune lavorazioni sono descritte con importo complessivo, altre con quantità stimate, altre ancora con voci da definire dopo un sopralluogo. Scrivere semplicemente “tutto compreso” non aiuta a ricostruire questi confini. Chiedi che siano specificati gli ambienti interessati, le opere incluse e le informazioni ancora da confermare.",
+          "Prima del confronto economico, raccogli la versione del progetto utilizzata da ogni impresa. Due offerte basate su disegni diversi non sono equivalenti, anche quando riportano lo stesso indirizzo e una descrizione simile. Annota data, revisione e allegati effettivamente ricevuti da ciascun offerente."
+        ]
+      },
+      {
+        "id": "preparare-una-tabella-comune-delle-lavorazioni",
+        "h2": "Preparare una tabella comune delle lavorazioni",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Crea una riga per ogni gruppo di opere riconoscibile. Per una ristrutturazione interna puoi separare demolizioni, preparazione dei supporti, impianti, finiture e movimentazione dei materiali. Il livello di dettaglio deve consentire di individuare una differenza senza trasformare il foglio in un elenco ingestibile."
+          },
+          {
+            "type": "p",
+            "text": "Per ogni riga riporta descrizione, unità di misura, quantità di riferimento, prezzo e condizioni. Mantieni una colonna dedicata alle esclusioni: serve a evitare che un’assenza venga interpretata come inclusione gratuita. Se un’informazione manca, scrivi “da chiarire” invece di inserire uno zero."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Campo",
+              "Domanda da chiarire",
+              "Documento utile"
+            ],
+            "rows": [
+              [
+                "Lavorazione",
+                "Quale risultato viene consegnato?",
+                "Descrizione della voce"
+              ],
+              [
+                "Quantità",
+                "È stimata oppure verificata?",
+                "Rilievo o computo"
+              ],
+              [
+                "Materiale",
+                "Quale prodotto e quale finitura?",
+                "Scheda e campione"
+              ],
+              [
+                "Inclusioni",
+                "Trasporto e movimentazione sono previsti?",
+                "Condizioni dell’offerta"
+              ],
+              [
+                "Revisione",
+                "Quale versione è stata quotata?",
+                "Elenco degli allegati"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La tabella non deve sostituire i documenti originali. Ogni sintesi rimanda al punto dell’offerta da cui deriva: una pagina, una voce o un allegato. In questo modo chi verifica può ricostruire il dato senza affidarsi alla memoria di chi ha compilato il foglio."
+          }
+        ],
+        "paragraphs": [
+          "Crea una riga per ogni gruppo di opere riconoscibile. Per una ristrutturazione interna puoi separare demolizioni, preparazione dei supporti, impianti, finiture e movimentazione dei materiali. Il livello di dettaglio deve consentire di individuare una differenza senza trasformare il foglio in un elenco ingestibile.",
+          "Per ogni riga riporta descrizione, unità di misura, quantità di riferimento, prezzo e condizioni. Mantieni una colonna dedicata alle esclusioni: serve a evitare che un’assenza venga interpretata come inclusione gratuita. Se un’informazione manca, scrivi “da chiarire” invece di inserire uno zero.",
+          "La tabella non deve sostituire i documenti originali. Ogni sintesi rimanda al punto dell’offerta da cui deriva: una pagina, una voce o un allegato. In questo modo chi verifica può ricostruire il dato senza affidarsi alla memoria di chi ha compilato il foglio."
+        ]
+      },
+      {
+        "id": "un-esempio-illustrativo-di-confronto-a-corpo-e-a-misura",
+        "h2": "Un esempio illustrativo di confronto a corpo e a misura",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Immagina una lavorazione di finitura con quantità inizialmente stimata in 100 metri quadrati. L’offerta A indica 4.800 euro a corpo per il perimetro descritto. L’offerta B indica 45 euro al metro quadrato e una quantità provvisoria di 100 metri quadrati. Il totale iniziale di B è quindi 4.500 euro."
+          },
+          {
+            "type": "p",
+            "text": "Se la quantità da contabilizzare risultasse 110 metri quadrati, applicando quel prezzo unitario il calcolo di B diventerebbe 4.950 euro. È un esempio aritmetico, non una previsione dei prezzi di mercato e neppure una conclusione su quale contratto convenga. Le condizioni di A potrebbero prevedere un perimetro diverso, esclusioni o modalità specifiche per le modifiche."
+          },
+          {
+            "type": "p",
+            "text": "Il confronto utile consiste nel chiedere che cosa succede quando cambia una quantità o una specifica. A quali superfici si riferisce la misura? Quali preparazioni sono comprese? Chi conferma il dato? Quale passaggio documenta una modifica? Senza queste risposte il totale iniziale racconta soltanto una parte dell’acquisto."
+          },
+          {
+            "type": "p",
+            "text": "Per controllare altre differenze frequenti puoi usare anche la guida alle [voci escluse dal preventivo del cappotto termico](/costi/preventivo-cappotto-termico-voci-escluse/). Il principio è lo stesso: rendere visibile il perimetro prima di attribuire un giudizio al prezzo."
+          }
+        ],
+        "paragraphs": [
+          "Immagina una lavorazione di finitura con quantità inizialmente stimata in 100 metri quadrati. L’offerta A indica 4.800 euro a corpo per il perimetro descritto. L’offerta B indica 45 euro al metro quadrato e una quantità provvisoria di 100 metri quadrati. Il totale iniziale di B è quindi 4.500 euro.",
+          "Se la quantità da contabilizzare risultasse 110 metri quadrati, applicando quel prezzo unitario il calcolo di B diventerebbe 4.950 euro. È un esempio aritmetico, non una previsione dei prezzi di mercato e neppure una conclusione su quale contratto convenga. Le condizioni di A potrebbero prevedere un perimetro diverso, esclusioni o modalità specifiche per le modifiche.",
+          "Il confronto utile consiste nel chiedere che cosa succede quando cambia una quantità o una specifica. A quali superfici si riferisce la misura? Quali preparazioni sono comprese? Chi conferma il dato? Quale passaggio documenta una modifica? Senza queste risposte il totale iniziale racconta soltanto una parte dell’acquisto.",
+          "Per controllare altre differenze frequenti puoi usare anche la guida alle [voci escluse dal preventivo del cappotto termico](/costi/preventivo-cappotto-termico-voci-escluse/). Il principio è lo stesso: rendere visibile il perimetro prima di attribuire un giudizio al prezzo."
+        ]
+      },
+      {
+        "id": "quantit-unit-e-criteri-di-misura",
+        "h2": "Quantità, unità e criteri di misura",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Una quantità è utile quando è accompagnata da un criterio comprensibile. Lunghezza, superficie, volume e numero di elementi non sono intercambiabili. Una voce “a pezzo” può includere una configurazione precisa; una voce al metro quadrato può dipendere dal modo in cui vengono considerate aperture, bordi o superfici particolari."
+          },
+          {
+            "type": "p",
+            "text": "Non cercare di risolvere questi aspetti cambiando autonomamente le regole del computo. Chiedi al tecnico o all’impresa di indicare il criterio applicato e il documento di riferimento. Se utilizzi un prezzario, registra edizione, territorio, codice della voce e descrizione completa: il numero privo delle sue condizioni non basta a confrontare due offerte."
+          },
+          {
+            "type": "p",
+            "text": "Una buona abitudine consiste nel evidenziare le quantità ancora provvisorie. Puoi affiancare una nota sul motivo dell’incertezza, il controllo necessario e la persona incaricata di confermarle. Così il foglio diventa uno strumento per chiudere le questioni aperte, non una raccolta di numeri apparentemente definitivi."
+          }
+        ],
+        "paragraphs": [
+          "Una quantità è utile quando è accompagnata da un criterio comprensibile. Lunghezza, superficie, volume e numero di elementi non sono intercambiabili. Una voce “a pezzo” può includere una configurazione precisa; una voce al metro quadrato può dipendere dal modo in cui vengono considerate aperture, bordi o superfici particolari.",
+          "Non cercare di risolvere questi aspetti cambiando autonomamente le regole del computo. Chiedi al tecnico o all’impresa di indicare il criterio applicato e il documento di riferimento. Se utilizzi un prezzario, registra edizione, territorio, codice della voce e descrizione completa: il numero privo delle sue condizioni non basta a confrontare due offerte.",
+          "Una buona abitudine consiste nel evidenziare le quantità ancora provvisorie. Puoi affiancare una nota sul motivo dell’incertezza, il controllo necessario e la persona incaricata di confermarle. Così il foglio diventa uno strumento per chiudere le questioni aperte, non una raccolta di numeri apparentemente definitivi."
+        ]
+      },
+      {
+        "id": "inclusioni-che-meritano-una-verifica-separata",
+        "h2": "Inclusioni che meritano una verifica separata",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Trasporto, accesso al cantiere, deposito temporaneo, protezioni, smaltimenti e ripristini possono incidere sull’organizzazione del lavoro. La loro presenza va letta nelle singole offerte. Non dedurla automaticamente dal fatto che una proposta sia a corpo o a misura."
+          },
+          {
+            "type": "p",
+            "text": "Considera anche le interfacce fra operatori. Se una lavorazione richiede una preparazione eseguita da altri, scrivi quale condizione deve essere disponibile e chi la verifica. Un preventivo molto dettagliato sui materiali può rimanere ambiguo sul punto in cui termina la responsabilità organizzativa di una squadra e inizia quella successiva."
+          },
+          {
+            "type": "p",
+            "text": "Per gli interventi articolati, la [guida alla ristrutturazione chiavi in mano](/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/) aiuta a ragionare sul coordinamento delle attività. Anche in una proposta complessiva restano utili una sequenza delle fasi e un elenco delle decisioni del committente."
+          }
+        ],
+        "paragraphs": [
+          "Trasporto, accesso al cantiere, deposito temporaneo, protezioni, smaltimenti e ripristini possono incidere sull’organizzazione del lavoro. La loro presenza va letta nelle singole offerte. Non dedurla automaticamente dal fatto che una proposta sia a corpo o a misura.",
+          "Considera anche le interfacce fra operatori. Se una lavorazione richiede una preparazione eseguita da altri, scrivi quale condizione deve essere disponibile e chi la verifica. Un preventivo molto dettagliato sui materiali può rimanere ambiguo sul punto in cui termina la responsabilità organizzativa di una squadra e inizia quella successiva.",
+          "Per gli interventi articolati, la [guida alla ristrutturazione chiavi in mano](/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/) aiuta a ragionare sul coordinamento delle attività. Anche in una proposta complessiva restano utili una sequenza delle fasi e un elenco delle decisioni del committente."
+        ]
+      },
+      {
+        "id": "chiedere-chiarimenti-senza-alterare-il-confronto",
+        "h2": "Chiedere chiarimenti senza alterare il confronto",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Invia a tutti gli offerenti lo stesso elenco di domande, con la medesima revisione degli allegati. Se uno propone un’alternativa, chiedi che sia separata dalla soluzione di base. Potrai così confrontare una configurazione comune e, in una seconda lettura, valutare le opzioni migliorative."
+          },
+          {
+            "type": "p",
+            "text": "Evita di riempire le caselle mancanti con stime non confermate. Puoi preparare uno scenario interno per orientarti, ma etichettalo come ipotesi e tienilo distinto dalle offerte. Un totale ricostruito dal committente non diventa automaticamente un prezzo accettato dall’impresa."
+          },
+          {
+            "type": "p",
+            "text": "Quando arriva una risposta, conserva la versione precedente e aggiorna la data del confronto. Una scelta motivata deve poter essere ricostruita: quali condizioni erano note, quali restavano aperte e quale configurazione è stata infine selezionata. Questa disciplina aiuta anche durante l’avvio delle lavorazioni."
+          }
+        ],
+        "paragraphs": [
+          "Invia a tutti gli offerenti lo stesso elenco di domande, con la medesima revisione degli allegati. Se uno propone un’alternativa, chiedi che sia separata dalla soluzione di base. Potrai così confrontare una configurazione comune e, in una seconda lettura, valutare le opzioni migliorative.",
+          "Evita di riempire le caselle mancanti con stime non confermate. Puoi preparare uno scenario interno per orientarti, ma etichettalo come ipotesi e tienilo distinto dalle offerte. Un totale ricostruito dal committente non diventa automaticamente un prezzo accettato dall’impresa.",
+          "Quando arriva una risposta, conserva la versione precedente e aggiorna la data del confronto. Una scelta motivata deve poter essere ricostruita: quali condizioni erano note, quali restavano aperte e quale configurazione è stata infine selezionata. Questa disciplina aiuta anche durante l’avvio delle lavorazioni."
+        ]
+      },
+      {
+        "id": "una-verifica-finale-prima-della-scelta",
+        "h2": "Una verifica finale prima della scelta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Prima di decidere, controlla che il confronto includa le medesime lavorazioni, gli stessi materiali e una base temporale coerente. Riporta separatamente imposte e altre componenti economiche secondo quanto indicato nelle offerte, senza mescolare importi che hanno basi diverse."
+          },
+          {
+            "type": "p",
+            "text": "Rileggi le esclusioni insieme al programma di lavoro. Una voce può essere correttamente esclusa ma necessaria all’intervento: in quel caso serve capire chi la eseguirà e come verrà coordinata. Un’assenza nel preventivo non elimina l’esigenza pratica che la genera."
+          },
+          {
+            "type": "p",
+            "text": "La scelta può tenere conto di chiarezza, disponibilità organizzativa e qualità delle risposte, oltre al prezzo. Documenta i motivi senza attribuire punteggi di qualità privi di riscontri. Nella sezione [prezzi e costi edilizi](/prezzi/) trovi altri approfondimenti da usare come contesto, mantenendo sempre le offerte del tuo intervento come base della decisione."
+          }
+        ],
+        "paragraphs": [
+          "Prima di decidere, controlla che il confronto includa le medesime lavorazioni, gli stessi materiali e una base temporale coerente. Riporta separatamente imposte e altre componenti economiche secondo quanto indicato nelle offerte, senza mescolare importi che hanno basi diverse.",
+          "Rileggi le esclusioni insieme al programma di lavoro. Una voce può essere correttamente esclusa ma necessaria all’intervento: in quel caso serve capire chi la eseguirà e come verrà coordinata. Un’assenza nel preventivo non elimina l’esigenza pratica che la genera.",
+          "La scelta può tenere conto di chiarezza, disponibilità organizzativa e qualità delle risposte, oltre al prezzo. Documenta i motivi senza attribuire punteggi di qualità privi di riscontri. Nella sezione [prezzi e costi edilizi](/prezzi/) trovi altri approfondimenti da usare come contesto, mantenendo sempre le offerte del tuo intervento come base della decisione."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Un preventivo a corpo impedisce qualsiasi modifica del prezzo?",
+        "a": "Non si può dedurre dalla sola etichetta. Occorre leggere il perimetro concordato e le condizioni relative a modifiche e lavorazioni aggiuntive. Porta eventuali dubbi sui documenti al professionista che segue l’intervento."
+      },
+      {
+        "q": "Posso confrontare direttamente due prezzi al metro quadrato?",
+        "a": "Solo dopo aver verificato che riguardino la stessa lavorazione, gli stessi materiali e criteri di misura coerenti. In caso contrario il prezzo unitario può apparire confrontabile mentre il contenuto della fornitura cambia."
+      },
+      {
+        "q": "Che cosa fare se un’impresa non indica le quantità?",
+        "a": "Chiedi una descrizione verificabile del perimetro e gli allegati utilizzati per formulare l’offerta. Non inventare quantità per completare la tabella: registra il punto aperto e chiedi un chiarimento prima della scelta."
+      }
+    ],
+    "related": [
+      "preventivo-cappotto-termico-voci-escluse",
+      "ristrutturazione-chiavi-in-mano-guida"
+    ],
+    "tags": [
+      "preventivi",
+      "costi"
+    ]
+  },
+  {
     "slug": "preventivo-cappotto-termico-voci-escluse",
     "category": "costi",
     "title": "Preventivo cappotto termico: le voci che mancano più spesso",

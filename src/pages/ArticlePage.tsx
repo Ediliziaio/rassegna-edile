@@ -217,8 +217,7 @@ export default function ArticlePage() {
                 <h2 className="font-display mb-4 text-2xl font-bold leading-snug text-primary">
                   {s.h2}
                 </h2>
-                {s.paragraphs?.map((p, i) => <p key={i}>{p}</p>)}
-                {s.blocks && <SectionBlocks blocks={s.blocks} />}
+                {s.blocks ? <SectionBlocks blocks={s.blocks} /> : s.paragraphs?.map((p, i) => <p key={i}>{p}</p>)}
                 {s.list && (
                   <ul>
                     {s.list.map((li, i) => (
