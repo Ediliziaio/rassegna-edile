@@ -459,6 +459,16 @@
           }
         ],
         "paragraphs": []
+      },
+      {
+        "id": "confronto-corpo-misura",
+        "h2": "Rendere coerente anche il criterio economico",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dopo aver chiarito le inclusioni, verifica se le offerte utilizzano la stessa base economica. Un importo a corpo e un prezzo unitario con quantità provvisorie non raccontano automaticamente lo stesso perimetro. La guida al [confronto fra preventivo a corpo e a misura](/costi/preventivo-corpo-misura-confronto-costi/) propone una tabella per rendere visibili quantità, criteri di misura e condizioni ancora da confermare."
+          }
+        ]
       }
     ],
     "faq": [

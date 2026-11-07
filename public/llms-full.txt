@@ -264,6 +264,10 @@ Immagina che, dopo il sopralluogo, alcune parti del progetto vengano aggiornate.
 
 
 
+### Rendere coerente anche il criterio economico
+
+Dopo aver chiarito le inclusioni, verifica se le offerte utilizzano la stessa base economica. Un importo a corpo e un prezzo unitario con quantità provvisorie non raccontano automaticamente lo stesso perimetro. La guida al confronto fra preventivo a corpo e a misura propone una tabella per rendere visibili quantità, criteri di misura e condizioni ancora da confermare.
+
 ### Domande frequenti
 
 **Il prezzo al mq comprende sempre il ponteggio?**
