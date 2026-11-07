@@ -38,6 +38,14 @@ export default function HomePage() {
       <h1 className="sr-only">
         Rassegna Edile: prezzi, costi e guide tecniche per l'edilizia italiana
       </h1>
+      <section id="percorsi-tematici-seo" aria-labelledby="percorsi-tematici-titolo" className="mx-auto max-w-7xl px-4 py-8">
+        <div className="rounded-xl border border-neutral-200 bg-neutral-50 p-5 sm:p-7">
+          <h2 id="percorsi-tematici-titolo" className="text-2xl font-bold text-neutral-950">Costi edilizi: da dove iniziare</h2>
+          <p className="mt-3 max-w-4xl text-neutral-700 leading-relaxed">Prima di confrontare importi, individua la lavorazione e le voci comprese. Questi percorsi collegano il quadro dei prezzi alle domande da fare su un intervento concreto.</p>
+          <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3"><li><a href="/prezzi/" className="font-bold text-neutral-950 underline underline-offset-4">Consulta l’Osservatorio prezzi</a><p className="mt-2 text-sm text-neutral-700 leading-relaxed">Parti dalle lavorazioni e dalle unità di misura disponibili.</p></li><li><a href="/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/" className="font-bold text-neutral-950 underline underline-offset-4">Leggi una proposta chiavi in mano</a><p className="mt-2 text-sm text-neutral-700 leading-relaxed">Approfondisci cosa comprendono lavori, tempi e costi di una ristrutturazione.</p></li></ul>
+        </div>
+      </section>
+
 
       {/* ===== APERTURA: hero + secondari ===== */}
       <div className="grid gap-8 border-b border-border py-8 lg:grid-cols-[minmax(0,2fr)_1fr]">
