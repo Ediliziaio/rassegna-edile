@@ -211,7 +211,7 @@ export default function ArticlePage() {
           </nav>
 
           {/* Sezioni */}
-          <div className="article-body mt-8">
+          <div data-editorial-body className="article-body mt-8">
             {article.sections.map((s, si) => (
               <section key={s.id} id={s.id} className="anchor-target mt-10 first:mt-0">
                 <h2 className="font-display mb-4 text-2xl font-bold leading-snug text-primary">

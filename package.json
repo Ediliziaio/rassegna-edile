@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "seo": "node scripts/generate-seo.mjs",
-    "build": "node scripts/build-prices.mjs && node scripts/generate-seo.mjs && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-server && node scripts/prerender.mjs",
+    "build": "node scripts/build-prices.mjs && node scripts/generate-seo.mjs && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-server && node scripts/prerender.mjs && node scripts/check-editorial-length.mjs dist",
     "build:spa": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",

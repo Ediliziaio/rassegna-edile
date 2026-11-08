@@ -17,3 +17,4 @@ dist/
 # SSR prerender intermedio
 dist-server/
 /editorial/drafts/
+.editorial-length-report.json
