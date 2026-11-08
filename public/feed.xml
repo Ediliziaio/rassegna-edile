@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Protezioni in un cantiere con casa abitata: cosa chiarire nel preventivo</title>
+      <link>https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/</guid>
+      <description>Confronta le protezioni previste nel cantiere di una casa abitata: ambienti, passaggi, fasi e ripristini. Una scheda per leggere le offerte.</description>
+      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
+      <category>costi</category>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Preventivo a corpo o a misura: come confrontare quantità, prezzi e inclusioni</title>
       <link>https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/</link>
@@ -178,15 +187,6 @@
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>normative</category>
       <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Case prefabbricate: prezzi al mq, tipologie e come scegliere il produttore</title>
-      <link>https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/tecnologie-innovazione/case-prefabbricate-prezzi-guida/</guid>
-      <description>Case prefabbricate: prezzi al mq, tipologie in legno, cemento e steel frame, tempi di consegna, pratiche edilizie e consigli per scegliere.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>tecnologie-innovazione</category>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
