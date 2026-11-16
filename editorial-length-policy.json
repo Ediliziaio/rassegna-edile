@@ -3,6 +3,7 @@
   "enforcePublishedOnOrAfter": "2026-11-07",
   "requiredSlugs": [
     "preventivo-corpo-misura-confronto-costi",
-    "protezioni-cantiere-casa-abitata-preventivo"
+    "protezioni-cantiere-casa-abitata-preventivo",
+    "consegna-materiali-cantiere-costi-servizi"
   ]
 }

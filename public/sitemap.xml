@@ -3,13 +3,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/costi/</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -54,6 +60,17 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/consegna-materiali-cantiere-costi-servizi.webp</image:loc>
+      <image:title>Consegna dei materiali in cantiere: costi, servizi e condizioni da chiarire</image:title>
+      <image:caption>Schema editoriale illustrativo: fornitura, punto di arrivo, servizio compreso</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/</loc>

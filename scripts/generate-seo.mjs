@@ -16,6 +16,7 @@ const articlesDir = join(root, "src/data/articles");
 
 const categories = [
   ["ristrutturazioni", "Ristrutturazioni", "costi"],
+  ["costi", "Costi d'impresa"],
   ["serramenti-infissi", "Serramenti e Infissi"],
   ["efficienza-energetica", "Efficienza Energetica"],
   ["materiali-costruzione", "Materiali da Costruzione"],
@@ -102,7 +103,7 @@ ${urls
 </urlset>
 `;
 
-writeFileSync(join(root, "public/sitemap.xml"), xml);
+writeFileSync(join(root, "public/sitemap.xml"), xml.replace(/^[\t ]+$/gm, ""));
 
 /* ---------- llms.txt ---------- */
 const byCat = Object.fromEntries(categories.map(([s]) => [s, []]));

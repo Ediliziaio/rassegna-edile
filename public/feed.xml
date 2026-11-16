@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Consegna dei materiali in cantiere: costi, servizi e condizioni da chiarire</title>
+      <link>https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/</guid>
+      <description>Leggi il costo della consegna materiali in cantiere: punto di arrivo, lotti, appuntamenti e servizi. Con esempio e scheda di confronto.</description>
+      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
+      <category>costi</category>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Protezioni in un cantiere con casa abitata: cosa chiarire nel preventivo</title>
       <link>https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/</link>
@@ -178,15 +187,6 @@
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>ristrutturazioni</category>
       <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Direttiva Case Green: cosa cambia per edifici, proprietari e imprese</title>
-      <link>https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/normative/direttiva-case-green-cosa-cambia/</guid>
-      <description>Direttiva Case Green (UE 2024/1275): obiettivi, tappe verso edifici a emissioni zero, impatto su ristrutturazioni e mercato. Cosa sapere ora.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>normative</category>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
