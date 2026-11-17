@@ -1,4 +1,3 @@
-import { PriorityPaths } from "@/components/PriorityPaths";
 import { Link } from "react-router-dom";
 import { articles, articlesByCategory, articleUrl } from "@/data/articles";
 import { categories, SITE } from "@/data/categories";
@@ -39,7 +38,6 @@ export default function HomePage() {
       <h1 className="sr-only">
         Rassegna Edile: prezzi, costi e guide tecniche per l'edilizia italiana
       </h1>
-      <PriorityPaths />
 
 
       {/* ===== APERTURA: hero + secondari ===== */}
