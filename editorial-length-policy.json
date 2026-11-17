@@ -4,6 +4,7 @@
   "requiredSlugs": [
     "preventivo-corpo-misura-confronto-costi",
     "protezioni-cantiere-casa-abitata-preventivo",
-    "consegna-materiali-cantiere-costi-servizi"
+    "consegna-materiali-cantiere-costi-servizi",
+    "preventivo-demolizioni-quantita-accessi-materiali"
   ]
 }

@@ -25,6 +25,7 @@
 
 ## Costi d'impresa
 
+- [Preventivo demolizioni: quantità, accessi e gestione dei materiali](https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/): Come confrontare preventivi per demolizioni e rimozioni: quantità, accessi, protezioni, materiali ed esclusioni. Una scheda CSV senza prezzi presunti.
 - [Consegna dei materiali in cantiere: costi, servizi e condizioni da chiarire](https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/): Leggi il costo della consegna materiali in cantiere: punto di arrivo, lotti, appuntamenti e servizi. Con esempio e scheda di confronto.
 - [Protezioni in un cantiere con casa abitata: cosa chiarire nel preventivo](https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/): Confronta le protezioni previste nel cantiere di una casa abitata: ambienti, passaggi, fasi e ripristini. Una scheda per leggere le offerte.
 - [Preventivo a corpo o a misura: come confrontare quantità, prezzi e inclusioni](https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/): Confronta preventivi a corpo e a misura con quantità, unità, inclusioni e ipotesi esplicite. Esempio illustrativo e tabella di controllo.

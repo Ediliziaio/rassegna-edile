@@ -1,5 +1,331 @@
 [
   {
+    "slug": "preventivo-demolizioni-quantita-accessi-materiali",
+    "title": "Preventivo demolizioni: quantità, accessi e gestione dei materiali",
+    "metaTitle": "Preventivo demolizioni: quantità, accessi e materiali",
+    "metaDescription": "Come confrontare preventivi per demolizioni e rimozioni: quantità, accessi, protezioni, materiali ed esclusioni. Una scheda CSV senza prezzi presunti.",
+    "category": "costi",
+    "primaryKeyword": "preventivo demolizioni",
+    "answerBox": "Un preventivo per demolizioni e rimozioni è confrontabile quando descrive le parti interessate, il criterio di quantità, le attività accessorie e i limiti della proposta. Accessi, protezioni, movimentazione e gestione dei materiali possono cambiare il perimetro del lavoro. Prima di leggere il totale, occorre quindi controllare che le imprese abbiano valutato la stessa richiesta e conoscano le medesime condizioni.",
+    "author": "Redazione Rassegna Edile",
+    "authorRole": "Redazione",
+    "publishedAt": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "heroAlt": "Scena illustrativa generata con IA: stanza prima della ristrutturazione e documenti per il confronto dei preventivi. La copertina originale generata con intelligenza artificiale mostra una scena illustrativa di pianificazione. Non documenta un cantiere reale né rappresenta una procedura di demolizione.",
+    "sections": [
+      {
+        "id": "che-cosa-deve-rendere-confrontabile-un-preventivo",
+        "h2": "Che cosa deve rendere confrontabile un preventivo",
+        "paragraphs": [
+          "Un preventivo per demolizioni e rimozioni è confrontabile quando descrive le parti interessate, il criterio di quantità, le attività accessorie e i limiti della proposta. Accessi, protezioni, movimentazione e gestione dei materiali possono cambiare il perimetro del lavoro. Prima di leggere il totale, occorre quindi controllare che le imprese abbiano valutato la stessa richiesta e conoscano le medesime condizioni.",
+          "Questa guida riguarda la preparazione e la lettura dell'offerta. Non descrive tecniche di demolizione, non identifica quali elementi si possano rimuovere e non assegna classificazioni ai rifiuti. La valutazione dell'intervento, degli eventuali rischi, delle pratiche e delle responsabilità appartiene ai professionisti e agli operatori competenti. Il committente può contribuire raccogliendo documenti e formulando domande precise, senza avviare prove o rimozioni per completare il preventivo.",
+          "La richiesta “quanto costa demolire il bagno?” lascia aperte molte interpretazioni. Può riferirsi soltanto a rivestimenti, oppure comprendere apparecchi, impianti, parti da verificare e ripristini. Una descrizione iniziale ordinata non elimina gli imprevisti, ma rende riconoscibile che cosa sia stato valutato. È anche la base per capire se una differenza di prezzo derivi dalle condizioni considerate anziché dalla sola convenienza dell'impresa."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un preventivo per demolizioni e rimozioni è confrontabile quando descrive le parti interessate, il criterio di quantità, le attività accessorie e i limiti della proposta. Accessi, protezioni, movimentazione e gestione dei materiali possono cambiare il perimetro del lavoro. Prima di leggere il totale, occorre quindi controllare che le imprese abbiano valutato la stessa richiesta e conoscano le medesime condizioni."
+          },
+          {
+            "type": "p",
+            "text": "Questa guida riguarda la preparazione e la lettura dell'offerta. Non descrive tecniche di demolizione, non identifica quali elementi si possano rimuovere e non assegna classificazioni ai rifiuti. La valutazione dell'intervento, degli eventuali rischi, delle pratiche e delle responsabilità appartiene ai professionisti e agli operatori competenti. Il committente può contribuire raccogliendo documenti e formulando domande precise, senza avviare prove o rimozioni per completare il preventivo."
+          },
+          {
+            "type": "p",
+            "text": "La richiesta “quanto costa demolire il bagno?” lascia aperte molte interpretazioni. Può riferirsi soltanto a rivestimenti, oppure comprendere apparecchi, impianti, parti da verificare e ripristini. Una descrizione iniziale ordinata non elimina gli imprevisti, ma rende riconoscibile che cosa sia stato valutato. È anche la base per capire se una differenza di prezzo derivi dalle condizioni considerate anziché dalla sola convenienza dell'impresa."
+          }
+        ]
+      },
+      {
+        "id": "preparare-l-elenco-delle-parti-interessate",
+        "h2": "Preparare l'elenco delle parti interessate",
+        "paragraphs": [
+          "Dividi la richiesta per locale e per elemento, usando nomi comprensibili e fotografie di riferimento. Indica ciò che desideri modificare, senza qualificare autonomamente elementi strutturali o impiantistici. Una parete da valutare può essere descritta con la posizione e con i documenti disponibili; l'eventuale rimozione deve restare subordinata alle verifiche pertinenti. Non sostituire una valutazione tecnica con una nota ricavata da un annuncio immobiliare.",
+          "Mantieni distinguibili rimozione desiderata, decisione già verificata e soluzione ancora da esaminare. Se tutti gli elementi vengono presentati come certi, il fornitore potrebbe costruire un'offerta su presupposti mai confermati. Aggiungi quindi una colonna per lo stato dell'informazione e una per il riferimento al sopralluogo o all'elaborato. In assenza di documenti, la richiesta può esplicitare quali approfondimenti siano necessari prima di chiudere il perimetro.",
+          "Fotografie e disegni devono permettere di riconoscere gli ambienti senza esporre informazioni personali non necessarie. Un'etichetta semplice, come locale A e parete A1, può collegare elenco, immagine e domanda. Non occorre diffondere documenti dell'intero immobile a chi non ne abbia bisogno. Prepara una raccolta essenziale da condividere con gli interlocutori autorizzati e conserva separatamente gli originali ricevuti dal tecnico."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dividi la richiesta per locale e per elemento, usando nomi comprensibili e fotografie di riferimento. Indica ciò che desideri modificare, senza qualificare autonomamente elementi strutturali o impiantistici. Una parete da valutare può essere descritta con la posizione e con i documenti disponibili; l'eventuale rimozione deve restare subordinata alle verifiche pertinenti. Non sostituire una valutazione tecnica con una nota ricavata da un annuncio immobiliare."
+          },
+          {
+            "type": "p",
+            "text": "Mantieni distinguibili rimozione desiderata, decisione già verificata e soluzione ancora da esaminare. Se tutti gli elementi vengono presentati come certi, il fornitore potrebbe costruire un'offerta su presupposti mai confermati. Aggiungi quindi una colonna per lo stato dell'informazione e una per il riferimento al sopralluogo o all'elaborato. In assenza di documenti, la richiesta può esplicitare quali approfondimenti siano necessari prima di chiudere il perimetro."
+          },
+          {
+            "type": "p",
+            "text": "Fotografie e disegni devono permettere di riconoscere gli ambienti senza esporre informazioni personali non necessarie. Un'etichetta semplice, come locale A e parete A1, può collegare elenco, immagine e domanda. Non occorre diffondere documenti dell'intero immobile a chi non ne abbia bisogno. Prepara una raccolta essenziale da condividere con gli interlocutori autorizzati e conserva separatamente gli originali ricevuti dal tecnico."
+          }
+        ]
+      },
+      {
+        "id": "leggere-quantita-e-unita-senza-sommare-cose-diverse",
+        "h2": "Leggere quantità e unità senza sommare cose diverse",
+        "paragraphs": [
+          "Chiedi a che cosa corrispondano le quantità indicate e con quale unità siano espresse. Superficie, sviluppo lineare, volume ed elementi a numero descrivono basi differenti. Non confrontare direttamente due prezzi unitari se non riguardano la stessa lavorazione e lo stesso criterio. Anche una quantità uguale può nascondere un perimetro diverso quando un'offerta considera soltanto una finitura e l'altra include ulteriori strati da accertare.",
+          "Un esempio esclusivamente illustrativo: due imprese quotano la rimozione di un rivestimento dello stesso locale, ma una include anche il trattamento dello strato sottostante e l'altra lo esclude. La superficie uguale non rende omogenea la proposta. Prima di calcolare differenze chiedi come sia descritta la lavorazione completa. L'esempio non fornisce prezzi né spessori: mostra soltanto quali domande rendano leggibili le righe del preventivo.",
+          "Se l'offerta è a corpo, chiedi quali documenti e ipotesi definiscano il lavoro compreso. Se è a misura, chiarisci come verranno rilevate e concordate le quantità secondo il rapporto previsto. La guida al [confronto fra preventivo a corpo e a misura](https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/) aiuta a preparare il colloquio. Il nome della formula economica non sostituisce la descrizione delle attività e delle esclusioni."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chiedi a che cosa corrispondano le quantità indicate e con quale unità siano espresse. Superficie, sviluppo lineare, volume ed elementi a numero descrivono basi differenti. Non confrontare direttamente due prezzi unitari se non riguardano la stessa lavorazione e lo stesso criterio. Anche una quantità uguale può nascondere un perimetro diverso quando un'offerta considera soltanto una finitura e l'altra include ulteriori strati da accertare."
+          },
+          {
+            "type": "p",
+            "text": "Un esempio esclusivamente illustrativo: due imprese quotano la rimozione di un rivestimento dello stesso locale, ma una include anche il trattamento dello strato sottostante e l'altra lo esclude. La superficie uguale non rende omogenea la proposta. Prima di calcolare differenze chiedi come sia descritta la lavorazione completa. L'esempio non fornisce prezzi né spessori: mostra soltanto quali domande rendano leggibili le righe del preventivo."
+          },
+          {
+            "type": "p",
+            "text": "Se l'offerta è a corpo, chiedi quali documenti e ipotesi definiscano il lavoro compreso. Se è a misura, chiarisci come verranno rilevate e concordate le quantità secondo il rapporto previsto. La guida al [confronto fra preventivo a corpo e a misura](https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/) aiuta a preparare il colloquio. Il nome della formula economica non sostituisce la descrizione delle attività e delle esclusioni."
+          }
+        ]
+      },
+      {
+        "id": "distinguere-rimozione-movimentazione-e-uscita-dal-cantiere",
+        "h2": "Distinguere rimozione, movimentazione e uscita dal cantiere",
+        "paragraphs": [
+          "Una voce chiamata “demolizioni” non chiarisce automaticamente fino a quale passaggio arrivi il servizio. Chiedi se l'offerta descriva soltanto la lavorazione, la movimentazione interna, il caricamento e gli ulteriori servizi pertinenti. Non presumere che la parola “smaltimento” risolva ogni aspetto operativo e documentale. Il preventivo dovrebbe permettere di capire quali fasi siano comprese e quali richiedano conferma o un accordo distinto.",
+          "Per ciascuna fase identifica l'interlocutore che fornirà chiarimenti e documenti. Questo non equivale ad assegnare da soli le responsabilità previste dalla normativa: serve a evitare un vuoto commerciale nel quale ciascuno ritiene compresa un'attività affidata a qualcun altro. Chiedi all'impresa una descrizione riferita al caso e fai verificare gli aspetti pertinenti dal professionista. Le modalità effettive non possono essere ricavate da un modello editoriale generico.",
+          "Se una proposta comprende prestazioni di terzi, domanda come saranno identificate e coordinate nell'offerta. Una dicitura generica può restare insufficiente per confrontare due soluzioni. Il punto non è imporre una ripartizione artificiale del prezzo, ma riconoscere i servizi inclusi e le condizioni che li rendono possibili. L'elenco ordinato delle fasi permette inoltre di formulare una richiesta di integrazione senza riscrivere tutto il preventivo."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Una voce chiamata “demolizioni” non chiarisce automaticamente fino a quale passaggio arrivi il servizio. Chiedi se l'offerta descriva soltanto la lavorazione, la movimentazione interna, il caricamento e gli ulteriori servizi pertinenti. Non presumere che la parola “smaltimento” risolva ogni aspetto operativo e documentale. Il preventivo dovrebbe permettere di capire quali fasi siano comprese e quali richiedano conferma o un accordo distinto."
+          },
+          {
+            "type": "p",
+            "text": "Per ciascuna fase identifica l'interlocutore che fornirà chiarimenti e documenti. Questo non equivale ad assegnare da soli le responsabilità previste dalla normativa: serve a evitare un vuoto commerciale nel quale ciascuno ritiene compresa un'attività affidata a qualcun altro. Chiedi all'impresa una descrizione riferita al caso e fai verificare gli aspetti pertinenti dal professionista. Le modalità effettive non possono essere ricavate da un modello editoriale generico."
+          },
+          {
+            "type": "p",
+            "text": "Se una proposta comprende prestazioni di terzi, domanda come saranno identificate e coordinate nell'offerta. Una dicitura generica può restare insufficiente per confrontare due soluzioni. Il punto non è imporre una ripartizione artificiale del prezzo, ma riconoscere i servizi inclusi e le condizioni che li rendono possibili. L'elenco ordinato delle fasi permette inoltre di formulare una richiesta di integrazione senza riscrivere tutto il preventivo."
+          }
+        ]
+      },
+      {
+        "id": "documentare-gli-accessi-prima-del-confronto-economico",
+        "h2": "Documentare gli accessi prima del confronto economico",
+        "paragraphs": [
+          "Piano dell'immobile, collegamenti con l'esterno e spazi disponibili sono informazioni da condividere durante il sopralluogo. Descrivi le condizioni note, rimandando all'impresa la valutazione operativa e al tecnico le verifiche pertinenti. Non proporre autonomamente l'uso di un ascensore, di un balcone o di un'area comune come soluzione già autorizzata. La semplice presenza fisica di un percorso non dimostra che possa essere utilizzato per quel lavoro.",
+          "Segnala anche le condizioni da accertare con condominio, proprietà o altri soggetti interessati. Tieni distinti vincoli comunicati, autorizzazioni disponibili e possibilità ancora da verificare. Se le imprese costruiscono il preventivo su percorsi diversi, la differenza va resa visibile prima del confronto. Un'offerta può essere subordinata alla conferma dell'accesso: chiedi che questa condizione compaia in modo comprensibile insieme alle conseguenze commerciali da valutare.",
+          "La stessa attenzione serve per le consegne successive. La guida sulla [consegna dei materiali in cantiere](https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/) distingue trasporto, scarico e servizi accessori. Per demolizioni e rimozioni il flusso è diverso, ma resta utile evitare una descrizione nella quale ogni movimento venga riassunto in una sola parola. Accessi e attività devono essere collegati al perimetro della specifica proposta."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Piano dell'immobile, collegamenti con l'esterno e spazi disponibili sono informazioni da condividere durante il sopralluogo. Descrivi le condizioni note, rimandando all'impresa la valutazione operativa e al tecnico le verifiche pertinenti. Non proporre autonomamente l'uso di un ascensore, di un balcone o di un'area comune come soluzione già autorizzata. La semplice presenza fisica di un percorso non dimostra che possa essere utilizzato per quel lavoro."
+          },
+          {
+            "type": "p",
+            "text": "Segnala anche le condizioni da accertare con condominio, proprietà o altri soggetti interessati. Tieni distinti vincoli comunicati, autorizzazioni disponibili e possibilità ancora da verificare. Se le imprese costruiscono il preventivo su percorsi diversi, la differenza va resa visibile prima del confronto. Un'offerta può essere subordinata alla conferma dell'accesso: chiedi che questa condizione compaia in modo comprensibile insieme alle conseguenze commerciali da valutare."
+          },
+          {
+            "type": "p",
+            "text": "La stessa attenzione serve per le consegne successive. La guida sulla [consegna dei materiali in cantiere](https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/) distingue trasporto, scarico e servizi accessori. Per demolizioni e rimozioni il flusso è diverso, ma resta utile evitare una descrizione nella quale ogni movimento venga riassunto in una sola parola. Accessi e attività devono essere collegati al perimetro della specifica proposta."
+          }
+        ]
+      },
+      {
+        "id": "chiarire-protezioni-e-condizioni-della-casa",
+        "h2": "Chiarire protezioni e condizioni della casa",
+        "paragraphs": [
+          "Indica se l'immobile sarà vuoto, parzialmente utilizzato oppure interessato da altri lavori. Non trattare queste condizioni come un dettaglio da comunicare dopo la scelta dell'impresa. Le esigenze dell'intervento e la possibilità di utilizzare gli ambienti vanno valutate da chi organizza e segue il cantiere. Il preventivo può poi rendere esplicite le attività di protezione comprese e i limiti della proposta economica.",
+          "Per confrontare le offerte chiedi quali spazi siano considerati e quali operazioni siano descritte. Non basta una frase come “protezione delle parti comuni” se restano ignoti ambienti, fasi e ripristini. La guida alle [protezioni in una casa abitata](https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/) propone domande complementari. Qui non vengono definite misure di sicurezza o separazioni: si verifica che il servizio economico sia riconoscibile e coerente con le valutazioni pertinenti.",
+          "Anche pulizia intermedia e condizione di consegna dei locali meritano una descrizione. “Fine demolizione” può indicare passaggi diversi per committente e impresa. Chiedi quale risultato operativo verrà documentato prima della fase successiva, mantenendo distinte pulizia del lavoro, preparazione per nuove opere e pulizia finale della ristrutturazione. Questa distinzione evita di attribuire a una voce attività che il preventivo non ha effettivamente incluso."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Indica se l'immobile sarà vuoto, parzialmente utilizzato oppure interessato da altri lavori. Non trattare queste condizioni come un dettaglio da comunicare dopo la scelta dell'impresa. Le esigenze dell'intervento e la possibilità di utilizzare gli ambienti vanno valutate da chi organizza e segue il cantiere. Il preventivo può poi rendere esplicite le attività di protezione comprese e i limiti della proposta economica."
+          },
+          {
+            "type": "p",
+            "text": "Per confrontare le offerte chiedi quali spazi siano considerati e quali operazioni siano descritte. Non basta una frase come “protezione delle parti comuni” se restano ignoti ambienti, fasi e ripristini. La guida alle [protezioni in una casa abitata](https://www.rassegnaedile.it/costi/protezioni-cantiere-casa-abitata-preventivo/) propone domande complementari. Qui non vengono definite misure di sicurezza o separazioni: si verifica che il servizio economico sia riconoscibile e coerente con le valutazioni pertinenti."
+          },
+          {
+            "type": "p",
+            "text": "Anche pulizia intermedia e condizione di consegna dei locali meritano una descrizione. “Fine demolizione” può indicare passaggi diversi per committente e impresa. Chiedi quale risultato operativo verrà documentato prima della fase successiva, mantenendo distinte pulizia del lavoro, preparazione per nuove opere e pulizia finale della ristrutturazione. Questa distinzione evita di attribuire a una voce attività che il preventivo non ha effettivamente incluso."
+          }
+        ]
+      },
+      {
+        "id": "trattare-i-materiali-come-un-tema-da-pianificare",
+        "h2": "Trattare i materiali come un tema da pianificare",
+        "paragraphs": [
+          "L'identificazione e la gestione dei materiali non dovrebbero comparire soltanto come problema da risolvere quando le rimozioni sono già avviate. Chiedi quali informazioni preliminari servano agli operatori competenti e quali aspetti dell'offerta dipendano da accertamenti. Non assegnare codici o destinazioni sulla base di una fotografia. Se emergono materiali non riconosciuti o condizioni inattese, la decisione operativa richiede i soggetti competenti e le verifiche applicabili.",
+          "Il documento tecnico [ISPRA e sistema delle agenzie sul recupero dei rifiuti inerti](https://www.isprambiente.gov.it/files/snpa/consiglio-federale/Delibera89cfcriterieindirizzicondivisiperilrecuperodirifiutiinertieallegati.pdf) tratta anche organizzazione e separazione dei materiali nelle attività di costruzione e demolizione. È un riferimento tecnico del 2016, non una fonte sufficiente per stabilire oggi tutti gli adempimenti del singolo cantiere. Qui viene richiamato soltanto per inquadrare il tema della pianificazione, senza fornire istruzioni di trattamento o classificazione.",
+          "Nel preventivo chiedi una descrizione delle prestazioni considerate e delle condizioni ancora da verificare. Se viene promessa una destinazione di recupero o un risultato ambientale, domanda su quali informazioni e documenti si fondi. Non trasformare una possibilità in un dato già ottenuto. Una comunicazione accurata distingue ciò che si intende organizzare da ciò che potrà essere documentato dopo l'esecuzione pertinente."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "L'identificazione e la gestione dei materiali non dovrebbero comparire soltanto come problema da risolvere quando le rimozioni sono già avviate. Chiedi quali informazioni preliminari servano agli operatori competenti e quali aspetti dell'offerta dipendano da accertamenti. Non assegnare codici o destinazioni sulla base di una fotografia. Se emergono materiali non riconosciuti o condizioni inattese, la decisione operativa richiede i soggetti competenti e le verifiche applicabili."
+          },
+          {
+            "type": "p",
+            "text": "Il documento tecnico [ISPRA e sistema delle agenzie sul recupero dei rifiuti inerti](https://www.isprambiente.gov.it/files/snpa/consiglio-federale/Delibera89cfcriterieindirizzicondivisiperilrecuperodirifiutiinertieallegati.pdf) tratta anche organizzazione e separazione dei materiali nelle attività di costruzione e demolizione. È un riferimento tecnico del 2016, non una fonte sufficiente per stabilire oggi tutti gli adempimenti del singolo cantiere. Qui viene richiamato soltanto per inquadrare il tema della pianificazione, senza fornire istruzioni di trattamento o classificazione."
+          },
+          {
+            "type": "p",
+            "text": "Nel preventivo chiedi una descrizione delle prestazioni considerate e delle condizioni ancora da verificare. Se viene promessa una destinazione di recupero o un risultato ambientale, domanda su quali informazioni e documenti si fondi. Non trasformare una possibilità in un dato già ottenuto. Una comunicazione accurata distingue ciò che si intende organizzare da ciò che potrà essere documentato dopo l'esecuzione pertinente."
+          }
+        ]
+      },
+      {
+        "id": "riconoscere-le-esclusioni-che-cambiano-il-confronto",
+        "h2": "Riconoscere le esclusioni che cambiano il confronto",
+        "paragraphs": [
+          "Leggi insieme prezzo e note. Un'esclusione può riguardare opere non valutate, accertamenti, ripristini o condizioni di accesso. Non considerarla automaticamente una scorrettezza: può delimitare onestamente il perimetro. Diventa un problema di confronto quando un'offerta viene trattata come equivalente a un'altra che include attività differenti. Evidenzia dunque l'esclusione e chiedi che cosa serva per ottenere, quando possibile, una proposta allineata.",
+          "Per le lavorazioni ancora da definire, domanda come verrà formulata una nuova proposta e chi dovrà approvarla prima dell'esecuzione secondo gli accordi pertinenti. Non attribuire a una frase generica sull'imprevisto il valore di una regola economica completa. Il confronto deve consentire al committente di riconoscere una variazione, capire quale parte del lavoro coinvolga e ricevere le informazioni necessarie a discuterla con l'impresa e il tecnico.",
+          "Un riepilogo delle esclusioni è utile anche nella riunione iniziale. Riporta il riferimento alla voce e la domanda da chiudere, anziché una lista astratta di rischi. Per esempio: il ripristino della superficie dopo la rimozione appartiene a questa offerta o a una fase successiva? La risposta deve essere collegata al documento finale, così non resta soltanto nel ricordo della conversazione."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Leggi insieme prezzo e note. Un'esclusione può riguardare opere non valutate, accertamenti, ripristini o condizioni di accesso. Non considerarla automaticamente una scorrettezza: può delimitare onestamente il perimetro. Diventa un problema di confronto quando un'offerta viene trattata come equivalente a un'altra che include attività differenti. Evidenzia dunque l'esclusione e chiedi che cosa serva per ottenere, quando possibile, una proposta allineata."
+          },
+          {
+            "type": "p",
+            "text": "Per le lavorazioni ancora da definire, domanda come verrà formulata una nuova proposta e chi dovrà approvarla prima dell'esecuzione secondo gli accordi pertinenti. Non attribuire a una frase generica sull'imprevisto il valore di una regola economica completa. Il confronto deve consentire al committente di riconoscere una variazione, capire quale parte del lavoro coinvolga e ricevere le informazioni necessarie a discuterla con l'impresa e il tecnico."
+          },
+          {
+            "type": "p",
+            "text": "Un riepilogo delle esclusioni è utile anche nella riunione iniziale. Riporta il riferimento alla voce e la domanda da chiudere, anziché una lista astratta di rischi. Per esempio: il ripristino della superficie dopo la rimozione appartiene a questa offerta o a una fase successiva? La risposta deve essere collegata al documento finale, così non resta soltanto nel ricordo della conversazione."
+          }
+        ]
+      },
+      {
+        "id": "costruire-un-calendario-per-fasi-riconoscibili",
+        "h2": "Costruire un calendario per fasi riconoscibili",
+        "paragraphs": [
+          "Chiedi quali fasi siano rappresentate dalla durata comunicata: preparazione, lavorazioni, movimentazione, controlli e disponibilità per chi interviene dopo. Non confrontare direttamente una durata riferita a una sola attività con il calendario complessivo di un'altra offerta. Le dipendenze da verifiche e accessi dovrebbero restare visibili. Il programma diventa uno strumento utile quando permette di riconoscere i passaggi condizionanti e i soggetti che devono confermarli.",
+          "Se l'intervento coinvolge altri artigiani, registra quali informazioni debbano essere disponibili prima del loro ingresso. Non anticipare autonomamente lavorazioni per rispettare una data commerciale. Una modifica del perimetro può richiedere una revisione del calendario e delle condizioni dell'offerta. Per questo la scheda di confronto dovrebbe collegare tempi, ipotesi e documenti, lasciando separate le attività già concordate dalle possibili evoluzioni ancora da esaminare."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chiedi quali fasi siano rappresentate dalla durata comunicata: preparazione, lavorazioni, movimentazione, controlli e disponibilità per chi interviene dopo. Non confrontare direttamente una durata riferita a una sola attività con il calendario complessivo di un'altra offerta. Le dipendenze da verifiche e accessi dovrebbero restare visibili. Il programma diventa uno strumento utile quando permette di riconoscere i passaggi condizionanti e i soggetti che devono confermarli."
+          },
+          {
+            "type": "p",
+            "text": "Se l'intervento coinvolge altri artigiani, registra quali informazioni debbano essere disponibili prima del loro ingresso. Non anticipare autonomamente lavorazioni per rispettare una data commerciale. Una modifica del perimetro può richiedere una revisione del calendario e delle condizioni dell'offerta. Per questo la scheda di confronto dovrebbe collegare tempi, ipotesi e documenti, lasciando separate le attività già concordate dalle possibili evoluzioni ancora da esaminare."
+          }
+        ]
+      },
+      {
+        "id": "un-confronto-guidato-fra-due-descrizioni-di-offerta",
+        "h2": "Un confronto guidato fra due descrizioni di offerta",
+        "paragraphs": [
+          "Consideriamo due descrizioni inventate soltanto per leggere meglio le voci. La prima dice “rimozione rivestimenti del locale A”; la seconda dice “rimozione rivestimenti del locale A, movimentazione interna e pulizia della zona interessata”. Non possiamo concludere che la seconda sia completa né che la prima escluda ogni servizio accessorio: occorre chiedere chiarimenti. La diversa formulazione segnala informazioni da allineare, non una valutazione già conclusa della qualità delle imprese.",
+          "Prepara quindi tre domande uguali per entrambi: quali strati sono considerati, fino a quale punto viene descritto il percorso dei materiali e quale condizione viene lasciata al termine della fase? Aggiungi le eventuali condizioni di accesso richiamate durante il sopralluogo. Quando arrivano le risposte, riportale nella scheda con il riferimento alla nuova proposta. L'esempio dimostra perché il confronto debba avvenire sulle descrizioni prima che sui totali.",
+          "Se una parte non può ancora essere definita, rendila visibile in entrambe le offerte. Per esempio, una lavorazione dipendente da un accertamento può restare fuori dal perimetro confermato e avere un passaggio di verifica dedicato. La soluzione organizzativa deve essere concordata nel rapporto concreto. Il committente non dovrebbe trasformare l'incertezza in una quantità fittizia soltanto per riempire il foglio: è più utile sapere che cosa occorra per ottenere una risposta."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Consideriamo due descrizioni inventate soltanto per leggere meglio le voci. La prima dice “rimozione rivestimenti del locale A”; la seconda dice “rimozione rivestimenti del locale A, movimentazione interna e pulizia della zona interessata”. Non possiamo concludere che la seconda sia completa né che la prima escluda ogni servizio accessorio: occorre chiedere chiarimenti. La diversa formulazione segnala informazioni da allineare, non una valutazione già conclusa della qualità delle imprese."
+          },
+          {
+            "type": "p",
+            "text": "Prepara quindi tre domande uguali per entrambi: quali strati sono considerati, fino a quale punto viene descritto il percorso dei materiali e quale condizione viene lasciata al termine della fase? Aggiungi le eventuali condizioni di accesso richiamate durante il sopralluogo. Quando arrivano le risposte, riportale nella scheda con il riferimento alla nuova proposta. L'esempio dimostra perché il confronto debba avvenire sulle descrizioni prima che sui totali."
+          },
+          {
+            "type": "p",
+            "text": "Se una parte non può ancora essere definita, rendila visibile in entrambe le offerte. Per esempio, una lavorazione dipendente da un accertamento può restare fuori dal perimetro confermato e avere un passaggio di verifica dedicato. La soluzione organizzativa deve essere concordata nel rapporto concreto. Il committente non dovrebbe trasformare l'incertezza in una quantità fittizia soltanto per riempire il foglio: è più utile sapere che cosa occorra per ottenere una risposta."
+          }
+        ]
+      },
+      {
+        "id": "conservare-il-confronto-anche-dopo-la-scelta",
+        "h2": "Conservare il confronto anche dopo la scelta",
+        "paragraphs": [
+          "Una volta selezionata la proposta, conserva la versione usata e collega le integrazioni concordate. La scheda di confronto può diventare un indice dei chiarimenti: ambiente, voce, documento e domanda chiusa. Non deve restare un elenco parallelo che contraddice l'offerta finale. Se emerge una differenza, chiedi a quale documento fare riferimento secondo gli accordi e aggiorna i collegamenti senza cancellare la traccia della modifica.",
+          "Prima della fase successiva confronta ciò che l'offerta descriveva con la documentazione e le informazioni effettivamente disponibili. Non è un collaudo fai da te: è un modo per far emergere una domanda all'interlocutore competente, come la necessità di un chiarimento su un ripristino o sul perimetro rimasto aperto. Anche in chiusura usa fatti e riferimenti, evitando formule generiche che possono essere interpretate diversamente dalle parti."
+        ],
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Una volta selezionata la proposta, conserva la versione usata e collega le integrazioni concordate. La scheda di confronto può diventare un indice dei chiarimenti: ambiente, voce, documento e domanda chiusa. Non deve restare un elenco parallelo che contraddice l'offerta finale. Se emerge una differenza, chiedi a quale documento fare riferimento secondo gli accordi e aggiorna i collegamenti senza cancellare la traccia della modifica."
+          },
+          {
+            "type": "p",
+            "text": "Prima della fase successiva confronta ciò che l'offerta descriveva con la documentazione e le informazioni effettivamente disponibili. Non è un collaudo fai da te: è un modo per far emergere una domanda all'interlocutore competente, come la necessità di un chiarimento su un ripristino o sul perimetro rimasto aperto. Anche in chiusura usa fatti e riferimenti, evitando formule generiche che possono essere interpretate diversamente dalle parti."
+          }
+        ]
+      },
+      {
+        "id": "usare-la-scheda-di-confronto-in-una-riunione-concreta",
+        "h2": "Usare la scheda di confronto in una riunione concreta",
+        "paragraphs": [
+          "La [scheda per confrontare preventivi di demolizione](https://www.rassegnaedile.it/downloads/preventivo-demolizioni-quantita-accessi-materiali.csv) raccoglie ambiente, elemento, quantità, unità, inclusioni, accessi, materiali ed esclusioni. Non contiene prezzi o classificazioni preimpostati. Compilala partendo dalle offerte ricevute e lascia una domanda dove manca un'informazione. Per due imprese usa le stesse righe, senza forzare l'equivalenza quando le descrizioni rimangono differenti.",
+          "Alla fine della riunione collega ogni risposta al documento o alla conferma ricevuta. Le informazioni ancora aperte dovrebbero avere un interlocutore e un prossimo passaggio, non un valore presunto. Una buona scelta nasce da un perimetro leggibile: quali parti saranno interessate, quali servizi sono compresi e quali condizioni precedono la conferma. Il totale economico potrà così essere valutato insieme al lavoro che effettivamente rappresenta."
+        ],
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Informazione",
+              "Riferimento da raccogliere"
+            ],
+            "rows": [
+              [
+                "Ambiente",
+                "Da compilare con il documento o con la domanda pertinente"
+              ],
+              [
+                "Elemento da valutare",
+                "Da compilare con il documento o con la domanda pertinente"
+              ],
+              [
+                "Riferimento documento",
+                "Da compilare con il documento o con la domanda pertinente"
+              ],
+              [
+                "Quantità e fonte",
+                "Da compilare con il documento o con la domanda pertinente"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La [scheda per confrontare preventivi di demolizione](https://www.rassegnaedile.it/downloads/preventivo-demolizioni-quantita-accessi-materiali.csv) raccoglie ambiente, elemento, quantità, unità, inclusioni, accessi, materiali ed esclusioni. Non contiene prezzi o classificazioni preimpostati. Compilala partendo dalle offerte ricevute e lascia una domanda dove manca un'informazione. Per due imprese usa le stesse righe, senza forzare l'equivalenza quando le descrizioni rimangono differenti."
+          },
+          {
+            "type": "p",
+            "text": "Alla fine della riunione collega ogni risposta al documento o alla conferma ricevuta. Le informazioni ancora aperte dovrebbero avere un interlocutore e un prossimo passaggio, non un valore presunto. Una buona scelta nasce da un perimetro leggibile: quali parti saranno interessate, quali servizi sono compresi e quali condizioni precedono la conferma. Il totale economico potrà così essere valutato insieme al lavoro che effettivamente rappresenta."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Due prezzi al metro quadrato sono direttamente confrontabili?",
+        "a": "Solo dopo aver verificato lavorazione, criterio di quantità e perimetro. Una superficie uguale può riferirsi ad attività e inclusioni diverse."
+      },
+      {
+        "q": "La parola smaltimento descrive tutti i servizi?",
+        "a": "Chiedi quali fasi operative e prestazioni siano considerate e quali condizioni e documenti richiedano verifica nel caso concreto."
+      },
+      {
+        "q": "La scheda stabilisce cosa si può demolire?",
+        "a": "No. Serve a organizzare il confronto economico. Valutazioni tecniche, sicurezza, pratiche e gestione dei rifiuti competono ai soggetti pertinenti."
+      }
+    ],
+    "related": [
+      "preventivo-corpo-misura-confronto-costi",
+      "protezioni-cantiere-casa-abitata-preventivo",
+      "consegna-materiali-cantiere-costi-servizi"
+    ],
+    "tags": [
+      "preventivi",
+      "ristrutturazione",
+      "demolizioni"
+    ]
+  },
+  {
     "slug": "protezioni-cantiere-casa-abitata-preventivo",
     "title": "Protezioni in un cantiere con casa abitata: cosa chiarire nel preventivo",
     "metaTitle": "Protezioni cantiere in casa abitata: preventivo",

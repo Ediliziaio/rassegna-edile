@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Preventivo demolizioni: quantità, accessi e gestione dei materiali</title>
+      <link>https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/</guid>
+      <description>Come confrontare preventivi per demolizioni e rimozioni: quantità, accessi, protezioni, materiali ed esclusioni. Una scheda CSV senza prezzi presunti.</description>
+      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
+      <category>costi</category>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Consegna dei materiali in cantiere: costi, servizi e condizioni da chiarire</title>
       <link>https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/</link>
@@ -178,15 +187,6 @@
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>impianti</category>
       <pubDate>Sat, 20 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ristrutturare casa: da dove iniziare? Metodo, budget e ordine dei lavori</title>
-      <link>https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/ristrutturazioni/ristrutturare-casa-da-dove-iniziare/</guid>
-      <description>Ristrutturare casa da dove iniziare: budget, priorità, professionisti, pratiche e ordine dei lavori. Il metodo passo passo per non sbagliare.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>ristrutturazioni</category>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

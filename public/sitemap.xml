@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -60,6 +60,17 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/preventivo-demolizioni-quantita-accessi-materiali.webp</image:loc>
+      <image:title>Preventivo demolizioni: quantità, accessi e gestione dei materiali</image:title>
+      <image:caption>Scena illustrativa generata con IA: stanza prima della ristrutturazione e documenti per il confronto dei preventivi. La copertina originale generata con intelligenza artificiale mostra una scena illustrativa di pianificazione. Non documenta un cantiere reale né rappresenta una procedura di demolizione.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/consegna-materiali-cantiere-costi-servizi/</loc>

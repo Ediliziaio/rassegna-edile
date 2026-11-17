@@ -16,6 +16,11 @@
       "href": "/costi/consegna-materiali-cantiere-costi-servizi/",
       "title": "Consegna dei materiali in cantiere",
       "description": "Distingui trasporto, scarico, accesso e servizi aggiuntivi con la scheda di confronto."
+    },
+    {
+      "href": "/costi/preventivo-demolizioni-quantita-accessi-materiali/",
+      "title": "Preventivo demolizioni: quantità, accessi e materiali",
+      "description": "Come confrontare preventivi per demolizioni e rimozioni: quantità, accessi, protezioni, materiali ed esclusioni. Una scheda CSV senza prezzi presunti."
     }
   ]
 }
