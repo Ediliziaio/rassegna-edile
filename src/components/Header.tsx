@@ -99,7 +99,7 @@ export default function Header() {
         aria-label="Categorie principali"
         className="border-t border-border bg-card"
       >
-        <div className="mx-auto flex max-w-7xl items-center px-4">
+        <div className="mx-auto flex min-w-0 max-w-7xl flex-wrap items-center px-4">
           <button
             className="font-sans mr-3 flex h-11 items-center gap-1.5 text-sm font-semibold text-primary md:hidden"
             onClick={() => setOpen(!open)}
@@ -119,7 +119,7 @@ export default function Header() {
             id="main-menu"
             className={`${
               open ? "flex" : "hidden"
-            } w-full flex-col gap-0 py-2 md:flex md:flex-row md:items-center md:gap-1 md:py-0`}
+            } min-w-0 w-full flex-col gap-0 py-2 md:flex md:flex-row md:flex-wrap md:items-center md:gap-1 md:py-0`}
           >
             <li>
               <NavLink
