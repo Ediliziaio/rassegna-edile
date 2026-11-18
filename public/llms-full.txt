@@ -1178,7 +1178,7 @@ Chiedi di rendere esplicita la sequenza e le prestazioni associate. Prima indivi
 - URL: https://www.rassegnaedile.it/costi/preventivo-corpo-misura-confronto-costi/
 - Categoria: costi
 - Autore: Redazione Rassegna Edile (Redazione)
-- Pubblicato: 2026-11-07 · Aggiornato: 2026-11-08
+- Pubblicato: 2026-11-07 · Aggiornato: 2026-11-18
 - Keyword principale: preventivo a corpo o a misura
 
 **In sintesi:** Confronta preventivi a corpo e a misura con quantità, unità, inclusioni e ipotesi esplicite. Esempio illustrativo e tabella di controllo.
@@ -1302,6 +1302,8 @@ Il confronto diventa più solido quando parte da una richiesta comune. Prima di 
 Nella richiesta distingui la soluzione di riferimento dalle alternative ammesse. Puoi chiedere un’offerta sulla base comune e, separatamente, una proposta diversa da valutare con il tecnico. Questo permette di confrontare il perimetro iniziale senza perdere le opzioni migliorative. Una sostituzione non evidenziata, invece, può far apparire più conveniente un totale che riguarda materiali o attività differenti rispetto alle altre risposte.
 
 Organizza i chiarimenti in un elenco condiviso con i soggetti interessati. Se una domanda modifica la descrizione della lavorazione, aggiorna il riferimento comune invece di lasciare l’informazione in una telefonata con una sola impresa. Il foglio di confronto dovrebbe rimandare alla risposta effettivamente ricevuta, mantenendo separati il testo dell’offerta e la tua sintesi interna. In questo modo una casella riassuntiva non viene scambiata per una nuova condizione già confermata.
+
+Per chi prepara le offerte all’interno dell’impresa, il tempo dedicato ai preventivi è anche un tema di organizzazione commerciale. La guida al costo di acquisizione di un cliente B2B affronta questa prospettiva, distinta dal confronto dei prezzi richiesto dal committente.
 
 Il confronto diventa più solido quando parte da una richiesta comune. Prima di inviarla, raccogli gli elaborati pertinenti e prepara un elenco degli allegati con data e revisione. Chiedi a ogni impresa di indicare quali documenti abbia utilizzato per formulare l’offerta. Se una proposta si basa su informazioni diverse, la differenza deve rimanere visibile fino al chiarimento. Non basta che tutte le offerte riportino lo stesso indirizzo dell’intervento.
 
@@ -6207,7 +6209,7 @@ Il PVC bianco massiccio resta il più stabile nel tempo perché assorbe meno cal
 - URL: https://www.rassegnaedile.it/ristrutturazioni/ristrutturazione-chiavi-in-mano-guida/
 - Categoria: ristrutturazioni
 - Autore: Redazione Rassegna Edile (Redazione tecnica)
-- Pubblicato: 2026-05-07
+- Pubblicato: 2026-05-07 · Aggiornato: 2026-11-18
 - Keyword principale: ristrutturazione chiavi in mano
 
 **In sintesi:** La ristrutturazione chiavi in mano è un appalto in cui un'unica impresa gestisce progettazione, pratiche, cantiere e consegna finale. Il committente riceve l'immobile pronto all'uso. I costi indicativi vanno da 700 a 1.500 euro al mq per ristrutturazioni complete, con tempi medi di 3-6 mesi per un appartamento di 100 mq.
@@ -6355,6 +6357,8 @@ Gli imprevisti più frequenti nelle ristrutturazioni di edifici datati sono: tub
 La procedura corretta prevede tre passaggi: sospensione della lavorazione interessata, verbale di constatazione firmato da impresa e direttore lavori con foto e descrizione, preventivo di variante con prezzo e impatto sui tempi approvato per iscritto dal committente prima della ripresa. Le varianti eseguite senza autorizzazione scritta sono la prima causa di contenzioso: il contratto deve disciplinare questo meccanismo fin dall'inizio.
 
 Alcuni ordini di grandezza utili per valutare le varianti: la rimozione di pavimenti in cemento-amianto compatto costa indicativamente 15-30 euro al mq con smaltimento autorizzato; il rifacimento di un sottofondo degradato 25-45 euro al mq; la bonifica di tubazioni in piombo rientra normalmente nel rifacimento già previsto dell'impianto. La rimozione di amianto friabile, molto più costosa e soggetta a procedura dedicata con notifica alla ASL, richiede imprese specializzate iscritte all'Albo Gestori Ambientali.
+
+Se il confronto con l’impresa è già diventato una contestazione, la guida su quanto costa fare causa al costruttore distingue le voci da discutere con il legale prima di decidere come procedere.
 
 ### Domande frequenti
 

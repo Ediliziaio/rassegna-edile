@@ -10,7 +10,7 @@
     "author": "Redazione Rassegna Edile",
     "authorRole": "Redazione tecnica",
     "publishedAt": "2026-05-07",
-    "updatedAt": "2026-05-07",
+    "updatedAt": "2026-11-18",
     "heroAlt": "Cantiere di ristrutturazione chiavi in mano di un appartamento con impresa edile al lavoro",
     "pillar": true,
     "sections": [
@@ -197,10 +197,23 @@
       {
         "id": "gestione-imprevisti",
         "h2": "Come si gestiscono gli imprevisti in corso d'opera?",
-        "paragraphs": [
-          "Gli imprevisti più frequenti nelle ristrutturazioni di edifici datati sono: tubazioni in piombo o cemento-amianto, pavimenti contenenti amianto in matrice compatta, impianti elettrici privi di messa a terra, umidità di risalita non rilevabile prima delle demolizioni, solai o travi in condizioni peggiori del previsto. La probabilità cresce con l'età dell'edificio: negli immobili anteriori agli anni Settanta va considerata quasi fisiologica.",
-          "La procedura corretta prevede tre passaggi: sospensione della lavorazione interessata, verbale di constatazione firmato da impresa e direttore lavori con foto e descrizione, preventivo di variante con prezzo e impatto sui tempi approvato per iscritto dal committente prima della ripresa. Le varianti eseguite senza autorizzazione scritta sono la prima causa di contenzioso: il contratto deve disciplinare questo meccanismo fin dall'inizio.",
-          "Alcuni ordini di grandezza utili per valutare le varianti: la rimozione di pavimenti in cemento-amianto compatto costa indicativamente 15-30 euro al mq con smaltimento autorizzato; il rifacimento di un sottofondo degradato 25-45 euro al mq; la bonifica di tubazioni in piombo rientra normalmente nel rifacimento già previsto dell'impianto. La rimozione di amianto friabile, molto più costosa e soggetta a procedura dedicata con notifica alla ASL, richiede imprese specializzate iscritte all'Albo Gestori Ambientali."
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Gli imprevisti più frequenti nelle ristrutturazioni di edifici datati sono: tubazioni in piombo o cemento-amianto, pavimenti contenenti amianto in matrice compatta, impianti elettrici privi di messa a terra, umidità di risalita non rilevabile prima delle demolizioni, solai o travi in condizioni peggiori del previsto. La probabilità cresce con l'età dell'edificio: negli immobili anteriori agli anni Settanta va considerata quasi fisiologica."
+          },
+          {
+            "type": "p",
+            "text": "La procedura corretta prevede tre passaggi: sospensione della lavorazione interessata, verbale di constatazione firmato da impresa e direttore lavori con foto e descrizione, preventivo di variante con prezzo e impatto sui tempi approvato per iscritto dal committente prima della ripresa. Le varianti eseguite senza autorizzazione scritta sono la prima causa di contenzioso: il contratto deve disciplinare questo meccanismo fin dall'inizio."
+          },
+          {
+            "type": "p",
+            "text": "Alcuni ordini di grandezza utili per valutare le varianti: la rimozione di pavimenti in cemento-amianto compatto costa indicativamente 15-30 euro al mq con smaltimento autorizzato; il rifacimento di un sottofondo degradato 25-45 euro al mq; la bonifica di tubazioni in piombo rientra normalmente nel rifacimento già previsto dell'impianto. La rimozione di amianto friabile, molto più costosa e soggetta a procedura dedicata con notifica alla ASL, richiede imprese specializzate iscritte all'Albo Gestori Ambientali."
+          },
+          {
+            "type": "p",
+            "text": "Se il confronto con l’impresa è già diventato una contestazione, la guida su [quanto costa fare causa al costruttore](/costi/quanto-costa-causa-costruttore/) distingue le voci da discutere con il legale prima di decidere come procedere."
+          }
         ]
       }
     ],

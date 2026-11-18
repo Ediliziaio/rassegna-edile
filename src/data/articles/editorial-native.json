@@ -1748,7 +1748,7 @@
     "author": "Redazione Rassegna Edile",
     "authorRole": "Redazione",
     "publishedAt": "2026-11-07",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-18",
     "heroAlt": "Schema illustrativo: Preventivo a corpo o a misura: confronto costi",
     "sections": [
       {
@@ -1962,6 +1962,10 @@
           {
             "type": "p",
             "text": "Organizza i chiarimenti in un elenco condiviso con i soggetti interessati. Se una domanda modifica la descrizione della lavorazione, aggiorna il riferimento comune invece di lasciare l’informazione in una telefonata con una sola impresa. Il foglio di confronto dovrebbe rimandare alla risposta effettivamente ricevuta, mantenendo separati il testo dell’offerta e la tua sintesi interna. In questo modo una casella riassuntiva non viene scambiata per una nuova condizione già confermata."
+          },
+          {
+            "type": "p",
+            "text": "Per chi prepara le offerte all’interno dell’impresa, il tempo dedicato ai preventivi è anche un tema di organizzazione commerciale. La guida al [costo di acquisizione di un cliente B2B](/costi/costo-acquisizione-cliente-b2b-edilizia/) affronta questa prospettiva, distinta dal confronto dei prezzi richiesto dal committente."
           }
         ],
         "paragraphs": [
