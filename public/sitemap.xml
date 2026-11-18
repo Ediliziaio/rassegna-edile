@@ -9,7 +9,7 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/ristrutturazioni/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/serramenti-infissi/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -60,6 +60,28 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/serramenti-infissi/infissi-e-living-avvolgibili-persiane-zanzariere/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/infissi-e-living-avvolgibili-persiane-zanzariere.webp</image:loc>
+      <image:title>Infissi e Living: avvolgibili, persiane e zanzariere per la casa</image:title>
+      <image:caption>Finestre con persiana e avvolgibile: immagine AI illustrativa, non una realizzazione Infissi e Living. Immagine originale generata con AI a scopo illustrativo. Non rappresenta lo showroom o un intervento reale dell’azienda.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/ristrutturazioni/il-bagno-group-progetto-bagno-doccia/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/il-bagno-group-progetto-bagno-doccia.webp</image:loc>
+      <image:title>Il Bagno Group: scegliere doccia, mobili e sanitari per rinnovare il bagno</image:title>
+      <image:caption>Bagno con doccia e mobile compatto: immagine originale AI illustrativa, non una realizzazione di Il Bagno Group. Immagine originale generata con AI a scopo illustrativo. Non rappresenta lo showroom o un intervento reale dell’azienda.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/cr-lodi-serramenti-pavimenti-arredo-bagno/</loc>
