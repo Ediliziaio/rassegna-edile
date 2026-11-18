@@ -5,9 +5,18 @@
     <link>https://www.rassegnaedile.it/</link>
     <description>Prezzi, costi e guide tecniche per l'edilizia italiana: quanto costano ristrutturazioni, serramenti, impianti, isolamento e fotovoltaico.</description>
     <language>it-it</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://www.rassegnaedile.it/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>CR Lodi: serramenti, pavimenti e arredo bagno a Lodi</title>
+      <link>https://www.rassegnaedile.it/materiali-costruzione/cr-lodi-serramenti-pavimenti-arredo-bagno/</link>
+      <guid isPermaLink="true">https://www.rassegnaedile.it/materiali-costruzione/cr-lodi-serramenti-pavimenti-arredo-bagno/</guid>
+      <description>Giuseppe Cinnirella e CR Lodi: visita lo showroom di Cornegliano Laudense per scegliere serramenti, pavimenti e arredo bagno.</description>
+      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
+      <category>materiali-costruzione</category>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Preventivo demolizioni: quantità, accessi e gestione dei materiali</title>
       <link>https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/</link>
@@ -177,15 +186,6 @@
       <description>Come fare la manutenzione dei pannelli solari: pulizia, controlli periodici, costi medi e errori da evitare per mantenere alta la resa dell'impianto.</description>
       <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
       <category>efficienza-energetica</category>
-      <pubDate>Sat, 20 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Domotica e casa intelligente: guida a sistemi, costi e automazioni che contano davvero</title>
-      <link>https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/</link>
-      <guid isPermaLink="true">https://www.rassegnaedile.it/impianti/domotica-casa-intelligente-guida/</guid>
-      <description>Domotica per la casa: KNX, wireless e stand-alone a confronto, cosa automatizzare, costi per livello, risparmio energetico e fotovoltaico.</description>
-      <author>redazione@rassegnaedile.it (Redazione Rassegna Edile)</author>
-      <category>impianti</category>
       <pubDate>Sat, 20 Jun 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>

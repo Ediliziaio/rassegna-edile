@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.rassegnaedile.it/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/materiali-costruzione/</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -60,6 +60,17 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rassegnaedile.it/materiali-costruzione/cr-lodi-serramenti-pavimenti-arredo-bagno/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rassegnaedile.it/images/articles/cr-lodi-serramenti-pavimenti-arredo-bagno.webp</image:loc>
+      <image:title>CR Lodi: serramenti, pavimenti e arredo bagno a Lodi</image:title>
+      <image:caption>Ambiente illustrativo con campioni per la casa. Immagine originale generata con AI a scopo illustrativo: non rappresenta lo showroom o un intervento dell’azienda.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.rassegnaedile.it/costi/preventivo-demolizioni-quantita-accessi-materiali/</loc>
